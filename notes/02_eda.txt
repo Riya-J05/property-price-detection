@@ -1,0 +1,175 @@
+UNIVARIATE ANALYSIS
+
+1. Numerical cols
+- area_sqft
+    - extremely right-skewed
+    - a large number of outliers
+    - approx peak btw 0-5000 sqft
+
+- bedrooms
+    - could be characterized as categorical
+    - most of the properties have 2 or 3 bedrooms
+    - 5-6 bedrooms are considered outliers
+    - peaks at 2 bedrooms per property
+
+- bathrooms
+    - again, could be categorical
+    - most of the properties have 2 or 3 bathrooms
+    - no outliers in boxplot!
+    - peaks at 2 bathrooms per property
+
+- age_years
+    - right-skewed distribution
+    - ages above 38 (approx) are considered outliers
+    - approx peak btw 8-12 years
+
+- floor
+    - slighlty right-skewed distribution
+    - 2 outliers -> above 22 floors (approx)
+    - approx peak around 0th floor (ground floor)
+
+- total_floors
+    - has three small peaks approx the same height
+    - no outlier in boxplot
+
+- distance_to_metro_km
+    - extremely right-skewed
+    - a lot of outliers in the boxplot
+    - outliers start after 5 km (approx)
+    - peaks around 1 km (approx)
+
+- nearby_schools
+    - could be categorical, but maybe has too many categories
+    - 3 outliers -> all after 6 nearby schools
+    - peaks around 2 nearby schools
+
+- monthly_maintenance_inr
+    - extremely right-skewed data
+    - too many outliers in the boxplot
+    - outliers start after 10,000-12,000 inr (approx)
+    - peaks btw 0-10,000 inr (approx)
+
+
+
+2. Categorical cols
+- property_type 
+    - (MAJORITY) apartment: 58% (approx)
+    - builder floor: 31% (approx)
+    - independent house: 10% (approx)
+
+- location
+    - (MAJORITY) rohini: 18.6%
+    - noida and dwarka tied up: 14.4% (approx)
+
+- parking
+    - (MAJORITY) yes: 66%
+    - no: 34%
+
+- furnishing
+    - (MAJORITY) semi-furnished: 48.5%
+    - unfurnished: 32.1%
+    - fully-furnished: 19.4%
+
+- has_gym
+    - (MAJORITY) no: 53.8%
+    - yes: 46.2%
+
+- has_security
+    - (MAJORITY) yes: 82% (approx)
+    - no: 18% (approx)
+
+
+
+
+BIVARIATE ANALYSIS
+
+Numerical cols vs price_lakhs
+- area_sqft 
+    - it has a positive relationship w price_lakhs
+    - properties with larger areas generally have higher prices
+    - However, a few extreme area values (approximately 15,000–25,000 sq. ft.) do not follow the overall trend and may influence the regression line!!!
+
+- bedrooms 
+    - positive increasing relationship w price_lakhs
+    - Properties with more bedrooms tend to have higher prices
+
+- bathrooms
+    - positive increasing relationship w price_lakhs
+
+- age_years
+    - weak negative relationship w price_lakhs
+    - prices descrease a bit downward as property age increases
+
+- floor
+    - weak neutral relationship
+    - a slight positive relationship
+    - floor alone does not appear to explain much of the variation in property prices, although it may provide useful information when combined with other features!
+    
+- total_floors
+    - very weak neutral relationship
+    - regression line is almost flat
+
+- distance_to_metro_km
+    - slighlty negative relationship w price_lakhs
+    - However, prices vary considerably at similar distances, and the scatter plot does not show a strong, consistent trend!
+
+- nearby_schools
+    - weak positive relationship w price_lakhs
+    - The regression line is nearly flat, with at most a slight positive trend!
+
+- monthly_maintenance_inr
+    - Relationship affected by extreme values!!
+    - Most properties have relatively low maintenance costs, 
+    while a few observations have extremely high values (approximately ₹75,000–₹150,000). 
+    - These extreme values stretch the plot and strongly influence the fitted regression line, 
+    making the overall relationship difficult to interpret reliably!
+
+
+
+Categorical cols vs price_lakhs
+- property_type
+    - Independent houses have the highest mean price, 
+    followed by builder floors and apartments.
+    - Apartments have a slightly lower median price than builder floors.
+    - The distributions overlap considerably, and all three categories 
+    contain high-price outliers!
+
+- location
+    - Paschim Vihar and Gurugram appear to have the highest mean prices in these plots.
+    - Rohini and Uttam Nagar appear relatively less expensive on average.
+    
+- parking
+    - Properties with parking have a slightly higher mean price than properties 
+    without parking.
+    - Their medians and interquartile ranges are fairly similar!
+    - Both groups contain high-price outliers.
+
+- furnishing
+    - Fully furnished properties have the highest mean price, then
+    Semi-furnished and unfurnished.
+    - The boxplots also suggest a generally higher median price for 
+    fully furnished properties!
+
+- has_gym
+    - Properties with gym have a slightly higher mean price than properties 
+    without gym.
+    - Their medians and interquartile ranges are fairly similar!
+    - Both groups contain high-price outliers.
+
+- has_security
+    - Properties with security have a slightly higher mean price than those without security.
+    - Their median prices are relatively close, and the distributions overlap considerably.
+    - Both groups have high-price outliers.
+
+
+
+MULTIVARIATE ANALYSIS
+relation with target col -> price_lakhs
+- area_sqft: positive relation (0.46)
+- bedrooms: strongly positive relation (0.79)
+- bathrooms: slightly positive relation (0.70)
+- age_years: slightly negative relation (-0.10)
+- floor, total_floors: neutral relation (approx 0.02)
+- distance_to_metro_km: weak negative relation (-0.04)
+- nearby_schools: weak neutral relation (0.05)
+- monthly_maintenance_inr: slightly positive relation (0.20)

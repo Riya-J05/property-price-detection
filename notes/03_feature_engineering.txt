@@ -1,0 +1,22 @@
+Do transformations on data after train_test_split!!
+-> To avoid data leakage!!
+
+Numerical cols
+- area_sqft: SimpleImputer(`median`), RobustScaler
+- bedrooms: StandardScaler
+- bathrooms: SimpleImputer(`median`), StandardScaler
+- age_years: SimpleImputer(`median`), StandardScaler
+- floor: StandardScaler
+- total_floors: StandardScaler
+- distance_to_metro_km: SimpleImputer(`median`), RobustScaler
+- nearby_schools: StandardScaler
+- monthly_maintenance_inr: SimpleImputer(`median`), RobustScaler
+
+
+Categorical cols
+- property_type: ohe
+- location: ohe 
+- parking: ohe
+- furnishing: SimpleImputer, ohe
+- has_gym: SimpleImputer, ohe
+- has_security: ohe

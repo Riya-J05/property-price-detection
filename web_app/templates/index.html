@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Value Estimator | ML-Powered Valuation</title>
+    <!-- Google Fonts: Modern sans-serif + Editorial luxury serif for italics -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+
+    <!-- Minimal Top Brand Bar -->
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="brand">
+                <span class="brand-symbol">◆</span>
+                <span class="brand-name">Valuation<span class="brand-accent">AI</span></span>
+            </div>
+            <div class="header-badge">
+                <span class="pulse-dot"></span>
+                <span>Fitted ML Pipeline Active</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <!-- Premium Dark Hero Section -->
+        <section class="hero-section">
+            <div class="hero-grid">
+                <!-- Left: Hero Headline & Subtitle -->
+                <div class="hero-text-col">
+                    <p class="hero-eyebrow">Machine Learning Real Estate Valuation</p>
+                    <h1 class="hero-title">
+                        Find your property's <br>
+                        <span class="hero-italic">estimated value.</span>
+                    </h1>
+                    <p class="hero-description">
+                        Instant, data-driven property pricing powered by a trained scikit-learn regression pipeline. Real transformations, standard scaling, and one-hot encoding calculate fair market rates in seconds.
+                    </p>
+
+                    <!-- Quick Preset Selectors for Easy Testing -->
+                    <div class="preset-container">
+                        <span class="preset-label">Quick Test Presets:</span>
+                        <div class="preset-buttons">
+                            <button type="button" class="preset-btn active" id="preset-notebook">
+                                Rohini 2 BHK (Baseline)
+                            </button>
+                            <button type="button" class="preset-btn" id="preset-gurugram">
+                                Gurugram 3 BHK Builder
+                            </button>
+                            <button type="button" class="preset-btn" id="preset-villa">
+                                Dwarka 4 BHK House
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right: Architectural Image with Floating Overlay Card -->
+                <div class="hero-image-col">
+                    <div class="image-wrapper">
+                        <img src="../static/hero_property.jpg" alt="Modern luxury architectural property at twilight" class="hero-img">
+                        <!-- Floating Glassmorphic Pill (Inspired by reference screenshot) -->
+                        <div class="floating-stat-card">
+                            <div class="stat-content">
+                                <span class="stat-tag">Trained Target</span>
+                                <span class="stat-value">Price in Lakhs (₹)</span>
+                                <span class="stat-sub">LinearRegression • 15 Features</span>
+                            </div>
+                            <div class="stat-icon-circle">
+                                <span>↗</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Warm Off-White Estimator Form Section -->
+        <section class="estimator-section">
+            <div class="estimator-container">
+                <div class="form-header">
+                    <h2 class="section-title">Property Parameters</h2>
+                    <p class="section-subtitle">Enter property characteristics below. All 15 features are passed into the fitted pipeline.</p>
+                </div>
+
+                <!-- Live Notification / Error Banner -->
+                <div id="error-banner" class="alert-banner hidden" role="alert">
+                    <span class="alert-icon">⚠️</span>
+                    <span id="error-message" class="alert-text"></span>
+                </div>
+
+                <!-- Valuation Form -->
+                <form id="price-form" class="valuation-form" novalidate>
+                    <div class="form-grid">
+                        
+                        <!-- Group 1: Basic Specifications -->
+                        <fieldset class="form-group-card">
+                            <legend class="group-legend">
+                                <span class="legend-num">01</span>
+                                <span class="legend-title">Property Basics</span>
+                            </legend>
+
+                            <div class="card-fields-grid">
+                                <div class="field-item col-span-2">
+                                    <label for="property_type">Property Type</label>
+                                    <select id="property_type" name="property_type" required>
+                                        <option value="apartment" selected>Apartment</option>
+                                        <option value="builder floor">Builder Floor</option>
+                                        <option value="independent house">Independent House</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="area_sqft">Area (sq. ft.)</label>
+                                    <input type="number" id="area_sqft" name="area_sqft" value="1200" min="300" max="30000" step="10" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="age_years">Property age (years)</label>
+                                    <input type="number" id="age_years" name="age_years" value="5" min="0" max="100" step="1" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="bedrooms">Bedrooms</label>
+                                    <input type="number" id="bedrooms" name="bedrooms" value="2" min="1" max="10" step="1" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="bathrooms">Bathrooms</label>
+                                    <input type="number" id="bathrooms" name="bathrooms" value="2" min="1" max="8" step="1" required>
+                                </div>
+                            </div>
+                        </fieldset>
+
+                        <!-- Group 2: Location & Building Details -->
+                        <fieldset class="form-group-card">
+                            <legend class="group-legend">
+                                <span class="legend-num">02</span>
+                                <span class="legend-title">Location & Floor</span>
+                            </legend>
+
+                            <div class="card-fields-grid">
+                                <div class="field-item col-span-2">
+                                    <label for="location">Location</label>
+                                    <select id="location" name="location" required>
+                                        <option value="dwarka">Dwarka</option>
+                                        <option value="gurugram">Gurugram</option>
+                                        <option value="janakpuri">Janakpuri</option>
+                                        <option value="noida">Noida</option>
+                                        <option value="paschim vihar">Paschim Vihar</option>
+                                        <option value="pitampura">Pitampura</option>
+                                        <option value="rohini" selected>Rohini</option>
+                                        <option value="uttam nagar">Uttam Nagar</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="distance_to_metro_km">Metro distance (km)</label>
+                                    <input type="number" id="distance_to_metro_km" name="distance_to_metro_km" value="1.2" min="0.1" max="30" step="0.1" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="nearby_schools">Nearby schools</label>
+                                    <input type="number" id="nearby_schools" name="nearby_schools" value="3" min="0" max="20" step="1" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="floor">Property floor</label>
+                                    <input type="number" id="floor" name="floor" value="3" min="0" max="60" step="1" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="total_floors">Total building floors</label>
+                                    <input type="number" id="total_floors" name="total_floors" value="4" min="1" max="60" step="1" required>
+                                </div>
+                            </div>
+                        </fieldset>
+
+                        <!-- Group 3: Amenities & Furnishing -->
+                        <fieldset class="form-group-card">
+                            <legend class="group-legend">
+                                <span class="legend-num">03</span>
+                                <span class="legend-title">Amenities & Furnishing</span>
+                            </legend>
+
+                            <div class="card-fields-grid">
+                                <div class="field-item col-span-2">
+                                    <label for="furnishing">Furnishing status</label>
+                                    <select id="furnishing" name="furnishing" required>
+                                        <option value="fully-furnished">Fully Furnished</option>
+                                        <option value="semi-furnished" selected>Semi-Furnished</option>
+                                        <option value="unfurnished">Unfurnished</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="monthly_maintenance_inr">Monthly maintenance (₹)</label>
+                                    <input type="number" id="monthly_maintenance_inr" name="monthly_maintenance_inr" value="2500" min="0" max="200000" step="100" required>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="parking">Dedicated parking</label>
+                                    <select id="parking" name="parking" required>
+                                        <option value="yes" selected>Yes</option>
+                                        <option value="no">No</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="has_gym">Gymnasium access</label>
+                                    <select id="has_gym" name="has_gym" required>
+                                        <option value="yes">Yes</option>
+                                        <option value="no" selected>No</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-item">
+                                    <label for="has_security">24/7 Security</label>
+                                    <select id="has_security" name="has_security" required>
+                                        <option value="yes" selected>Yes</option>
+                                        <option value="no">No</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </fieldset>
+
+                    </div>
+
+                    <!-- Submission Action Area -->
+                    <div class="form-action-bar">
+                        <button type="submit" id="submit-btn" class="estimate-btn">
+                            <span class="btn-text">Estimate Property Price</span>
+                            <span class="btn-icon">→</span>
+                            <span class="btn-spinner hidden"></span>
+                        </button>
+                    </div>
+                </form>
+
+                <!-- Elegant Result Showcase Card -->
+                <div id="result-card" class="result-card">
+                    <div class="result-header">
+                        <span class="result-badge">Model Output</span>
+                        <span class="result-timestamp" id="result-timestamp">Ready for calculation</span>
+                    </div>
+
+                    <div class="result-body">
+                        <div class="price-display-wrapper">
+                            <span class="currency-symbol">₹</span>
+                            <span class="price-figure" id="price-lakhs-figure">100.70</span>
+                            <span class="price-unit">Lakhs</span>
+                        </div>
+                        <p class="formatted-inr-line" id="formatted-inr">
+                            Approx. <strong class="inr-highlight">₹1.01 Crore</strong>
+                        </p>
+                    </div>
+
+                    <div class="result-breakdown" id="result-breakdown">
+                        <div class="breakdown-pill">
+                            <span class="pill-label">Rate / sq.ft:</span>
+                            <span class="pill-value" id="rate-per-sqft">₹8,392</span>
+                        </div>
+                        <div class="breakdown-pill">
+                            <span class="pill-label">Location:</span>
+                            <span class="pill-value" id="res-location">Rohini</span>
+                        </div>
+                        <div class="breakdown-pill">
+                            <span class="pill-label">Configuration:</span>
+                            <span class="pill-value" id="res-config">2 BHK Apartment</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Disclaimer -->
+                <div class="disclaimer-note">
+                    <p>
+                        <strong>Disclaimer:</strong> Predictions are generated by a trained scikit-learn regression pipeline trained on historical property listings and represent statistical estimates for educational purposes, not certified financial appraisals.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>Property Valuation AI • Machine Learning Deployment Project</p>
+    </footer>
+
+    <script src="../static/script.js"></script>
+</body>
+</html>

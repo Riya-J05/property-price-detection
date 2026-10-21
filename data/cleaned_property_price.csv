@@ -1,0 +1,1801 @@
+property_type,location,area_sqft,bedrooms,bathrooms,age_years,floor,total_floors,parking,furnishing,distance_to_metro_km,nearby_schools,monthly_maintenance_inr,has_gym,has_security,price_lakhs
+builder floor,noida,795.0,3,4.0,19.0,3,3,no,unfurnished,1.36,1,1530.0,yes,yes,79.4
+builder floor,janakpuri,484.0,1,1.0,36.0,18,18,no,unfurnished,4.27,3,784.0,yes,yes,43.76
+apartment,noida,1106.0,3,2.0,37.0,1,14,yes,semi-furnished,0.94,5,2530.0,yes,yes,70.97
+builder floor,paschim vihar,862.0,2,1.0,18.0,22,22,yes,unfurnished,0.14,4,1404.0,no,yes,97.63
+builder floor,rohini,873.0,1,1.0,0.0,5,9,yes,fully-furnished,2.81,4,2462.0,yes,yes,93.62
+builder floor,gurugram,2407.0,6,5.0,26.0,7,23,yes,unfurnished,3.29,4,4079.0,yes,yes,202.96
+apartment,paschim vihar,553.0,2,2.0,4.0,15,15,yes,unfurnished,0.99,3,889.0,no,yes,77.85
+apartment,noida,1233.0,4,5.0,1.0,1,6,no,unfurnished,0.56,3,2068.0,,yes,118.25
+apartment,rohini,691.0,2,1.0,2.0,1,5,yes,unfurnished,0.15,4,1282.0,no,yes,80.3
+apartment,janakpuri,1538.0,4,4.0,27.0,1,6,no,unfurnished,1.67,3,4017.0,yes,yes,106.15
+apartment,pitampura,1190.0,3,3.0,18.0,1,8,no,semi-furnished,2.19,2,1977.0,yes,yes,119.77
+apartment,gurugram,1231.0,3,3.0,15.0,7,14,no,semi-furnished,3.47,3,3364.0,no,yes,112.57
+builder floor,uttam nagar,706.0,1,2.0,19.0,3,21,no,semi-furnished,2.29,3,1515.0,no,no,64.04
+apartment,noida,761.0,1,1.0,,5,24,yes,fully-furnished,1.06,4,1243.0,yes,yes,99.29
+builder floor,janakpuri,1550.0,4,3.0,11.0,6,17,no,semi-furnished,1.97,2,2679.0,no,yes,147.01
+apartment,dwarka,2209.0,5,5.0,7.0,9,13,no,semi-furnished,3.59,2,5214.0,yes,yes,172.14
+builder floor,uttam nagar,1285.0,2,2.0,14.0,14,16,yes,semi-furnished,2.17,3,2612.0,yes,yes,106.52
+apartment,rohini,720.0,1,1.0,14.0,0,9,no,,3.22,2,1678.0,no,no,64.05
+apartment,noida,1211.0,3,,19.0,5,7,yes,semi-furnished,0.58,3,3618.0,no,yes,92.62
+builder floor,uttam nagar,2911.0,6,5.0,21.0,1,14,yes,fully-furnished,2.73,0,3787.0,yes,yes,193.83
+independent house,paschim vihar,1096.0,3,2.0,2.0,21,21,yes,semi-furnished,2.3,1,2264.0,yes,yes,128.22
+apartment,pitampura,1940.0,5,5.0,11.0,1,3,yes,unfurnished,1.27,2,4101.0,no,yes,146.9
+apartment,gurugram,769.0,1,2.0,13.0,4,4,no,semi-furnished,3.64,2,1347.0,no,yes,83.66
+builder floor,noida,1032.0,2,2.0,4.0,5,6,yes,fully-furnished,6.25,1,2242.0,no,no,98.66
+builder floor,noida,1362.0,3,4.0,4.0,2,6,yes,semi-furnished,0.25,2,3332.0,,yes,131.61
+apartment,dwarka,1241.0,3,3.0,2.0,1,5,no,semi-furnished,1.32,3,3086.0,no,no,109.72
+apartment,janakpuri,761.0,3,2.0,3.0,1,4,yes,fully-furnished,1.58,3,2035.0,no,yes,106.96
+apartment,rohini,747.0,1,,23.0,1,2,yes,semi-furnished,1.67,7,1023.0,no,yes,76.36
+independent house,rohini,1590.0,4,3.0,3.0,4,10,no,semi-furnished,0.96,4,3517.0,yes,yes,146.17
+apartment,paschim vihar,1732.0,5,5.0,3.0,12,18,yes,unfurnished,0.31,1,4965.0,no,yes,148.48
+apartment,paschim vihar,1982.0,4,4.0,13.0,2,5,no,unfurnished,1.38,2,4363.0,yes,yes,154.43
+independent house,gurugram,2240.0,5,5.0,17.0,7,9,yes,fully-furnished,1.59,3,5923.0,no,yes,209.11
+apartment,dwarka,1111.0,3,3.0,12.0,11,24,yes,semi-furnished,1.28,1,2776.0,yes,yes,134.29
+apartment,pitampura,921.0,2,2.0,5.0,1,5,yes,semi-furnished,1.62,3,2047.0,yes,yes,86.84
+apartment,janakpuri,1852.0,5,5.0,4.0,8,24,yes,semi-furnished,2.0,2,2544.0,yes,yes,149.38
+apartment,dwarka,1417.0,4,4.0,,10,13,no,unfurnished,1.43,1,3674.0,,no,105.24
+apartment,rohini,695.0,1,1.0,11.0,2,18,yes,fully-furnished,0.95,2,1651.0,no,no,73.24
+apartment,janakpuri,680.0,2,2.0,9.0,2,9,yes,unfurnished,,5,825.0,no,yes,81.48
+builder floor,dwarka,1291.0,4,4.0,22.0,3,9,yes,fully-furnished,2.13,3,2137.0,no,yes,120.63
+builder floor,uttam nagar,975.0,2,2.0,11.0,7,11,no,semi-furnished,1.74,2,1302.0,no,yes,90.98
+apartment,janakpuri,,1,1.0,3.0,0,4,no,unfurnished,6.54,3,2548.0,yes,yes,91.02
+apartment,noida,1647.0,4,4.0,9.0,4,9,no,unfurnished,2.24,4,2031.0,no,yes,139.33
+apartment,paschim vihar,1444.0,3,4.0,18.0,15,22,yes,fully-furnished,1.68,1,4409.0,yes,yes,147.47
+independent house,dwarka,1836.0,4,4.0,10.0,2,2,yes,unfurnished,0.83,1,6030.0,no,no,139.53
+apartment,noida,467.0,1,1.0,18.0,7,15,yes,unfurnished,,4,1563.0,yes,yes,65.22
+builder floor,noida,1168.0,2,2.0,21.0,17,17,no,semi-furnished,1.29,1,,yes,yes,89.25
+apartment,pitampura,1406.0,4,4.0,11.0,3,5,no,semi-furnished,1.32,3,3219.0,yes,yes,134.24
+builder floor,dwarka,553.0,1,1.0,12.0,3,4,yes,semi-furnished,1.28,2,1748.0,no,yes,74.32
+apartment,paschim vihar,798.0,1,1.0,10.0,3,14,yes,unfurnished,2.32,1,2164.0,yes,yes,81.64
+builder floor,rohini,738.0,2,3.0,18.0,7,7,no,fully-furnished,3.56,3,1371.0,yes,yes,68.48
+apartment,dwarka,1060.0,2,3.0,9.0,6,24,yes,unfurnished,2.82,2,3217.0,no,yes,106.74
+independent house,rohini,2080.0,5,5.0,17.0,0,6,no,unfurnished,2.58,1,5122.0,yes,no,148.31
+apartment,noida,2455.0,5,,14.0,0,5,yes,semi-furnished,0.74,3,6889.0,yes,yes,193.65
+builder floor,uttam nagar,746.0,1,2.0,2.0,6,9,yes,unfurnished,3.94,2,2486.0,no,yes,52.15
+builder floor,paschim vihar,1310.0,3,2.0,18.0,6,9,no,semi-furnished,0.81,1,4447.0,no,yes,120.09
+independent house,noida,1328.0,3,3.0,13.0,1,5,yes,,2.09,4,3068.0,no,yes,148.15
+apartment,janakpuri,1236.0,3,3.0,28.0,15,17,yes,,2.47,4,1909.0,no,yes,131.81
+apartment,uttam nagar,1242.0,3,3.0,4.0,2,9,yes,semi-furnished,4.02,2,3183.0,yes,yes,80.32
+apartment,rohini,1193.0,3,3.0,15.0,9,14,yes,,5.74,3,3121.0,yes,yes,96.56
+apartment,rohini,2133.0,5,5.0,8.0,4,7,yes,unfurnished,1.24,0,5244.0,no,yes,151.39
+builder floor,uttam nagar,1668.0,4,3.0,2.0,2,4,no,unfurnished,1.95,4,3550.0,,yes,152.59
+independent house,janakpuri,673.0,3,3.0,1.0,2,3,yes,fully-furnished,3.77,2,1669.0,no,yes,107.6
+independent house,uttam nagar,1467.0,3,3.0,32.0,3,3,yes,fully-furnished,6.08,2,3484.0,no,yes,132.36
+apartment,paschim vihar,1527.0,3,4.0,15.0,16,22,no,,1.36,0,5006.0,yes,yes,133.3
+builder floor,uttam nagar,1199.0,5,4.0,10.0,8,8,yes,unfurnished,0.78,4,3648.0,yes,yes,96.5
+builder floor,uttam nagar,1689.0,4,3.0,3.0,8,9,yes,semi-furnished,0.44,1,3490.0,no,yes,114.54
+independent house,uttam nagar,1136.0,2,1.0,31.0,5,15,no,unfurnished,0.91,1,2790.0,no,yes,80.39
+apartment,dwarka,1142.0,3,3.0,7.0,2,4,yes,,,2,2793.0,yes,yes,130.51
+apartment,rohini,1105.0,2,3.0,15.0,3,15,no,semi-furnished,3.39,2,2568.0,no,yes,89.18
+builder floor,janakpuri,450.0,2,2.0,13.0,12,13,yes,semi-furnished,2.24,1,597.0,no,no,83.05
+apartment,dwarka,1015.0,2,3.0,41.0,20,20,yes,semi-furnished,1.31,1,2809.0,yes,yes,73.8
+apartment,pitampura,793.0,2,3.0,12.0,4,4,yes,semi-furnished,2.32,3,2227.0,yes,yes,92.33
+independent house,noida,638.0,3,3.0,8.0,2,2,yes,unfurnished,1.76,3,1445.0,yes,yes,104.28
+independent house,dwarka,1918.0,5,5.0,15.0,16,19,no,semi-furnished,1.36,2,6106.0,no,yes,158.5
+independent house,rohini,1298.0,4,4.0,16.0,8,10,yes,fully-furnished,2.17,4,4367.0,yes,yes,135.92
+builder floor,dwarka,1037.0,3,4.0,,0,3,yes,fully-furnished,1.26,3,3099.0,yes,no,88.87
+apartment,dwarka,828.0,2,,12.0,3,14,no,semi-furnished,2.16,2,2684.0,no,yes,89.23
+apartment,uttam nagar,1189.0,3,4.0,4.0,6,12,yes,semi-furnished,2.42,0,2702.0,no,yes,99.75
+apartment,uttam nagar,1592.0,4,5.0,9.0,10,23,yes,unfurnished,2.88,2,5112.0,no,yes,123.98
+apartment,noida,742.0,2,2.0,15.0,17,23,yes,unfurnished,0.33,2,2417.0,no,yes,84.68
+apartment,uttam nagar,1048.0,4,3.0,17.0,11,14,yes,semi-furnished,3.98,2,2695.0,yes,yes,83.66
+builder floor,pitampura,1512.0,4,5.0,3.0,5,5,yes,unfurnished,1.58,3,2316.0,,yes,161.12
+apartment,noida,466.0,1,1.0,8.0,15,19,yes,semi-furnished,5.78,4,715.0,no,yes,52.32
+builder floor,rohini,1025.0,3,4.0,39.0,0,6,yes,semi-furnished,3.26,1,2295.0,no,yes,93.65
+apartment,rohini,877.0,2,2.0,6.0,7,21,yes,unfurnished,0.8,3,2472.0,no,yes,58.63
+apartment,rohini,993.0,1,1.0,22.0,5,15,yes,unfurnished,2.61,2,2287.0,no,yes,65.81
+apartment,paschim vihar,851.0,2,2.0,9.0,6,10,yes,semi-furnished,3.77,2,2519.0,no,yes,116.71
+apartment,janakpuri,1112.0,3,3.0,12.0,8,24,yes,fully-furnished,1.42,2,3218.0,yes,yes,120.79
+builder floor,rohini,2355.0,5,5.0,3.0,13,13,no,semi-furnished,0.74,2,3881.0,yes,yes,189.9
+apartment,janakpuri,916.0,2,2.0,10.0,3,10,no,semi-furnished,0.63,0,1367.0,yes,yes,80.77
+apartment,rohini,1187.0,3,3.0,15.0,3,6,yes,unfurnished,0.43,3,3268.0,no,no,84.63
+builder floor,paschim vihar,2427.0,6,5.0,12.0,13,16,no,semi-furnished,0.16,2,4623.0,yes,no,194.37
+apartment,janakpuri,833.0,2,1.0,11.0,3,8,yes,unfurnished,1.61,4,2706.0,yes,yes,85.86
+apartment,pitampura,2250.0,5,4.0,18.0,0,5,yes,semi-furnished,0.66,3,6999.0,no,yes,200.24
+apartment,dwarka,1052.0,2,1.0,4.0,1,4,yes,semi-furnished,0.99,3,2307.0,no,yes,111.98
+apartment,uttam nagar,2219.0,6,5.0,15.0,6,16,yes,semi-furnished,5.88,4,5497.0,no,yes,156.61
+builder floor,pitampura,1439.0,3,2.0,1.0,14,23,yes,unfurnished,2.43,4,4409.0,no,yes,137.84
+apartment,rohini,1195.0,3,3.0,27.0,5,7,yes,unfurnished,0.78,4,,yes,no,103.93
+apartment,rohini,1021.0,2,1.0,11.0,3,6,yes,,7.78,2,2476.0,yes,yes,64.16
+apartment,gurugram,808.0,2,2.0,21.0,6,16,yes,semi-furnished,2.14,7,2697.0,yes,yes,77.91
+builder floor,gurugram,1084.0,4,3.0,0.0,3,5,no,fully-furnished,7.32,3,2543.0,yes,yes,135.05
+apartment,paschim vihar,1531.0,4,3.0,19.0,0,4,no,unfurnished,4.94,5,1976.0,no,yes,122.94
+builder floor,dwarka,1044.0,3,3.0,6.0,3,16,yes,,2.2,1,2545.0,no,yes,94.06
+apartment,gurugram,919.0,2,2.0,12.0,9,14,no,semi-furnished,1.6,2,2674.0,no,yes,75.79
+builder floor,noida,945.0,3,2.0,19.0,2,2,yes,unfurnished,3.22,0,3182.0,yes,yes,101.45
+apartment,paschim vihar,1593.0,4,4.0,12.0,4,7,yes,unfurnished,2.06,2,2281.0,no,yes,130.38
+apartment,janakpuri,1757.0,4,5.0,18.0,0,6,no,semi-furnished,1.17,0,3811.0,no,yes,143.01
+apartment,dwarka,793.0,2,2.0,9.0,17,17,yes,semi-furnished,1.11,3,1975.0,no,no,83.17
+builder floor,rohini,793.0,2,2.0,28.0,5,17,no,semi-furnished,3.6,3,2489.0,yes,yes,72.27
+builder floor,gurugram,1231.0,3,3.0,11.0,14,19,yes,semi-furnished,0.78,5,3416.0,no,yes,128.89
+apartment,janakpuri,1994.0,5,5.0,11.0,4,4,yes,fully-furnished,3.56,3,3407.0,no,no,165.93
+apartment,dwarka,1699.0,4,3.0,11.0,21,21,no,semi-furnished,1.8,4,5251.0,yes,yes,146.83
+independent house,dwarka,621.0,1,1.0,12.0,0,6,no,fully-furnished,0.34,1,1653.0,no,yes,85.59
+apartment,uttam nagar,940.0,3,3.0,4.0,4,24,yes,semi-furnished,3.77,4,2979.0,yes,no,77.99
+apartment,rohini,710.0,1,1.0,5.0,14,22,no,fully-furnished,0.8,2,2155.0,yes,yes,80.84
+apartment,noida,938.0,2,3.0,24.0,9,12,yes,fully-furnished,0.9,1,1392.0,no,no,97.07
+builder floor,paschim vihar,2060.0,4,4.0,21.0,17,20,yes,semi-furnished,1.47,1,6825.0,no,yes,157.32
+builder floor,paschim vihar,578.0,1,1.0,20.0,9,17,no,fully-furnished,1.67,2,1271.0,no,yes,77.66
+builder floor,janakpuri,532.0,2,1.0,17.0,3,19,no,fully-furnished,2.21,4,1788.0,no,yes,70.3
+independent house,uttam nagar,741.0,1,1.0,8.0,2,2,no,semi-furnished,3.63,0,1194.0,yes,yes,75.87
+apartment,uttam nagar,1185.0,2,2.0,7.0,2,3,yes,semi-furnished,3.54,5,3490.0,no,yes,108.26
+apartment,uttam nagar,1363.0,4,3.0,12.0,10,22,yes,semi-furnished,1.08,6,2550.0,no,yes,113.3
+apartment,rohini,1262.0,3,4.0,26.0,12,19,no,fully-furnished,1.11,5,1639.0,yes,yes,131.59
+apartment,pitampura,1720.0,4,4.0,14.0,3,16,yes,semi-furnished,3.35,1,5825.0,yes,yes,149.48
+apartment,rohini,501.0,1,1.0,5.0,8,9,yes,fully-furnished,0.67,2,936.0,yes,no,64.31
+apartment,janakpuri,1730.0,5,5.0,3.0,0,11,yes,,1.8,2,2382.0,yes,yes,157.41
+apartment,dwarka,921.0,3,3.0,22.0,10,11,no,fully-furnished,4.68,2,2849.0,no,yes,90.69
+builder floor,rohini,1428.0,4,4.0,32.0,10,11,no,unfurnished,1.22,1,3071.0,no,yes,113.36
+apartment,rohini,602.0,2,1.0,2.0,11,16,yes,,0.42,2,1486.0,yes,yes,60.7
+apartment,uttam nagar,1052.0,2,2.0,22.0,16,19,yes,semi-furnished,0.8,1,3542.0,yes,yes,78.76
+builder floor,rohini,1160.0,2,2.0,16.0,10,10,yes,fully-furnished,,3,2619.0,no,yes,101.72
+builder floor,gurugram,1706.0,3,2.0,6.0,3,21,no,fully-furnished,0.73,3,2299.0,yes,yes,172.53
+builder floor,uttam nagar,540.0,2,1.0,14.0,2,4,no,semi-furnished,1.41,1,1469.0,yes,yes,34.5
+builder floor,pitampura,1064.0,3,3.0,4.0,13,20,yes,semi-furnished,7.22,6,2940.0,no,yes,119.21
+builder floor,uttam nagar,666.0,1,1.0,10.0,16,17,no,unfurnished,2.56,0,1084.0,yes,yes,40.17
+apartment,rohini,1298.0,3,3.0,12.0,10,13,yes,fully-furnished,,3,3115.0,no,yes,118.92
+apartment,gurugram,1455.0,3,3.0,28.0,6,10,yes,unfurnished,1.64,4,2928.0,yes,yes,125.69
+builder floor,janakpuri,,3,3.0,10.0,6,10,no,semi-furnished,0.95,3,2362.0,no,yes,130.44
+apartment,noida,839.0,2,1.0,7.0,1,10,yes,fully-furnished,1.64,2,1582.0,yes,yes,100.3
+apartment,rohini,1550.0,3,4.0,16.0,7,23,no,semi-furnished,4.54,2,4962.0,yes,yes,87.46
+apartment,janakpuri,1860.0,4,4.0,18.0,1,2,yes,unfurnished,1.85,3,3461.0,no,yes,146.13
+apartment,janakpuri,527.0,1,1.0,7.0,14,16,no,,3.52,4,891.0,yes,yes,71.34
+apartment,gurugram,1358.0,2,,5.0,21,24,yes,fully-furnished,3.19,3,4441.0,no,no,146.71
+apartment,uttam nagar,1570.0,3,4.0,5.0,9,14,yes,semi-furnished,6.99,2,3205.0,no,yes,95.36
+builder floor,janakpuri,942.0,2,2.0,28.0,1,16,no,unfurnished,3.15,3,3080.0,no,yes,79.08
+independent house,dwarka,631.0,1,1.0,18.0,11,15,yes,semi-furnished,6.67,2,1979.0,yes,no,94.28
+apartment,pitampura,1560.0,4,3.0,9.0,6,13,yes,unfurnished,3.72,2,3487.0,yes,no,146.71
+independent house,janakpuri,634.0,1,1.0,25.0,11,16,yes,fully-furnished,2.21,5,1298.0,no,yes,108.25
+apartment,janakpuri,974.0,3,3.0,7.0,9,22,no,semi-furnished,0.88,3,1464.0,yes,yes,128.74
+independent house,rohini,1032.0,2,2.0,11.0,13,18,no,unfurnished,3.51,6,1671.0,yes,no,95.73
+independent house,noida,1418.0,3,3.0,4.0,4,21,no,unfurnished,3.73,8,2427.0,no,yes,138.04
+apartment,noida,807.0,2,2.0,24.0,2,14,yes,semi-furnished,3.8,3,1803.0,yes,yes,73.04
+builder floor,rohini,788.0,1,1.0,6.0,4,19,yes,semi-furnished,0.1,2,1591.0,no,yes,60.55
+independent house,uttam nagar,1095.0,3,3.0,6.0,21,22,no,semi-furnished,1.2,0,3242.0,yes,yes,104.92
+independent house,rohini,1602.0,3,4.0,16.0,0,6,yes,semi-furnished,2.54,2,2968.0,yes,yes,120.0
+independent house,paschim vihar,2744.0,6,5.0,1.0,6,21,no,semi-furnished,1.28,0,5856.0,yes,yes,221.62
+apartment,dwarka,557.0,1,1.0,,6,17,yes,unfurnished,1.1,1,819.0,no,yes,49.92
+apartment,uttam nagar,1199.0,3,3.0,,10,12,yes,unfurnished,0.95,4,2154.0,no,yes,95.21
+builder floor,paschim vihar,665.0,1,2.0,5.0,7,19,yes,fully-furnished,0.36,3,1944.0,yes,no,88.04
+builder floor,paschim vihar,1611.0,3,3.0,50.0,5,5,yes,unfurnished,2.43,2,4439.0,yes,yes,108.99
+builder floor,rohini,708.0,2,2.0,14.0,18,18,no,fully-furnished,1.04,3,1476.0,yes,yes,92.4
+apartment,gurugram,791.0,3,3.0,2.0,10,15,yes,semi-furnished,1.23,1,1954.0,yes,yes,98.72
+apartment,dwarka,820.0,3,3.0,33.0,7,22,yes,unfurnished,1.53,6,1811.0,yes,yes,77.72
+apartment,rohini,1017.0,2,2.0,14.0,10,16,no,unfurnished,2.74,2,3223.0,no,yes,67.41
+builder floor,uttam nagar,1203.0,4,5.0,10.0,10,14,yes,unfurnished,2.17,3,2488.0,no,yes,116.7
+apartment,pitampura,1287.0,3,3.0,14.0,1,14,yes,fully-furnished,2.09,1,3589.0,no,no,124.82
+builder floor,noida,1047.0,3,3.0,2.0,12,14,yes,semi-furnished,0.13,4,1760.0,no,no,105.28
+builder floor,noida,601.0,1,1.0,12.0,10,22,yes,semi-furnished,3.57,2,1295.0,yes,no,50.65
+apartment,dwarka,1425.0,4,5.0,6.0,17,20,no,semi-furnished,5.54,3,3369.0,no,yes,150.54
+apartment,gurugram,1027.0,1,1.0,11.0,3,4,yes,semi-furnished,2.05,0,1469.0,no,no,123.9
+apartment,dwarka,1710.0,3,3.0,8.0,12,14,yes,fully-furnished,0.64,3,4262.0,no,yes,163.42
+independent house,janakpuri,780.0,2,2.0,13.0,0,8,no,fully-furnished,1.13,3,1922.0,yes,yes,97.88
+builder floor,dwarka,536.0,1,1.0,9.0,0,5,yes,semi-furnished,0.67,3,830.0,no,no,67.71
+apartment,gurugram,1035.0,3,2.0,8.0,2,21,yes,fully-furnished,5.09,5,3516.0,no,yes,120.33
+apartment,rohini,1810.0,5,5.0,5.0,19,21,no,fully-furnished,1.22,2,2540.0,yes,yes,139.84
+apartment,rohini,1123.0,2,2.0,,23,23,yes,semi-furnished,2.12,2,3560.0,no,no,85.99
+apartment,janakpuri,966.0,2,2.0,2.0,11,11,no,,,3,2204.0,yes,no,113.39
+independent house,gurugram,729.0,1,1.0,4.0,3,11,yes,unfurnished,2.65,1,1232.0,no,yes,102.64
+builder floor,noida,2197.0,4,4.0,19.0,5,19,yes,semi-furnished,0.82,5,3182.0,yes,yes,162.65
+apartment,paschim vihar,,2,1.0,5.0,2,6,yes,fully-furnished,2.06,1,1865.0,no,yes,97.7
+builder floor,noida,774.0,2,2.0,7.0,3,3,no,unfurnished,1.23,2,2213.0,no,no,73.94
+apartment,noida,1334.0,3,4.0,7.0,3,11,yes,fully-furnished,3.92,1,3577.0,no,yes,97.11
+builder floor,janakpuri,482.0,2,3.0,8.0,9,16,yes,fully-furnished,0.15,2,1024.0,yes,yes,75.23
+apartment,dwarka,1793.0,4,5.0,17.0,8,12,yes,unfurnished,1.35,3,2832.0,yes,yes,139.96
+builder floor,noida,1365.0,4,3.0,9.0,2,6,no,semi-furnished,3.65,1,4009.0,no,yes,120.89
+independent house,uttam nagar,1532.0,3,3.0,21.0,6,13,no,fully-furnished,3.35,2,4775.0,yes,yes,129.34
+apartment,pitampura,1327.0,3,2.0,4.0,15,23,yes,fully-furnished,0.39,4,2736.0,no,yes,147.67
+builder floor,rohini,981.0,3,3.0,20.0,7,8,no,unfurnished,3.09,2,2993.0,yes,yes,84.24
+independent house,paschim vihar,672.0,2,2.0,30.0,2,11,yes,semi-furnished,0.75,1,1746.0,yes,yes,89.67
+apartment,dwarka,990.0,2,2.0,12.0,5,9,yes,semi-furnished,0.98,6,2336.0,no,yes,113.0
+apartment,gurugram,697.0,2,2.0,4.0,1,8,yes,unfurnished,3.51,2,1773.0,no,yes,97.53
+builder floor,dwarka,1288.0,3,2.0,17.0,0,17,yes,semi-furnished,1.33,2,1851.0,yes,yes,117.27
+apartment,rohini,1473.0,3,3.0,12.0,7,10,yes,unfurnished,0.36,2,2174.0,yes,yes,120.22
+apartment,noida,1952.0,5,5.0,15.0,8,16,yes,unfurnished,0.58,3,5463.0,yes,no,147.74
+apartment,rohini,1227.0,4,4.0,22.0,0,2,yes,semi-furnished,1.82,1,4091.0,no,yes,88.34
+builder floor,rohini,1548.0,4,3.0,9.0,0,17,no,semi-furnished,1.29,4,3587.0,yes,yes,154.17
+apartment,uttam nagar,927.0,3,3.0,8.0,4,4,yes,semi-furnished,1.27,5,1223.0,no,yes,78.99
+apartment,noida,859.0,2,2.0,55.0,9,10,yes,semi-furnished,2.61,5,1159.0,yes,yes,76.17
+builder floor,dwarka,1281.0,2,2.0,17.0,21,22,yes,semi-furnished,2.27,2,2854.0,yes,yes,101.72
+apartment,dwarka,893.0,2,3.0,24.0,1,9,no,unfurnished,1.37,2,2364.0,yes,yes,87.37
+builder floor,noida,1176.0,2,2.0,21.0,0,18,no,unfurnished,3.39,2,1812.0,yes,yes,82.71
+apartment,gurugram,672.0,1,1.0,25.0,2,10,yes,unfurnished,2.63,4,855.0,yes,yes,97.12
+independent house,janakpuri,725.0,3,2.0,15.0,2,22,no,semi-furnished,2.16,4,2034.0,no,no,115.0
+builder floor,rohini,1371.0,3,4.0,23.0,11,23,yes,unfurnished,1.12,2,2086.0,yes,yes,120.55
+apartment,rohini,1524.0,3,3.0,7.0,14,22,yes,unfurnished,3.79,3,3298.0,no,yes,117.95
+builder floor,dwarka,694.0,2,2.0,2.0,2,11,no,unfurnished,1.26,2,1954.0,no,yes,78.42
+apartment,rohini,1392.0,3,3.0,5.0,3,9,no,semi-furnished,1.36,7,2054.0,no,yes,114.67
+apartment,paschim vihar,839.0,2,2.0,10.0,8,15,yes,semi-furnished,5.17,2,1824.0,no,yes,92.99
+apartment,rohini,1057.0,3,3.0,9.0,6,20,no,fully-furnished,0.79,1,1528.0,no,yes,96.38
+builder floor,janakpuri,1904.0,4,4.0,12.0,6,14,yes,fully-furnished,0.78,3,3740.0,no,yes,178.97
+apartment,paschim vihar,1474.0,2,2.0,6.0,11,18,yes,semi-furnished,1.4,6,4728.0,no,yes,122.78
+apartment,uttam nagar,1467.0,4,4.0,1.0,21,22,yes,unfurnished,0.64,3,3975.0,no,yes,132.6
+apartment,dwarka,2341.0,5,5.0,8.0,6,19,yes,semi-furnished,0.65,6,2928.0,no,yes,181.34
+apartment,noida,781.0,3,3.0,3.0,0,10,no,unfurnished,5.07,2,1168.0,yes,no,65.93
+apartment,paschim vihar,694.0,1,1.0,11.0,6,7,yes,semi-furnished,1.38,3,1281.0,yes,yes,88.3
+apartment,paschim vihar,775.0,2,2.0,16.0,6,11,no,semi-furnished,2.22,4,2457.0,yes,yes,89.96
+apartment,rohini,944.0,3,4.0,8.0,7,15,no,semi-furnished,0.43,2,2684.0,yes,yes,70.67
+apartment,rohini,391.0,1,1.0,4.0,15,21,yes,unfurnished,0.73,0,1000.0,yes,yes,45.68
+builder floor,gurugram,962.0,2,2.0,12.0,8,8,no,semi-furnished,5.56,3,1477.0,no,yes,81.74
+apartment,pitampura,835.0,2,2.0,55.0,0,5,no,fully-furnished,0.64,5,2708.0,no,yes,72.59
+builder floor,dwarka,1459.0,3,3.0,17.0,8,9,yes,semi-furnished,2.27,5,4345.0,no,yes,125.45
+apartment,janakpuri,1218.0,3,3.0,18.0,10,15,no,semi-furnished,0.1,2,2103.0,no,yes,111.68
+apartment,uttam nagar,816.0,2,2.0,8.0,4,7,no,semi-furnished,0.39,3,1705.0,yes,yes,62.07
+apartment,gurugram,1345.0,3,2.0,6.0,10,11,yes,unfurnished,1.36,3,2882.0,no,yes,123.01
+apartment,dwarka,1423.0,3,3.0,25.0,2,7,yes,semi-furnished,3.32,2,3547.0,yes,yes,131.37
+apartment,gurugram,760.0,2,2.0,1.0,19,24,yes,semi-furnished,1.74,3,1539.0,no,yes,122.59
+builder floor,rohini,854.0,2,2.0,6.0,7,13,yes,unfurnished,1.47,0,1419.0,yes,yes,74.99
+apartment,uttam nagar,412.0,1,1.0,,17,18,yes,semi-furnished,2.79,4,1099.0,no,yes,47.46
+apartment,uttam nagar,664.0,1,1.0,11.0,6,13,no,fully-furnished,2.03,3,1787.0,yes,yes,64.73
+builder floor,rohini,769.0,2,2.0,3.0,2,2,yes,semi-furnished,1.65,2,1671.0,yes,yes,69.21
+apartment,rohini,1083.0,2,2.0,16.0,4,8,no,semi-furnished,1.14,1,2459.0,no,yes,76.88
+apartment,pitampura,706.0,1,1.0,8.0,8,21,yes,semi-furnished,1.42,0,926.0,no,yes,48.87
+apartment,gurugram,846.0,2,2.0,2.0,5,13,yes,semi-furnished,1.11,0,1864.0,yes,yes,106.77
+apartment,uttam nagar,628.0,1,1.0,14.0,17,18,no,semi-furnished,1.67,2,1859.0,no,yes,39.2
+apartment,gurugram,,2,2.0,12.0,16,19,yes,unfurnished,2.33,3,2821.0,no,yes,112.9
+builder floor,noida,1256.0,3,4.0,12.0,3,14,yes,,0.49,7,4051.0,yes,yes,154.0
+independent house,janakpuri,1243.0,2,2.0,,13,15,no,semi-furnished,0.92,3,3451.0,yes,yes,144.48
+apartment,noida,,4,4.0,4.0,4,7,yes,unfurnished,,1,3071.0,no,no,89.7
+builder floor,rohini,550.0,1,1.0,15.0,0,7,yes,,2.98,3,1215.0,no,yes,56.88
+builder floor,rohini,809.0,2,2.0,13.0,4,5,no,unfurnished,4.57,3,1280.0,no,no,85.85
+apartment,noida,885.0,2,1.0,24.0,1,8,no,semi-furnished,1.77,1,2838.0,yes,yes,64.47
+builder floor,noida,886.0,2,1.0,6.0,14,16,yes,semi-furnished,0.87,4,2348.0,no,no,106.58
+builder floor,dwarka,1084.0,2,2.0,27.0,10,23,yes,semi-furnished,0.93,2,3470.0,no,yes,132.02
+independent house,janakpuri,1911.0,4,5.0,21.0,11,12,yes,semi-furnished,1.72,5,4889.0,no,yes,182.05
+independent house,uttam nagar,1477.0,3,4.0,11.0,7,15,yes,fully-furnished,0.73,4,3249.0,yes,yes,151.94
+apartment,noida,694.0,1,1.0,12.0,1,21,yes,semi-furnished,4.35,6,1039.0,no,yes,83.09
+apartment,uttam nagar,1396.0,2,3.0,1.0,13,17,no,semi-furnished,1.11,3,2897.0,yes,yes,100.36
+apartment,pitampura,1374.0,2,2.0,12.0,6,8,no,semi-furnished,3.93,3,,no,no,118.85
+apartment,pitampura,748.0,3,3.0,20.0,2,8,yes,unfurnished,0.64,0,2429.0,yes,yes,75.34
+apartment,pitampura,1500.0,4,4.0,9.0,3,16,yes,unfurnished,1.43,6,4537.0,no,yes,151.66
+independent house,uttam nagar,982.0,3,3.0,24.0,7,8,yes,semi-furnished,1.25,3,2287.0,yes,no,86.07
+apartment,noida,,2,2.0,16.0,6,7,yes,unfurnished,0.42,1,1270.0,yes,yes,74.87
+apartment,janakpuri,1271.0,3,2.0,42.0,4,15,no,semi-furnished,1.34,2,1618.0,no,no,108.99
+builder floor,dwarka,1150.0,2,3.0,7.0,11,16,yes,semi-furnished,2.03,4,2269.0,no,yes,110.47
+apartment,dwarka,954.0,2,2.0,18.0,1,7,yes,,0.13,0,3204.0,yes,yes,83.61
+apartment,paschim vihar,1034.0,3,3.0,3.0,0,3,yes,unfurnished,2.5,2,2926.0,no,yes,101.31
+independent house,noida,776.0,2,2.0,10.0,13,19,no,fully-furnished,2.16,2,1827.0,yes,yes,91.4
+apartment,rohini,1357.0,5,4.0,17.0,9,11,no,semi-furnished,1.64,3,4203.0,yes,yes,115.64
+apartment,rohini,1031.0,2,2.0,19.0,15,16,yes,semi-furnished,2.88,1,1289.0,no,yes,75.17
+apartment,uttam nagar,1126.0,4,3.0,9.0,2,5,yes,unfurnished,3.03,3,3723.0,no,yes,79.19
+independent house,rohini,1220.0,3,2.0,26.0,1,9,yes,semi-furnished,8.94,2,3342.0,no,no,109.58
+apartment,noida,647.0,2,1.0,30.0,8,15,yes,unfurnished,0.39,1,795.0,yes,no,68.18
+apartment,dwarka,721.0,3,3.0,7.0,3,4,yes,semi-furnished,4.81,1,1984.0,no,yes,78.65
+apartment,rohini,415.0,1,1.0,10.0,9,9,no,semi-furnished,3.44,3,574.0,yes,yes,31.83
+apartment,gurugram,1331.0,3,4.0,9.0,2,18,yes,fully-furnished,2.16,4,3470.0,no,yes,150.07
+independent house,rohini,,1,2.0,8.0,13,19,yes,semi-furnished,0.65,2,1175.0,yes,yes,83.03
+apartment,dwarka,1110.0,2,3.0,29.0,5,10,yes,semi-furnished,1.18,2,1850.0,no,no,117.87
+independent house,rohini,1227.0,3,4.0,29.0,2,4,yes,unfurnished,1.04,1,3168.0,no,yes,110.91
+apartment,rohini,1352.0,3,2.0,10.0,0,2,yes,semi-furnished,1.5,2,2913.0,no,yes,110.1
+apartment,rohini,633.0,2,2.0,18.0,0,14,no,semi-furnished,2.8,3,849.0,no,yes,54.05
+builder floor,rohini,1022.0,3,3.0,24.0,10,17,yes,semi-furnished,4.19,0,3075.0,no,no,91.23
+apartment,rohini,2118.0,4,3.0,14.0,3,15,yes,unfurnished,5.79,2,3782.0,,no,183.14
+apartment,rohini,2157.0,6,5.0,9.0,7,11,yes,unfurnished,1.18,2,5522.0,no,no,156.67
+builder floor,uttam nagar,1590.0,3,4.0,6.0,0,2,yes,unfurnished,1.9,1,4040.0,no,no,132.12
+apartment,paschim vihar,1210.0,3,4.0,20.0,6,7,yes,fully-furnished,0.77,1,1602.0,yes,yes,123.04
+apartment,pitampura,688.0,2,2.0,4.0,0,2,no,semi-furnished,3.55,3,2335.0,yes,yes,96.23
+independent house,dwarka,1420.0,4,3.0,9.0,5,12,no,unfurnished,2.27,0,3102.0,no,yes,111.07
+apartment,janakpuri,983.0,2,2.0,8.0,3,9,yes,fully-furnished,1.39,2,1624.0,no,no,122.42
+apartment,noida,1329.0,2,1.0,3.0,1,3,yes,unfurnished,0.37,2,2872.0,no,yes,113.13
+apartment,noida,805.0,2,2.0,11.0,9,16,yes,semi-furnished,1.93,1,2034.0,no,yes,78.03
+apartment,rohini,976.0,2,2.0,10.0,7,10,yes,semi-furnished,2.09,1,90000.0,no,yes,95.87
+apartment,dwarka,1125.0,2,1.0,5.0,17,24,no,fully-furnished,0.25,0,2093.0,no,no,103.95
+builder floor,dwarka,1164.0,3,4.0,28.0,11,11,yes,semi-furnished,0.5,0,2770.0,yes,no,98.8
+apartment,dwarka,1292.0,3,4.0,20.0,0,4,yes,semi-furnished,1.89,1,3524.0,yes,no,84.72
+builder floor,uttam nagar,823.0,1,2.0,12.0,16,18,yes,fully-furnished,5.44,0,1555.0,no,yes,94.53
+apartment,pitampura,597.0,2,3.0,22.0,11,18,yes,unfurnished,3.83,3,1247.0,no,no,68.44
+apartment,rohini,2078.0,4,3.0,25.0,7,23,no,fully-furnished,1.42,3,3505.0,yes,yes,144.05
+apartment,pitampura,2987.0,6,5.0,29.0,16,17,no,fully-furnished,1.25,1,5510.0,yes,yes,215.76
+builder floor,janakpuri,1267.0,3,3.0,7.0,7,10,no,fully-furnished,0.89,6,3436.0,yes,yes,148.21
+apartment,rohini,602.0,2,2.0,22.0,3,17,yes,unfurnished,0.81,2,1169.0,yes,yes,54.41
+apartment,noida,759.0,2,2.0,10.0,3,20,no,unfurnished,1.33,2,1378.0,yes,yes,79.95
+builder floor,rohini,1300.0,3,3.0,14.0,9,13,no,semi-furnished,,3,2414.0,yes,yes,103.59
+apartment,gurugram,1844.0,4,5.0,7.0,15,20,yes,,1.24,0,4698.0,no,yes,150.07
+apartment,rohini,631.0,2,1.0,12.0,1,24,yes,semi-furnished,1.67,4,1536.0,yes,no,76.33
+independent house,noida,997.0,3,3.0,22.0,12,19,yes,fully-furnished,0.53,4,2089.0,,no,130.8
+apartment,gurugram,1140.0,3,3.0,34.0,7,13,yes,semi-furnished,2.57,3,2954.0,no,yes,102.93
+apartment,gurugram,1510.0,4,4.0,11.0,13,13,no,semi-furnished,1.65,5,3947.0,yes,yes,144.24
+apartment,noida,909.0,3,3.0,5.0,16,21,no,semi-furnished,1.18,1,1117.0,no,yes,90.57
+apartment,noida,544.0,1,1.0,37.0,20,22,yes,unfurnished,0.67,1,1059.0,no,yes,56.19
+apartment,uttam nagar,1363.0,3,4.0,6.0,0,8,yes,unfurnished,0.85,2,2368.0,no,yes,124.13
+builder floor,noida,1684.0,4,4.0,2.0,2,2,yes,unfurnished,1.11,4,5093.0,yes,yes,146.28
+apartment,rohini,1014.0,2,1.0,7.0,7,20,yes,fully-furnished,1.17,4,1831.0,no,no,90.07
+builder floor,janakpuri,1245.0,2,2.0,1.0,4,7,no,semi-furnished,,2,2363.0,yes,yes,118.86
+independent house,janakpuri,860.0,1,1.0,25.0,21,24,yes,semi-furnished,1.52,1,2049.0,yes,yes,90.85
+builder floor,noida,736.0,1,1.0,6.0,2,2,no,semi-furnished,1.96,4,1770.0,no,yes,62.7
+builder floor,janakpuri,1616.0,4,4.0,4.0,5,22,yes,semi-furnished,2.92,2,4822.0,no,yes,148.09
+builder floor,pitampura,1236.0,3,3.0,13.0,4,17,yes,fully-furnished,5.23,7,2538.0,no,yes,136.38
+independent house,uttam nagar,1290.0,2,2.0,34.0,6,8,no,fully-furnished,0.24,2,2346.0,yes,yes,109.67
+apartment,dwarka,,5,4.0,16.0,2,2,yes,semi-furnished,2.19,2,5008.0,yes,yes,158.94
+apartment,rohini,674.0,1,1.0,3.0,13,21,yes,fully-furnished,1.29,1,1889.0,no,no,62.27
+apartment,janakpuri,833.0,3,3.0,,0,4,yes,semi-furnished,0.16,4,2819.0,yes,yes,85.94
+apartment,pitampura,1122.0,3,4.0,15.0,0,4,no,semi-furnished,0.95,3,2873.0,yes,yes,112.93
+apartment,dwarka,828.0,2,1.0,23.0,15,20,yes,fully-furnished,2.7,4,1888.0,yes,yes,93.73
+builder floor,pitampura,1459.0,4,4.0,3.0,13,17,yes,semi-furnished,2.44,3,2178.0,no,yes,149.69
+apartment,pitampura,971.0,1,2.0,41.0,4,4,no,semi-furnished,1.82,1,3273.0,no,yes,87.55
+independent house,dwarka,692.0,2,2.0,9.0,5,9,yes,semi-furnished,0.87,4,1873.0,yes,yes,116.88
+apartment,pitampura,1079.0,2,2.0,3.0,7,17,no,semi-furnished,4.3,2,1687.0,no,no,107.0
+apartment,paschim vihar,1128.0,3,2.0,14.0,2,17,yes,semi-furnished,0.59,7,2494.0,no,yes,118.85
+apartment,dwarka,1555.0,3,3.0,23.0,8,10,no,semi-furnished,1.19,2,3783.0,no,yes,103.01
+apartment,gurugram,1239.0,3,3.0,18.0,11,11,yes,semi-furnished,1.38,4,2078.0,no,yes,136.88
+apartment,gurugram,1274.0,2,3.0,18.0,0,3,yes,unfurnished,1.55,1,3582.0,yes,yes,114.35
+apartment,janakpuri,1201.0,3,3.0,17.0,1,2,yes,fully-furnished,7.44,1,3160.0,yes,yes,110.83
+apartment,dwarka,970.0,3,2.0,13.0,8,24,yes,semi-furnished,4.93,3,1663.0,yes,yes,80.42
+apartment,janakpuri,777.0,2,2.0,3.0,5,7,yes,fully-furnished,2.38,5,2624.0,yes,yes,120.95
+apartment,noida,,2,2.0,10.0,18,23,no,unfurnished,1.66,1,3895.0,yes,yes,69.39
+apartment,uttam nagar,913.0,2,2.0,9.0,0,2,yes,semi-furnished,1.64,4,,yes,yes,94.66
+apartment,noida,2135.0,5,5.0,29.0,23,24,yes,semi-furnished,2.85,2,4637.0,yes,yes,165.94
+apartment,janakpuri,1845.0,5,5.0,25.0,1,11,no,fully-furnished,3.73,0,5846.0,yes,yes,126.44
+apartment,uttam nagar,1370.0,2,2.0,8.0,16,20,yes,unfurnished,0.57,1,2869.0,yes,yes,122.68
+apartment,dwarka,1231.0,2,2.0,20.0,16,21,no,fully-furnished,5.27,2,4063.0,no,yes,107.86
+apartment,paschim vihar,1012.0,4,3.0,11.0,1,10,yes,,2.29,2,1661.0,no,yes,79.67
+builder floor,dwarka,618.0,1,2.0,2.0,12,18,yes,semi-furnished,1.03,4,1726.0,no,no,79.42
+independent house,paschim vihar,959.0,1,1.0,1.0,2,9,yes,semi-furnished,1.48,3,2416.0,yes,yes,124.87
+independent house,noida,1096.0,2,2.0,19.0,5,20,yes,unfurnished,2.39,0,2150.0,yes,yes,126.6
+apartment,rohini,1156.0,1,1.0,5.0,2,24,yes,semi-furnished,2.48,0,3213.0,yes,yes,88.66
+apartment,uttam nagar,1279.0,3,3.0,5.0,15,20,yes,unfurnished,0.68,2,1603.0,yes,no,69.86
+apartment,rohini,1546.0,4,4.0,7.0,15,18,yes,semi-furnished,1.59,4,2640.0,yes,no,145.65
+builder floor,paschim vihar,785.0,1,1.0,19.0,5,10,yes,semi-furnished,1.96,1,1393.0,no,no,91.63
+builder floor,rohini,788.0,2,3.0,25.0,3,4,no,semi-furnished,3.77,2,1149.0,no,no,46.71
+builder floor,gurugram,1931.0,5,5.0,24.0,4,13,no,unfurnished,4.06,3,2461.0,yes,no,165.36
+builder floor,rohini,1452.0,2,2.0,2.0,2,4,no,unfurnished,,0,2870.0,no,yes,118.92
+apartment,gurugram,891.0,1,2.0,6.0,11,13,yes,unfurnished,1.72,0,1497.0,yes,yes,94.88
+builder floor,noida,1004.0,2,1.0,5.0,9,21,yes,unfurnished,0.98,2,1498.0,yes,yes,90.21
+builder floor,uttam nagar,1006.0,2,2.0,19.0,3,4,no,semi-furnished,2.35,1,1555.0,no,yes,71.79
+apartment,noida,1064.0,2,2.0,6.0,3,22,yes,unfurnished,7.18,3,3211.0,yes,yes,86.5
+independent house,noida,1281.0,2,2.0,11.0,8,15,no,fully-furnished,3.46,2,1805.0,yes,yes,130.7
+apartment,gurugram,3045.0,6,5.0,20.0,3,3,yes,unfurnished,2.51,1,8510.0,yes,yes,236.19
+independent house,dwarka,1137.0,3,4.0,12.0,14,18,yes,unfurnished,3.05,3,1499.0,yes,yes,100.54
+builder floor,uttam nagar,1387.0,4,4.0,15.0,0,2,yes,fully-furnished,4.69,2,1788.0,no,yes,117.14
+apartment,rohini,517.0,1,1.0,10.0,9,16,no,unfurnished,3.24,2,1123.0,yes,yes,55.14
+builder floor,uttam nagar,857.0,2,2.0,23.0,8,13,yes,semi-furnished,0.6,2,1748.0,no,yes,77.63
+apartment,rohini,1759.0,3,3.0,25.0,18,19,yes,fully-furnished,5.54,0,4223.0,no,yes,123.47
+builder floor,uttam nagar,1243.0,3,3.0,17.0,9,10,no,fully-furnished,1.86,0,3413.0,no,yes,116.63
+builder floor,uttam nagar,350.0,1,2.0,25.0,4,4,yes,semi-furnished,2.28,1,659.0,yes,yes,59.93
+builder floor,janakpuri,1394.0,3,3.0,55.0,8,10,yes,unfurnished,4.06,2,2269.0,yes,yes,105.48
+builder floor,janakpuri,2350.0,6,5.0,20.0,7,19,yes,semi-furnished,6.95,6,7070.0,no,yes,185.41
+apartment,paschim vihar,,1,1.0,11.0,9,23,yes,fully-furnished,1.19,2,710.0,yes,yes,82.75
+apartment,noida,1988.0,6,5.0,15.0,3,6,yes,fully-furnished,3.9,1,5878.0,yes,no,174.81
+apartment,janakpuri,350.0,2,2.0,27.0,4,10,yes,unfurnished,1.13,2,872.0,yes,no,43.48
+apartment,uttam nagar,1557.0,4,5.0,9.0,22,22,yes,semi-furnished,2.14,2,2860.0,no,yes,109.25
+apartment,gurugram,1046.0,2,2.0,8.0,8,9,no,semi-furnished,0.42,5,1978.0,no,yes,114.97
+apartment,rohini,391.0,1,1.0,15.0,7,7,yes,unfurnished,1.13,4,788.0,no,yes,36.3
+apartment,rohini,1266.0,4,3.0,11.0,13,21,no,semi-furnished,2.05,0,3165.0,yes,yes,82.45
+apartment,rohini,1703.0,4,4.0,5.0,2,13,yes,unfurnished,2.61,1,5714.0,no,yes,120.25
+builder floor,uttam nagar,1223.0,2,2.0,13.0,2,15,yes,semi-furnished,2.5,6,2324.0,no,yes,104.6
+apartment,pitampura,1342.0,4,4.0,30.0,3,13,no,unfurnished,3.55,2,4391.0,yes,yes,129.57
+builder floor,noida,883.0,1,1.0,17.0,10,15,yes,semi-furnished,1.28,1,1458.0,no,yes,79.47
+apartment,paschim vihar,480.0,1,2.0,4.0,3,8,no,unfurnished,1.61,1,695.0,yes,yes,63.58
+apartment,pitampura,1404.0,4,4.0,19.0,12,18,yes,semi-furnished,1.67,3,3328.0,yes,yes,134.34
+apartment,noida,2190.0,4,5.0,10.0,9,10,yes,unfurnished,1.36,5,7333.0,no,yes,160.37
+apartment,paschim vihar,1687.0,4,4.0,44.0,5,14,yes,fully-furnished,0.79,2,3824.0,no,yes,130.99
+apartment,dwarka,456.0,2,3.0,18.0,6,6,yes,unfurnished,1.87,0,1350.0,no,no,61.77
+apartment,pitampura,556.0,1,1.0,7.0,1,2,yes,semi-furnished,3.15,2,1245.0,yes,no,61.53
+apartment,dwarka,736.0,3,2.0,20.0,12,15,yes,unfurnished,2.24,1,2260.0,no,yes,66.77
+apartment,rohini,538.0,2,2.0,14.0,0,5,no,unfurnished,1.22,4,1608.0,no,yes,51.5
+apartment,rohini,1070.0,2,2.0,28.0,6,22,yes,unfurnished,1.9,2,,no,yes,83.85
+apartment,gurugram,1239.0,1,2.0,8.0,23,24,no,unfurnished,1.16,1,3164.0,no,yes,95.46
+builder floor,janakpuri,576.0,1,2.0,18.0,8,9,no,unfurnished,2.66,2,1348.0,yes,yes,68.5
+apartment,pitampura,1455.0,4,3.0,3.0,5,8,no,semi-furnished,3.22,8,4809.0,no,yes,122.01
+independent house,paschim vihar,1352.0,2,2.0,13.0,0,13,yes,semi-furnished,3.28,5,3280.0,yes,yes,131.49
+builder floor,uttam nagar,834.0,2,2.0,4.0,0,6,yes,unfurnished,1.47,1,1619.0,yes,yes,85.01
+independent house,gurugram,977.0,2,2.0,14.0,9,21,yes,semi-furnished,1.18,7,3069.0,yes,yes,129.38
+builder floor,noida,463.0,2,1.0,16.0,4,4,no,semi-furnished,3.55,3,1228.0,yes,yes,82.74
+apartment,janakpuri,913.0,2,1.0,17.0,4,12,yes,unfurnished,1.38,2,2217.0,no,yes,84.28
+apartment,pitampura,1053.0,2,2.0,8.0,6,6,yes,semi-furnished,1.88,1,2844.0,no,yes,117.56
+apartment,gurugram,1127.0,3,4.0,13.0,11,21,yes,unfurnished,2.22,1,2217.0,no,yes,122.46
+builder floor,paschim vihar,1231.0,3,2.0,26.0,0,5,yes,unfurnished,1.76,6,2617.0,no,yes,115.04
+builder floor,gurugram,1163.0,3,2.0,36.0,7,12,yes,semi-furnished,2.94,2,1896.0,yes,yes,102.74
+apartment,rohini,940.0,3,,14.0,8,21,no,fully-furnished,0.47,4,2896.0,no,yes,89.16
+independent house,noida,,2,2.0,26.0,2,12,yes,fully-furnished,2.48,4,3155.0,no,yes,114.37
+apartment,uttam nagar,1599.0,4,5.0,6.0,4,6,yes,fully-furnished,0.9,3,,yes,yes,126.36
+apartment,rohini,1009.0,3,4.0,9.0,1,5,yes,semi-furnished,1.26,0,1915.0,yes,yes,95.8
+builder floor,uttam nagar,1200.0,3,3.0,15.0,14,15,yes,unfurnished,2.02,2,4068.0,yes,yes,82.67
+apartment,paschim vihar,971.0,3,4.0,11.0,4,4,yes,semi-furnished,0.35,1,1928.0,no,yes,96.53
+builder floor,rohini,800.0,2,2.0,10.0,8,10,yes,unfurnished,1.54,1,1583.0,yes,yes,70.97
+builder floor,janakpuri,1308.0,4,5.0,25.0,1,16,yes,unfurnished,1.34,4,4334.0,no,yes,119.53
+apartment,noida,832.0,2,2.0,5.0,10,10,no,unfurnished,1.61,2,2197.0,yes,yes,72.14
+apartment,dwarka,1235.0,3,3.0,5.0,10,21,yes,semi-furnished,,2,4018.0,yes,yes,109.28
+apartment,janakpuri,1063.0,2,1.0,4.0,13,17,no,semi-furnished,1.89,2,2733.0,yes,yes,101.77
+builder floor,janakpuri,924.0,2,1.0,15.0,1,5,yes,unfurnished,1.12,4,1610.0,no,yes,90.29
+apartment,dwarka,915.0,3,2.0,10.0,16,20,yes,semi-furnished,1.7,3,1885.0,yes,yes,97.31
+independent house,gurugram,848.0,2,2.0,23.0,7,22,no,semi-furnished,2.01,2,2620.0,no,yes,95.21
+builder floor,noida,526.0,1,1.0,14.0,4,6,yes,fully-furnished,3.64,4,1198.0,no,yes,64.76
+apartment,rohini,1233.0,3,2.0,8.0,3,10,no,unfurnished,4.21,3,3403.0,yes,yes,117.44
+apartment,gurugram,1157.0,1,1.0,7.0,11,11,yes,,0.51,4,1812.0,no,yes,110.84
+builder floor,noida,1500.0,3,4.0,1.0,8,11,yes,unfurnished,3.84,3,3119.0,no,yes,108.14
+builder floor,dwarka,840.0,3,2.0,11.0,5,12,yes,semi-furnished,0.79,1,2559.0,no,yes,99.76
+apartment,noida,2328.0,5,5.0,4.0,10,22,yes,unfurnished,1.72,2,7613.0,no,yes,167.58
+apartment,rohini,895.0,2,3.0,25.0,0,16,yes,unfurnished,0.38,7,1713.0,no,yes,81.49
+apartment,gurugram,727.0,1,1.0,9.0,6,22,yes,semi-furnished,0.2,3,1148.0,yes,no,90.94
+independent house,uttam nagar,692.0,1,1.0,3.0,8,10,yes,,6.9,1,866.0,no,yes,76.28
+apartment,uttam nagar,507.0,1,1.0,28.0,12,14,no,unfurnished,1.75,0,750.0,yes,yes,33.87
+builder floor,rohini,1999.0,5,5.0,11.0,4,4,yes,fully-furnished,1.46,1,6074.0,yes,yes,165.87
+apartment,noida,1868.0,5,5.0,19.0,0,8,no,unfurnished,2.19,4,4114.0,yes,yes,154.64
+independent house,rohini,1351.0,3,2.0,,4,15,yes,semi-furnished,1.49,2,2488.0,yes,yes,105.59
+apartment,dwarka,721.0,2,3.0,29.0,4,5,yes,semi-furnished,3.19,2,2096.0,yes,yes,61.55
+apartment,rohini,2247.0,4,5.0,6.0,9,24,yes,unfurnished,2.1,0,6619.0,no,yes,151.46
+independent house,noida,906.0,2,2.0,10.0,2,8,yes,semi-furnished,2.83,1,1809.0,yes,yes,86.52
+independent house,dwarka,,1,1.0,2.0,1,5,no,unfurnished,0.91,2,,no,yes,96.36
+apartment,gurugram,1920.0,3,2.0,29.0,18,19,yes,semi-furnished,0.44,0,4260.0,no,yes,148.01
+apartment,uttam nagar,1385.0,3,3.0,7.0,4,4,no,unfurnished,3.45,5,2458.0,yes,yes,112.34
+apartment,rohini,2647.0,6,5.0,15.0,0,9,yes,unfurnished,2.27,2,8416.0,no,yes,183.22
+apartment,rohini,1166.0,3,3.0,17.0,5,6,yes,semi-furnished,,1,1792.0,yes,yes,99.05
+apartment,rohini,889.0,2,2.0,26.0,10,17,yes,fully-furnished,0.61,1,3015.0,yes,yes,79.24
+builder floor,uttam nagar,812.0,2,2.0,15.0,18,21,yes,fully-furnished,1.92,1,2070.0,yes,yes,70.02
+apartment,noida,483.0,1,1.0,11.0,4,6,yes,fully-furnished,2.68,4,1552.0,no,no,74.7
+builder floor,dwarka,934.0,3,3.0,24.0,8,11,yes,semi-furnished,0.78,5,1488.0,no,no,113.62
+apartment,noida,1698.0,3,4.0,17.0,8,13,no,semi-furnished,2.93,1,3491.0,no,yes,114.21
+apartment,rohini,1350.0,3,2.0,10.0,13,17,no,semi-furnished,3.63,4,4214.0,no,yes,123.19
+builder floor,noida,1059.0,2,2.0,29.0,8,10,no,fully-furnished,1.88,6,3221.0,yes,no,93.58
+apartment,gurugram,691.0,2,2.0,18.0,7,14,yes,semi-furnished,1.76,2,2155.0,yes,no,79.9
+builder floor,noida,1155.0,2,1.0,4.0,1,13,no,semi-furnished,0.55,1,2099.0,yes,yes,111.39
+apartment,paschim vihar,1607.0,3,3.0,33.0,0,2,no,semi-furnished,0.91,5,4112.0,yes,yes,135.43
+independent house,noida,1258.0,2,2.0,8.0,6,15,yes,semi-furnished,1.59,4,2588.0,no,yes,126.92
+builder floor,rohini,1126.0,2,3.0,25.0,7,15,yes,unfurnished,2.31,2,2146.0,no,yes,89.25
+builder floor,dwarka,751.0,1,1.0,3.0,21,24,yes,semi-furnished,2.01,2,1761.0,yes,yes,103.84
+apartment,rohini,1511.0,4,3.0,24.0,0,13,no,semi-furnished,0.25,4,4190.0,no,yes,107.55
+apartment,janakpuri,350.0,1,1.0,4.0,20,22,yes,fully-furnished,0.74,2,819.0,no,no,65.43
+apartment,paschim vihar,1233.0,3,4.0,14.0,0,10,no,semi-furnished,2.11,4,2105.0,yes,yes,133.81
+apartment,uttam nagar,3090.0,6,,17.0,9,18,yes,fully-furnished,2.35,3,9197.0,no,yes,196.15
+apartment,noida,557.0,2,2.0,10.0,9,22,yes,semi-furnished,1.26,5,1867.0,no,yes,66.63
+apartment,rohini,949.0,2,1.0,13.0,3,5,yes,semi-furnished,2.75,2,1896.0,no,yes,93.01
+apartment,paschim vihar,1047.0,3,3.0,5.0,0,15,yes,unfurnished,2.72,0,3213.0,no,yes,106.9
+apartment,dwarka,865.0,2,2.0,22.0,18,23,no,fully-furnished,6.59,6,2682.0,yes,yes,95.36
+apartment,dwarka,1623.0,4,4.0,15.0,2,14,yes,semi-furnished,1.77,3,2878.0,no,yes,121.22
+apartment,paschim vihar,,2,3.0,6.0,17,22,yes,unfurnished,1.22,4,3522.0,yes,yes,124.04
+apartment,gurugram,1119.0,1,1.0,15.0,6,11,no,unfurnished,0.79,1,3653.0,no,yes,97.6
+builder floor,uttam nagar,1468.0,4,5.0,16.0,20,22,yes,unfurnished,0.48,3,4151.0,no,yes,143.7
+apartment,rohini,1057.0,3,3.0,13.0,16,16,no,,,2,1338.0,no,yes,98.39
+apartment,uttam nagar,3992.0,6,5.0,1.0,11,13,no,semi-furnished,2.43,3,10100.0,yes,no,257.78
+apartment,rohini,1119.0,2,3.0,9.0,3,6,yes,fully-furnished,0.55,1,3259.0,no,yes,105.01
+builder floor,noida,1140.0,4,4.0,22.0,2,5,no,semi-furnished,2.65,1,2918.0,yes,yes,106.52
+apartment,paschim vihar,512.0,1,1.0,18.0,5,8,yes,semi-furnished,1.96,3,647.0,yes,yes,78.12
+builder floor,rohini,836.0,2,2.0,18.0,12,19,no,semi-furnished,1.37,4,1224.0,no,yes,71.59
+independent house,rohini,1700.0,4,4.0,15.0,10,12,yes,fully-furnished,0.23,0,5038.0,no,yes,170.75
+apartment,dwarka,599.0,3,3.0,24.0,5,10,yes,fully-furnished,2.41,1,1362.0,yes,yes,63.15
+independent house,gurugram,424.0,1,1.0,8.0,6,12,yes,unfurnished,5.3,2,1402.0,yes,yes,87.76
+builder floor,janakpuri,1064.0,2,2.0,6.0,1,9,yes,fully-furnished,0.88,0,2248.0,no,yes,104.18
+apartment,noida,1867.0,3,4.0,39.0,3,20,yes,semi-furnished,1.96,5,5615.0,yes,yes,138.96
+apartment,uttam nagar,1069.0,3,3.0,7.0,9,10,yes,fully-furnished,2.56,3,1366.0,yes,yes,107.54
+builder floor,uttam nagar,912.0,2,2.0,4.0,12,12,no,fully-furnished,0.12,3,2782.0,yes,yes,72.07
+independent house,rohini,481.0,1,1.0,10.0,9,14,yes,,0.76,1,1486.0,no,yes,72.46
+apartment,gurugram,1270.0,5,5.0,13.0,5,16,yes,unfurnished,0.41,5,2536.0,no,yes,116.7
+apartment,dwarka,1386.0,3,4.0,24.0,0,9,no,semi-furnished,5.28,2,2607.0,no,yes,104.43
+apartment,uttam nagar,497.0,1,1.0,9.0,0,3,yes,unfurnished,0.11,1,1591.0,yes,yes,30.83
+apartment,paschim vihar,1691.0,4,5.0,9.0,12,17,no,fully-furnished,1.37,1,4922.0,no,yes,150.62
+builder floor,uttam nagar,1448.0,3,4.0,12.0,9,14,no,unfurnished,2.13,3,3642.0,yes,yes,105.76
+apartment,gurugram,1689.0,4,4.0,8.0,4,16,yes,semi-furnished,0.88,3,3648.0,no,no,161.73
+builder floor,rohini,1342.0,3,4.0,3.0,2,14,yes,fully-furnished,0.14,2,4303.0,no,yes,141.09
+builder floor,janakpuri,1382.0,3,3.0,4.0,0,13,yes,unfurnished,1.41,4,3930.0,no,yes,129.06
+builder floor,pitampura,1307.0,2,1.0,28.0,16,23,no,semi-furnished,0.86,5,2767.0,yes,yes,130.07
+builder floor,janakpuri,1512.0,5,4.0,20.0,2,3,yes,semi-furnished,2.31,1,3467.0,no,yes,153.09
+builder floor,rohini,489.0,1,1.0,12.0,1,4,yes,semi-furnished,2.96,4,693.0,yes,yes,54.16
+builder floor,rohini,559.0,1,1.0,18.0,17,23,no,unfurnished,0.55,1,1668.0,yes,yes,74.33
+builder floor,dwarka,771.0,2,1.0,21.0,19,22,yes,unfurnished,0.95,4,2353.0,yes,no,84.13
+apartment,dwarka,994.0,3,3.0,7.0,6,11,no,semi-furnished,0.99,2,1971.0,yes,no,86.42
+apartment,pitampura,1236.0,3,3.0,5.0,3,14,no,semi-furnished,2.93,5,2325.0,yes,yes,123.08
+apartment,uttam nagar,1203.0,3,2.0,26.0,0,12,no,semi-furnished,1.8,1,2111.0,yes,yes,81.81
+builder floor,uttam nagar,1679.0,4,4.0,1.0,19,24,no,unfurnished,0.57,2,2656.0,no,yes,113.24
+builder floor,pitampura,1701.0,4,4.0,18.0,7,12,no,semi-furnished,3.62,3,5588.0,no,no,133.58
+apartment,pitampura,728.0,2,3.0,14.0,6,19,yes,semi-furnished,0.87,3,2089.0,yes,yes,109.46
+apartment,dwarka,1161.0,3,3.0,24.0,0,10,yes,unfurnished,1.1,4,2500.0,no,yes,103.59
+apartment,uttam nagar,735.0,2,2.0,19.0,8,10,no,semi-furnished,0.71,4,1060.0,no,yes,77.52
+builder floor,dwarka,970.0,3,3.0,18.0,16,17,yes,semi-furnished,1.9,3,1462.0,yes,yes,101.29
+apartment,rohini,1202.0,2,2.0,6.0,5,11,no,semi-furnished,1.26,2,3319.0,yes,yes,89.76
+apartment,pitampura,350.0,1,1.0,21.0,0,2,yes,fully-furnished,4.39,1,576.0,no,yes,40.82
+builder floor,janakpuri,2891.0,6,5.0,17.0,3,5,yes,semi-furnished,1.81,4,5682.0,yes,yes,234.3
+builder floor,dwarka,1332.0,3,2.0,6.0,20,22,yes,semi-furnished,0.76,0,4403.0,no,yes,129.83
+apartment,uttam nagar,818.0,1,1.0,14.0,6,10,yes,unfurnished,1.66,3,2028.0,no,yes,57.56
+apartment,uttam nagar,2359.0,5,4.0,5.0,0,4,no,unfurnished,4.83,4,7026.0,yes,no,146.41
+independent house,paschim vihar,907.0,2,3.0,11.0,4,23,no,unfurnished,0.51,2,1296.0,no,no,117.67
+builder floor,uttam nagar,1110.0,2,2.0,49.0,2,24,yes,semi-furnished,2.41,2,2139.0,yes,yes,76.54
+builder floor,uttam nagar,856.0,2,1.0,5.0,5,13,yes,fully-furnished,0.23,4,2714.0,yes,no,86.06
+apartment,dwarka,2101.0,5,5.0,3.0,7,16,yes,,4.18,2,6267.0,no,yes,156.9
+apartment,noida,1005.0,3,3.0,4.0,10,19,yes,unfurnished,,1,2806.0,no,yes,90.66
+apartment,janakpuri,1118.0,3,2.0,11.0,3,3,yes,semi-furnished,0.74,3,2786.0,yes,yes,117.65
+builder floor,janakpuri,1741.0,2,3.0,20.0,1,8,yes,semi-furnished,4.63,0,3119.0,yes,yes,123.99
+apartment,uttam nagar,1343.0,4,4.0,13.0,14,14,yes,semi-furnished,1.58,2,3341.0,yes,no,107.68
+apartment,pitampura,1026.0,2,1.0,,3,14,no,semi-furnished,1.62,6,1346.0,yes,yes,116.28
+builder floor,janakpuri,1674.0,4,4.0,,5,9,no,fully-furnished,1.14,3,,yes,yes,149.35
+independent house,paschim vihar,,6,5.0,,0,2,yes,unfurnished,1.18,2,7135.0,no,yes,255.03
+builder floor,noida,,3,3.0,4.0,8,23,no,semi-furnished,0.2,3,1445.0,no,yes,129.48
+apartment,gurugram,1103.0,2,1.0,8.0,14,16,yes,semi-furnished,2.39,5,1887.0,no,yes,125.82
+apartment,janakpuri,1128.0,3,4.0,26.0,0,19,yes,semi-furnished,0.41,4,1731.0,no,yes,100.3
+apartment,janakpuri,1821.0,5,5.0,13.0,6,12,yes,fully-furnished,3.27,1,3569.0,yes,yes,157.18
+apartment,noida,816.0,2,2.0,13.0,8,13,yes,unfurnished,0.61,0,2520.0,yes,yes,83.31
+apartment,dwarka,934.0,3,4.0,4.0,7,12,yes,semi-furnished,1.75,3,3068.0,yes,yes,97.82
+apartment,noida,550.0,2,2.0,,4,11,yes,semi-furnished,0.98,2,860.0,yes,yes,66.01
+builder floor,janakpuri,,2,,23.0,6,17,yes,fully-furnished,1.14,0,1092.0,no,yes,76.04
+builder floor,rohini,,1,1.0,16.0,22,24,no,semi-furnished,1.33,1,2588.0,no,yes,104.6
+independent house,rohini,1026.0,3,3.0,20.0,4,19,yes,semi-furnished,2.11,2,1621.0,no,no,101.45
+apartment,noida,2207.0,5,5.0,12.0,8,17,no,fully-furnished,4.53,4,6248.0,yes,yes,182.67
+apartment,rohini,1315.0,4,3.0,23.0,1,2,no,semi-furnished,1.11,1,1825.0,yes,yes,94.05
+apartment,dwarka,716.0,1,1.0,4.0,10,13,yes,semi-furnished,0.16,1,1880.0,yes,yes,101.23
+apartment,pitampura,773.0,1,2.0,11.0,19,23,no,semi-furnished,3.87,3,1379.0,yes,yes,80.68
+apartment,rohini,1870.0,6,5.0,18.0,10,11,no,unfurnished,2.66,2,5328.0,no,yes,138.24
+apartment,dwarka,1685.0,3,3.0,3.0,1,14,no,semi-furnished,0.59,2,3947.0,no,yes,115.6
+builder floor,paschim vihar,1062.0,3,4.0,1.0,0,9,yes,fully-furnished,0.48,5,1692.0,no,yes,140.18
+apartment,rohini,872.0,2,2.0,39.0,2,6,yes,semi-furnished,2.19,4,1818.0,yes,yes,87.53
+independent house,noida,1684.0,4,4.0,13.0,8,18,no,semi-furnished,1.9,3,3926.0,no,yes,137.94
+apartment,noida,692.0,2,2.0,2.0,0,9,yes,fully-furnished,5.33,4,2347.0,yes,yes,95.66
+apartment,pitampura,1238.0,2,2.0,13.0,14,15,no,fully-furnished,2.4,1,2794.0,no,yes,100.23
+apartment,rohini,2727.0,6,5.0,4.0,14,15,yes,fully-furnished,0.92,1,4180.0,yes,yes,213.64
+apartment,uttam nagar,1145.0,2,2.0,,9,21,no,semi-furnished,0.74,2,2773.0,yes,yes,84.78
+apartment,rohini,758.0,2,1.0,26.0,18,23,yes,fully-furnished,1.7,4,1277.0,no,yes,89.4
+independent house,pitampura,1248.0,4,4.0,8.0,8,14,yes,unfurnished,0.21,0,3913.0,yes,no,141.84
+apartment,gurugram,862.0,2,2.0,8.0,2,3,yes,semi-furnished,0.33,3,2616.0,yes,yes,116.32
+apartment,gurugram,585.0,1,2.0,4.0,13,15,yes,semi-furnished,0.52,6,868.0,yes,no,104.96
+apartment,noida,1409.0,4,5.0,9.0,2,22,yes,fully-furnished,0.9,2,3515.0,no,yes,126.51
+apartment,dwarka,1679.0,4,4.0,14.0,3,12,yes,fully-furnished,1.55,2,,yes,yes,145.53
+builder floor,paschim vihar,921.0,2,2.0,8.0,6,14,yes,semi-furnished,2.52,2,,no,yes,91.19
+apartment,paschim vihar,896.0,3,2.0,45.0,17,19,yes,semi-furnished,4.03,4,2310.0,no,no,79.38
+builder floor,pitampura,701.0,2,1.0,5.0,7,12,yes,semi-furnished,3.5,3,1555.0,no,yes,114.36
+apartment,uttam nagar,986.0,2,2.0,5.0,4,11,no,semi-furnished,3.11,6,2229.0,yes,no,86.93
+apartment,rohini,829.0,3,3.0,9.0,0,13,no,semi-furnished,1.1,2,2000.0,no,yes,66.17
+builder floor,dwarka,687.0,2,2.0,42.0,13,21,no,unfurnished,0.76,4,1686.0,,no,86.48
+builder floor,janakpuri,2324.0,5,5.0,20.0,3,13,yes,semi-furnished,2.15,1,6418.0,no,yes,187.41
+apartment,rohini,1277.0,3,3.0,8.0,3,9,yes,fully-furnished,2.26,2,,no,no,119.08
+apartment,rohini,1335.0,4,4.0,8.0,15,15,no,semi-furnished,0.57,3,3724.0,yes,yes,120.95
+apartment,noida,1522.0,3,3.0,5.0,9,17,yes,fully-furnished,1.33,3,3454.0,no,yes,138.39
+apartment,gurugram,1452.0,2,2.0,9.0,3,22,yes,semi-furnished,0.7,1,3860.0,no,yes,110.64
+apartment,uttam nagar,883.0,2,2.0,,1,22,yes,semi-furnished,0.31,1,1571.0,no,no,83.51
+builder floor,noida,1177.0,4,3.0,20.0,8,20,yes,unfurnished,2.03,1,2815.0,no,yes,81.6
+apartment,gurugram,938.0,3,3.0,17.0,1,19,yes,semi-furnished,3.07,2,2091.0,no,no,112.46
+builder floor,rohini,1262.0,3,3.0,9.0,5,12,no,semi-furnished,4.99,3,2353.0,yes,yes,109.24
+apartment,janakpuri,1212.0,4,5.0,32.0,4,9,yes,unfurnished,1.41,2,1621.0,yes,no,115.85
+builder floor,pitampura,894.0,3,2.0,7.0,13,14,no,unfurnished,0.24,3,2076.0,no,yes,104.41
+builder floor,rohini,601.0,1,1.0,3.0,6,18,no,semi-furnished,5.61,2,734.0,no,yes,74.36
+apartment,paschim vihar,1117.0,2,2.0,14.0,3,13,yes,semi-furnished,5.96,2,2298.0,yes,yes,102.81
+apartment,janakpuri,964.0,2,2.0,25.0,4,6,yes,semi-furnished,9.8,4,1943.0,no,yes,86.8
+apartment,janakpuri,475.0,1,1.0,12.0,1,2,yes,unfurnished,7.23,3,1232.0,no,yes,60.01
+builder floor,rohini,1300.0,3,,4.0,0,3,no,semi-furnished,1.94,4,4384.0,no,yes,132.51
+apartment,dwarka,1575.0,4,4.0,,1,11,yes,semi-furnished,1.61,1,4863.0,yes,yes,140.36
+apartment,gurugram,3036.0,6,5.0,15.0,3,20,yes,semi-furnished,2.84,1,10156.0,yes,yes,215.95
+apartment,rohini,891.0,2,1.0,16.0,16,20,yes,semi-furnished,0.39,0,2933.0,no,yes,72.49
+builder floor,dwarka,837.0,2,2.0,14.0,4,20,yes,unfurnished,0.86,0,1141.0,no,no,91.75
+apartment,dwarka,659.0,2,1.0,,18,18,yes,fully-furnished,1.43,2,1200.0,yes,yes,91.77
+apartment,janakpuri,1146.0,1,1.0,5.0,1,2,yes,unfurnished,3.59,3,2124.0,no,yes,91.19
+independent house,uttam nagar,1143.0,2,2.0,0.0,21,22,yes,semi-furnished,3.71,8,1550.0,no,yes,138.71
+apartment,janakpuri,747.0,1,1.0,2.0,5,23,yes,unfurnished,1.5,3,2288.0,yes,yes,83.85
+builder floor,rohini,976.0,3,2.0,4.0,9,21,yes,semi-furnished,0.43,1,3094.0,no,yes,103.18
+apartment,dwarka,457.0,1,1.0,22.0,1,12,yes,unfurnished,,3,1157.0,no,yes,38.56
+apartment,noida,1549.0,5,4.0,9.0,5,6,yes,,0.4,0,4895.0,yes,yes,152.99
+builder floor,uttam nagar,760.0,2,2.0,34.0,13,22,no,semi-furnished,1.0,1,2106.0,yes,no,55.65
+builder floor,uttam nagar,1035.0,2,2.0,4.0,0,6,no,semi-furnished,,2,2245.0,no,yes,77.08
+builder floor,paschim vihar,577.0,1,1.0,33.0,15,20,no,unfurnished,0.35,3,883.0,no,yes,63.4
+apartment,paschim vihar,822.0,2,2.0,,22,24,yes,unfurnished,0.8,1,2720.0,no,yes,105.15
+apartment,rohini,934.0,3,4.0,10.0,15,22,no,semi-furnished,3.37,6,,no,yes,92.49
+apartment,pitampura,1045.0,2,3.0,2.0,11,13,no,semi-furnished,2.84,1,2068.0,no,yes,94.53
+apartment,janakpuri,1284.0,2,2.0,30.0,6,21,yes,semi-furnished,0.5,2,1904.0,no,yes,101.05
+apartment,pitampura,1922.0,5,4.0,11.0,9,21,no,fully-furnished,2.11,1,,no,yes,177.49
+apartment,noida,1428.0,4,4.0,47.0,21,24,yes,semi-furnished,0.24,2,4233.0,no,yes,109.9
+apartment,janakpuri,1573.0,2,2.0,26.0,6,10,yes,fully-furnished,2.62,4,3767.0,no,no,133.92
+apartment,paschim vihar,1927.0,5,5.0,10.0,10,16,no,unfurnished,0.88,1,6552.0,,yes,165.84
+apartment,noida,1334.0,3,4.0,6.0,16,20,no,fully-furnished,1.35,2,2735.0,yes,no,82.4
+apartment,janakpuri,1034.0,1,1.0,23.0,4,7,yes,semi-furnished,1.75,3,3384.0,yes,yes,108.24
+builder floor,gurugram,1604.0,2,1.0,12.0,1,7,yes,semi-furnished,0.53,0,4149.0,yes,yes,137.26
+builder floor,uttam nagar,1648.0,3,3.0,6.0,2,10,yes,fully-furnished,0.81,3,4648.0,yes,yes,132.1
+apartment,noida,1379.0,3,2.0,13.0,8,10,no,semi-furnished,5.13,2,4437.0,no,yes,124.39
+builder floor,pitampura,570.0,1,2.0,2.0,4,19,yes,fully-furnished,1.27,3,1726.0,yes,yes,110.84
+builder floor,janakpuri,737.0,2,2.0,16.0,15,23,yes,semi-furnished,1.83,3,1352.0,no,yes,94.89
+apartment,janakpuri,936.0,2,2.0,18.0,2,5,yes,unfurnished,1.85,5,2909.0,yes,yes,99.82
+apartment,rohini,1457.0,3,4.0,4.0,6,9,yes,semi-furnished,4.11,2,3478.0,yes,yes,131.22
+apartment,pitampura,1041.0,2,2.0,28.0,5,23,yes,semi-furnished,2.97,2,1352.0,no,yes,112.12
+apartment,gurugram,1693.0,4,4.0,24.0,4,15,yes,fully-furnished,0.56,2,4541.0,yes,yes,173.08
+builder floor,uttam nagar,1824.0,4,5.0,15.0,4,6,yes,,4.48,4,4194.0,yes,yes,146.74
+independent house,rohini,1737.0,4,3.0,5.0,2,15,yes,unfurnished,5.68,3,4135.0,yes,yes,139.91
+apartment,pitampura,1742.0,5,4.0,19.0,7,22,yes,unfurnished,0.56,5,3668.0,no,yes,146.76
+builder floor,dwarka,679.0,1,1.0,9.0,10,10,yes,unfurnished,1.2,1,,no,no,78.6
+apartment,rohini,1286.0,2,2.0,14.0,2,13,yes,semi-furnished,1.47,5,2053.0,yes,yes,105.79
+builder floor,gurugram,814.0,2,1.0,21.0,9,16,yes,unfurnished,1.24,2,2331.0,no,yes,84.7
+builder floor,janakpuri,525.0,2,1.0,3.0,3,21,yes,semi-furnished,2.63,0,901.0,no,no,79.4
+apartment,dwarka,931.0,2,3.0,2.0,10,14,no,semi-furnished,1.36,4,2403.0,no,yes,77.79
+apartment,uttam nagar,1832.0,4,4.0,8.0,3,24,yes,fully-furnished,1.01,4,4382.0,no,yes,141.56
+builder floor,rohini,1274.0,4,4.0,42.0,11,19,yes,unfurnished,2.72,2,2149.0,yes,yes,104.11
+independent house,dwarka,2450.0,6,5.0,48.0,5,11,yes,semi-furnished,0.16,1,4452.0,yes,yes,196.64
+apartment,paschim vihar,1131.0,3,4.0,16.0,9,13,yes,unfurnished,1.94,0,2312.0,yes,yes,116.99
+apartment,uttam nagar,2935.0,6,5.0,24.0,0,18,no,fully-furnished,2.4,4,9205.0,yes,yes,204.67
+apartment,gurugram,1131.0,3,3.0,12.0,2,3,yes,unfurnished,4.28,2,3699.0,yes,yes,138.25
+apartment,uttam nagar,1060.0,2,3.0,13.0,4,7,no,unfurnished,1.72,1,2174.0,yes,yes,70.8
+builder floor,janakpuri,614.0,1,1.0,10.0,1,7,no,unfurnished,0.26,4,799.0,no,no,75.41
+builder floor,paschim vihar,15000.0,3,3.0,26.0,6,20,no,fully-furnished,1.8,2,4222.0,yes,yes,147.03
+builder floor,gurugram,850.0,2,2.0,,14,20,yes,unfurnished,0.24,2,1801.0,yes,no,97.87
+builder floor,paschim vihar,800.0,1,1.0,13.0,11,20,yes,semi-furnished,2.21,0,1826.0,yes,yes,78.09
+builder floor,gurugram,1798.0,4,5.0,13.0,2,4,no,semi-furnished,3.77,1,3906.0,yes,no,146.23
+apartment,noida,1708.0,3,4.0,11.0,8,8,yes,semi-furnished,1.53,0,4509.0,no,no,134.75
+apartment,noida,1689.0,4,4.0,35.0,4,9,yes,unfurnished,1.36,3,3158.0,no,yes,108.68
+apartment,rohini,902.0,2,3.0,22.0,2,2,no,unfurnished,2.92,3,2854.0,yes,yes,70.26
+apartment,paschim vihar,1028.0,2,2.0,5.0,7,7,yes,semi-furnished,2.15,1,2186.0,yes,yes,99.25
+independent house,janakpuri,1024.0,1,1.0,41.0,6,11,no,unfurnished,2.76,2,1998.0,no,yes,89.09
+builder floor,uttam nagar,1459.0,3,4.0,1.0,4,22,no,semi-furnished,7.13,3,4713.0,no,yes,123.03
+independent house,uttam nagar,2016.0,4,3.0,32.0,2,5,no,semi-furnished,1.07,2,4008.0,no,yes,135.58
+apartment,gurugram,1226.0,3,3.0,25.0,1,21,yes,semi-furnished,2.32,5,1695.0,no,yes,128.96
+apartment,gurugram,2407.0,6,5.0,13.0,14,20,yes,unfurnished,4.54,2,3711.0,no,yes,184.72
+apartment,dwarka,1531.0,4,4.0,13.0,1,5,yes,semi-furnished,4.59,2,,no,yes,122.7
+apartment,paschim vihar,951.0,2,3.0,11.0,8,8,yes,unfurnished,2.49,3,2318.0,no,yes,101.91
+apartment,paschim vihar,1487.0,4,4.0,5.0,8,12,yes,semi-furnished,,4,3533.0,no,yes,136.8
+apartment,pitampura,2150.0,5,5.0,39.0,11,23,no,unfurnished,2.73,5,2968.0,yes,yes,151.61
+apartment,rohini,2430.0,5,4.0,12.0,3,20,no,fully-furnished,2.78,2,3793.0,no,yes,169.93
+independent house,rohini,1729.0,5,,5.0,2,24,yes,semi-furnished,3.13,2,3582.0,yes,yes,139.02
+apartment,noida,1061.0,3,2.0,37.0,6,9,no,unfurnished,0.6,2,2319.0,no,yes,85.69
+apartment,janakpuri,959.0,3,3.0,17.0,17,22,no,unfurnished,5.57,2,1945.0,no,yes,50.67
+builder floor,gurugram,1337.0,3,3.0,18.0,6,23,yes,semi-furnished,4.55,4,3083.0,no,yes,142.11
+apartment,janakpuri,2121.0,6,5.0,43.0,0,15,no,unfurnished,1.57,2,5968.0,no,yes,157.66
+independent house,gurugram,1260.0,3,3.0,20.0,1,5,no,unfurnished,4.24,4,3274.0,no,yes,147.65
+builder floor,pitampura,1271.0,3,3.0,7.0,6,8,yes,fully-furnished,1.48,3,3234.0,no,yes,160.59
+apartment,noida,1073.0,2,3.0,20.0,2,4,no,semi-furnished,4.96,2,2604.0,no,yes,97.0
+builder floor,rohini,915.0,2,3.0,6.0,1,20,yes,unfurnished,1.79,3,1502.0,yes,yes,84.2
+builder floor,uttam nagar,981.0,1,1.0,9.0,1,9,no,semi-furnished,0.73,2,2482.0,no,yes,102.21
+builder floor,noida,1111.0,2,2.0,16.0,2,18,yes,unfurnished,,1,1720.0,no,yes,79.64
+builder floor,gurugram,2161.0,5,5.0,24.0,6,8,yes,fully-furnished,3.04,3,5983.0,yes,yes,170.84
+builder floor,noida,949.0,2,2.0,8.0,19,24,yes,unfurnished,1.4,1,2083.0,no,yes,114.57
+builder floor,rohini,1073.0,4,3.0,11.0,8,19,yes,semi-furnished,5.26,6,2660.0,no,yes,110.72
+apartment,pitampura,730.0,1,1.0,11.0,7,10,no,semi-furnished,2.76,3,2262.0,yes,yes,61.25
+builder floor,rohini,1419.0,3,3.0,27.0,0,12,yes,unfurnished,1.26,4,2868.0,yes,yes,99.49
+independent house,rohini,1864.0,4,4.0,13.0,2,3,yes,unfurnished,5.3,2,2646.0,yes,yes,160.38
+builder floor,paschim vihar,2077.0,4,4.0,40.0,1,5,no,semi-furnished,3.12,1,6566.0,yes,yes,148.03
+builder floor,paschim vihar,1144.0,3,3.0,9.0,20,24,no,fully-furnished,2.19,1,2291.0,no,yes,111.99
+apartment,noida,1336.0,4,4.0,8.0,10,20,yes,semi-furnished,1.7,2,2798.0,no,yes,141.35
+builder floor,noida,984.0,2,2.0,32.0,18,21,yes,semi-furnished,0.7,3,1822.0,yes,yes,119.36
+independent house,paschim vihar,1311.0,3,3.0,19.0,9,16,yes,fully-furnished,,1,2785.0,yes,yes,146.1
+apartment,noida,1198.0,2,2.0,55.0,3,7,yes,fully-furnished,2.9,7,2811.0,yes,yes,95.22
+apartment,rohini,1076.0,3,3.0,31.0,4,4,yes,semi-furnished,0.56,4,3287.0,yes,yes,104.21
+apartment,dwarka,1113.0,3,3.0,4.0,18,18,yes,semi-furnished,0.7,3,3099.0,no,yes,105.35
+apartment,uttam nagar,1269.0,3,3.0,12.0,4,9,yes,semi-furnished,1.46,1,2956.0,yes,yes,74.5
+apartment,noida,928.0,1,1.0,16.0,1,2,no,unfurnished,1.5,4,2673.0,no,yes,46.28
+apartment,rohini,948.0,1,1.0,15.0,1,2,yes,fully-furnished,0.8,3,2906.0,no,yes,85.7
+apartment,janakpuri,2151.0,5,4.0,11.0,2,14,no,,2.89,1,2856.0,no,yes,168.7
+builder floor,paschim vihar,3278.0,6,5.0,15.0,8,21,yes,unfurnished,0.29,4,8205.0,no,yes,244.0
+builder floor,rohini,633.0,1,1.0,15.0,9,10,yes,fully-furnished,2.85,4,820.0,yes,yes,86.74
+builder floor,pitampura,619.0,1,2.0,8.0,22,24,yes,semi-furnished,1.32,4,1162.0,yes,yes,102.95
+builder floor,noida,702.0,3,3.0,26.0,4,10,no,unfurnished,0.76,3,2020.0,yes,yes,91.74
+builder floor,paschim vihar,1005.0,2,2.0,37.0,7,18,yes,unfurnished,0.32,1,2956.0,no,yes,96.48
+builder floor,dwarka,1530.0,5,5.0,21.0,6,7,no,semi-furnished,1.94,1,4811.0,no,yes,137.41
+builder floor,noida,1346.0,4,4.0,17.0,3,15,no,fully-furnished,0.52,0,3091.0,no,yes,122.69
+apartment,pitampura,1129.0,2,2.0,12.0,0,8,yes,unfurnished,0.44,3,1564.0,no,yes,103.61
+builder floor,noida,1311.0,3,2.0,15.0,1,19,yes,unfurnished,4.5,1,1939.0,no,yes,91.09
+apartment,dwarka,785.0,2,2.0,17.0,1,12,yes,semi-furnished,0.39,2,1364.0,no,yes,94.89
+apartment,uttam nagar,948.0,2,2.0,5.0,2,2,no,fully-furnished,0.28,4,1914.0,yes,no,80.21
+apartment,pitampura,1041.0,2,3.0,25.0,0,7,yes,unfurnished,2.68,2,2455.0,no,yes,89.96
+builder floor,dwarka,540.0,2,2.0,9.0,3,10,yes,fully-furnished,2.07,3,1415.0,yes,yes,79.2
+builder floor,noida,645.0,1,2.0,33.0,7,12,no,fully-furnished,1.0,3,1005.0,no,no,55.45
+apartment,dwarka,656.0,2,2.0,14.0,5,8,yes,unfurnished,0.66,3,1060.0,no,yes,73.06
+builder floor,rohini,1447.0,3,3.0,25.0,13,15,no,fully-furnished,0.85,2,2287.0,yes,yes,127.7
+apartment,pitampura,1164.0,3,4.0,21.0,24,24,no,semi-furnished,1.03,0,3330.0,no,no,99.25
+builder floor,paschim vihar,1357.0,4,4.0,4.0,7,18,yes,semi-furnished,2.45,4,2530.0,no,yes,149.51
+builder floor,noida,485.0,1,1.0,31.0,2,9,yes,semi-furnished,1.98,2,760.0,yes,yes,57.02
+builder floor,gurugram,563.0,2,2.0,7.0,1,17,yes,fully-furnished,1.2,4,1210.0,no,yes,81.57
+builder floor,dwarka,1387.0,2,2.0,9.0,22,24,no,fully-furnished,1.19,1,2420.0,no,no,139.26
+apartment,pitampura,350.0,1,1.0,9.0,2,7,no,semi-furnished,2.78,3,704.0,no,no,59.07
+apartment,rohini,1756.0,2,2.0,3.0,7,7,yes,fully-furnished,0.76,2,5291.0,yes,yes,151.1
+builder floor,uttam nagar,488.0,1,2.0,15.0,1,2,yes,semi-furnished,,3,944.0,yes,yes,69.0
+builder floor,gurugram,1496.0,4,3.0,27.0,16,21,yes,,4.16,2,2371.0,yes,yes,136.34
+apartment,paschim vihar,723.0,2,1.0,32.0,14,21,no,fully-furnished,1.2,1,1237.0,yes,yes,72.81
+apartment,uttam nagar,1631.0,3,3.0,11.0,8,11,yes,unfurnished,6.03,1,2080.0,no,no,118.59
+apartment,pitampura,4040.0,6,5.0,13.0,14,22,yes,unfurnished,1.05,3,12857.0,no,yes,300.58
+apartment,gurugram,404.0,1,1.0,,5,16,no,semi-furnished,1.63,7,1104.0,yes,yes,69.34
+apartment,janakpuri,1406.0,3,3.0,11.0,2,24,no,fully-furnished,0.7,1,3120.0,no,yes,116.49
+apartment,rohini,491.0,1,1.0,28.0,0,23,no,unfurnished,2.0,1,1195.0,yes,no,57.27
+independent house,pitampura,1256.0,3,3.0,12.0,10,24,no,semi-furnished,1.21,3,2209.0,yes,yes,129.94
+apartment,rohini,963.0,2,2.0,6.0,10,11,no,unfurnished,1.35,3,2011.0,yes,yes,86.99
+apartment,dwarka,1109.0,2,2.0,15.0,10,16,no,semi-furnished,1.77,3,2111.0,no,no,90.3
+apartment,rohini,716.0,2,3.0,3.0,4,5,no,semi-furnished,1.08,1,2158.0,yes,yes,77.61
+apartment,janakpuri,1457.0,4,4.0,15.0,5,22,yes,unfurnished,1.95,3,4131.0,yes,yes,116.26
+builder floor,uttam nagar,571.0,1,1.0,17.0,4,9,yes,fully-furnished,0.86,1,1042.0,no,yes,57.89
+apartment,pitampura,1769.0,3,2.0,7.0,5,12,yes,unfurnished,1.87,1,5089.0,yes,yes,138.52
+builder floor,pitampura,884.0,2,2.0,16.0,2,15,yes,fully-furnished,0.24,2,1243.0,no,yes,114.39
+builder floor,gurugram,583.0,1,1.0,10.0,12,20,no,unfurnished,,3,959.0,no,yes,84.33
+apartment,paschim vihar,2052.0,4,4.0,7.0,6,18,yes,fully-furnished,0.69,1,2943.0,yes,yes,183.96
+builder floor,janakpuri,1021.0,3,3.0,3.0,9,23,yes,semi-furnished,0.49,4,1760.0,yes,no,106.57
+independent house,dwarka,2340.0,6,5.0,4.0,11,18,yes,unfurnished,0.53,5,3972.0,no,yes,201.33
+apartment,noida,1754.0,4,5.0,35.0,0,20,no,unfurnished,2.34,2,5580.0,no,yes,130.37
+apartment,dwarka,751.0,2,2.0,10.0,14,15,no,unfurnished,1.24,3,1442.0,yes,yes,87.82
+independent house,dwarka,1013.0,1,1.0,17.0,2,11,yes,semi-furnished,1.08,0,2007.0,no,yes,90.62
+builder floor,gurugram,1105.0,3,3.0,11.0,16,23,no,fully-furnished,1.97,3,1568.0,yes,yes,131.26
+apartment,janakpuri,1993.0,5,5.0,36.0,8,10,no,semi-furnished,2.09,1,2681.0,yes,yes,141.89
+apartment,paschim vihar,1262.0,4,4.0,7.0,2,16,no,semi-furnished,0.97,1,2124.0,no,no,126.7
+apartment,uttam nagar,1131.0,2,2.0,13.0,2,8,yes,semi-furnished,3.43,1,1692.0,yes,yes,105.18
+builder floor,uttam nagar,965.0,2,2.0,9.0,5,13,yes,semi-furnished,1.31,3,1890.0,no,no,56.04
+apartment,dwarka,1028.0,3,3.0,25.0,8,10,no,semi-furnished,2.51,1,1654.0,no,yes,82.86
+apartment,dwarka,1816.0,4,5.0,16.0,5,7,yes,semi-furnished,0.86,3,2891.0,yes,yes,154.84
+builder floor,dwarka,1052.0,2,2.0,13.0,9,20,yes,semi-furnished,1.91,2,2761.0,no,no,102.6
+independent house,rohini,889.0,4,3.0,4.0,16,19,no,fully-furnished,2.69,2,2909.0,no,yes,118.76
+builder floor,noida,828.0,1,1.0,46.0,8,18,yes,semi-furnished,2.46,3,1016.0,yes,yes,76.03
+apartment,dwarka,832.0,2,3.0,11.0,3,3,no,unfurnished,2.29,0,2290.0,no,no,70.63
+apartment,uttam nagar,583.0,2,2.0,6.0,6,7,yes,unfurnished,0.82,2,,no,yes,45.3
+independent house,noida,766.0,2,2.0,3.0,1,7,yes,semi-furnished,0.46,2,1905.0,yes,yes,90.27
+independent house,noida,1970.0,4,4.0,4.0,7,18,yes,semi-furnished,0.41,3,5364.0,no,no,166.18
+apartment,janakpuri,963.0,2,2.0,13.0,0,22,yes,fully-furnished,1.03,5,2233.0,no,yes,95.88
+builder floor,janakpuri,,3,3.0,26.0,2,10,no,semi-furnished,0.97,2,4571.0,no,no,123.28
+apartment,gurugram,371.0,1,1.0,16.0,0,9,yes,semi-furnished,2.11,3,574.0,yes,no,65.18
+apartment,paschim vihar,1333.0,4,3.0,3.0,1,14,yes,fully-furnished,1.57,1,2988.0,no,yes,123.97
+apartment,noida,981.0,2,1.0,13.0,0,24,yes,unfurnished,0.42,2,2587.0,yes,no,74.65
+apartment,gurugram,858.0,2,2.0,,7,10,yes,fully-furnished,3.05,4,2745.0,no,yes,90.38
+apartment,noida,1133.0,2,1.0,10.0,3,8,no,unfurnished,1.82,3,2575.0,yes,yes,86.65
+builder floor,dwarka,853.0,2,3.0,16.0,6,13,no,semi-furnished,0.77,2,2857.0,yes,yes,84.41
+apartment,uttam nagar,430.0,1,1.0,10.0,18,23,no,fully-furnished,0.9,2,1137.0,,yes,56.52
+apartment,rohini,1547.0,3,3.0,18.0,15,18,yes,fully-furnished,4.14,1,4236.0,yes,yes,138.12
+apartment,uttam nagar,1163.0,3,3.0,6.0,7,13,yes,fully-furnished,0.49,3,3489.0,no,yes,88.66
+apartment,gurugram,920.0,2,2.0,0.0,8,18,yes,semi-furnished,4.29,0,2589.0,no,yes,115.0
+apartment,janakpuri,700.0,2,2.0,4.0,1,2,no,fully-furnished,1.22,4,1645.0,no,yes,94.31
+apartment,janakpuri,566.0,1,1.0,9.0,8,19,no,semi-furnished,1.29,5,1641.0,no,yes,71.32
+apartment,rohini,1154.0,2,2.0,12.0,2,4,no,semi-furnished,1.97,1,1476.0,no,no,105.09
+builder floor,gurugram,2068.0,4,4.0,9.0,3,10,yes,unfurnished,0.3,1,6725.0,yes,yes,177.87
+independent house,rohini,1144.0,4,3.0,9.0,2,10,yes,unfurnished,1.82,4,3445.0,no,yes,121.62
+apartment,rohini,587.0,1,1.0,26.0,3,17,yes,semi-furnished,2.65,4,1528.0,yes,yes,58.89
+independent house,dwarka,1154.0,3,3.0,5.0,5,7,yes,unfurnished,1.01,4,1559.0,yes,yes,129.79
+independent house,rohini,1027.0,3,3.0,13.0,6,7,yes,semi-furnished,1.47,3,1899.0,no,yes,117.22
+builder floor,janakpuri,1509.0,3,3.0,3.0,9,22,no,fully-furnished,6.12,0,2653.0,no,no,131.76
+builder floor,janakpuri,1355.0,2,2.0,21.0,1,12,no,fully-furnished,2.87,7,2392.0,yes,yes,130.22
+builder floor,dwarka,350.0,1,1.0,15.0,12,19,no,unfurnished,0.63,2,938.0,no,yes,47.37
+builder floor,rohini,1320.0,4,4.0,46.0,14,15,no,fully-furnished,0.95,1,4128.0,no,no,99.08
+builder floor,rohini,689.0,1,1.0,5.0,8,16,yes,unfurnished,1.18,2,1860.0,no,yes,65.33
+apartment,pitampura,578.0,2,3.0,37.0,0,17,no,semi-furnished,3.01,4,1188.0,yes,no,61.91
+independent house,rohini,970.0,2,2.0,6.0,1,17,yes,fully-furnished,0.63,2,3232.0,no,yes,122.17
+builder floor,paschim vihar,1248.0,3,3.0,10.0,12,22,yes,,2.47,1,3866.0,no,yes,114.7
+builder floor,dwarka,527.0,2,2.0,4.0,18,20,yes,unfurnished,2.48,1,1427.0,no,no,79.96
+apartment,dwarka,1412.0,3,4.0,45.0,0,9,yes,unfurnished,1.55,0,2929.0,no,yes,106.67
+apartment,pitampura,1447.0,3,3.0,17.0,4,5,no,semi-furnished,3.08,1,3913.0,no,yes,117.68
+apartment,pitampura,1071.0,3,3.0,17.0,17,21,yes,fully-furnished,0.7,4,2247.0,yes,yes,133.1
+apartment,rohini,729.0,1,1.0,6.0,0,10,no,unfurnished,3.54,0,1124.0,yes,yes,67.52
+apartment,rohini,696.0,1,1.0,1.0,2,9,yes,unfurnished,0.23,2,1783.0,no,yes,68.02
+apartment,noida,1616.0,4,3.0,9.0,0,4,yes,semi-furnished,0.63,2,4421.0,yes,yes,134.27
+apartment,rohini,557.0,1,1.0,8.0,8,14,no,unfurnished,0.23,2,1096.0,yes,yes,57.1
+apartment,janakpuri,1642.0,4,4.0,2.0,2,13,no,semi-furnished,0.74,0,5327.0,no,yes,120.9
+apartment,janakpuri,980.0,3,3.0,10.0,20,21,yes,fully-furnished,2.51,2,,yes,yes,98.85
+independent house,pitampura,1009.0,2,1.0,13.0,1,19,yes,semi-furnished,2.04,2,2505.0,yes,no,122.73
+apartment,janakpuri,512.0,2,,18.0,12,18,yes,fully-furnished,1.8,1,682.0,no,yes,53.69
+apartment,noida,987.0,2,2.0,1.0,11,14,yes,semi-furnished,0.73,3,1222.0,no,no,88.44
+apartment,noida,1359.0,4,4.0,4.0,3,21,yes,fully-furnished,1.45,5,3544.0,yes,yes,127.27
+apartment,dwarka,599.0,1,,6.0,6,24,yes,unfurnished,3.57,2,1791.0,no,no,95.3
+apartment,dwarka,,3,4.0,26.0,16,20,no,unfurnished,0.76,2,2980.0,no,no,110.32
+builder floor,dwarka,1090.0,3,3.0,26.0,1,10,yes,semi-furnished,0.79,6,1364.0,yes,yes,123.32
+independent house,janakpuri,801.0,2,3.0,16.0,3,8,yes,unfurnished,0.82,4,1216.0,yes,yes,95.95
+apartment,paschim vihar,1503.0,4,4.0,10.0,0,2,yes,fully-furnished,1.73,1,2502.0,yes,yes,144.94
+builder floor,dwarka,,1,1.0,28.0,0,24,yes,semi-furnished,2.35,3,1074.0,no,yes,39.99
+apartment,pitampura,1215.0,4,3.0,15.0,8,18,yes,fully-furnished,2.77,0,2757.0,no,yes,117.15
+apartment,gurugram,2073.0,6,5.0,27.0,11,23,yes,semi-furnished,1.18,1,2954.0,yes,yes,181.11
+apartment,rohini,1922.0,5,4.0,17.0,7,20,yes,semi-furnished,1.09,3,4428.0,yes,no,131.53
+apartment,janakpuri,1237.0,3,2.0,2.0,9,11,no,semi-furnished,0.91,2,3851.0,yes,yes,119.84
+builder floor,paschim vihar,925.0,3,3.0,1.0,0,5,yes,unfurnished,2.23,3,2004.0,no,yes,111.38
+builder floor,rohini,804.0,1,2.0,9.0,1,3,no,semi-furnished,0.31,2,1230.0,yes,no,72.66
+builder floor,rohini,925.0,1,1.0,23.0,3,20,yes,semi-furnished,1.32,2,2286.0,no,no,70.88
+apartment,rohini,1319.0,4,4.0,8.0,6,8,no,fully-furnished,1.33,2,4280.0,no,yes,107.45
+builder floor,gurugram,748.0,2,3.0,31.0,6,10,yes,semi-furnished,2.51,0,1088.0,yes,yes,90.48
+apartment,rohini,1443.0,3,3.0,21.0,15,21,yes,unfurnished,0.43,4,2228.0,no,yes,108.21
+apartment,dwarka,2572.0,6,5.0,29.0,1,13,no,semi-furnished,2.65,3,6294.0,yes,yes,190.52
+apartment,rohini,1023.0,1,1.0,9.0,10,23,yes,semi-furnished,2.13,4,1993.0,yes,yes,83.31
+builder floor,rohini,597.0,1,2.0,5.0,0,14,yes,unfurnished,5.19,4,1893.0,yes,yes,84.95
+independent house,uttam nagar,597.0,1,1.0,5.0,7,21,no,semi-furnished,4.51,1,1653.0,no,yes,82.75
+apartment,dwarka,1455.0,4,4.0,18.0,4,4,yes,unfurnished,3.39,5,2217.0,no,no,124.35
+apartment,uttam nagar,1024.0,3,3.0,3.0,8,11,yes,unfurnished,0.15,1,3190.0,yes,yes,83.34
+builder floor,uttam nagar,1517.0,4,4.0,3.0,0,6,yes,semi-furnished,0.47,1,3964.0,yes,yes,120.91
+builder floor,noida,839.0,2,2.0,7.0,1,3,yes,unfurnished,3.09,3,,yes,no,91.0
+apartment,rohini,1488.0,2,3.0,15.0,21,24,no,semi-furnished,1.29,4,2625.0,no,yes,118.62
+builder floor,noida,982.0,3,2.0,6.0,2,13,no,unfurnished,4.51,2,2582.0,yes,yes,90.14
+builder floor,uttam nagar,772.0,2,1.0,26.0,8,10,no,semi-furnished,,5,2452.0,no,yes,61.72
+builder floor,rohini,887.0,3,2.0,30.0,3,10,yes,unfurnished,2.44,1,1139.0,no,yes,81.13
+apartment,noida,635.0,3,3.0,0.0,3,7,no,,2.31,2,1286.0,no,yes,80.91
+independent house,noida,2421.0,5,4.0,17.0,4,4,yes,unfurnished,1.55,2,7889.0,no,yes,187.3
+apartment,dwarka,1008.0,2,3.0,8.0,16,23,yes,semi-furnished,,6,2059.0,no,yes,102.54
+builder floor,gurugram,1376.0,3,3.0,23.0,1,4,no,,2.59,0,1760.0,no,yes,119.96
+apartment,janakpuri,838.0,2,2.0,18.0,0,10,yes,unfurnished,0.52,2,1193.0,no,yes,73.91
+apartment,uttam nagar,675.0,2,3.0,14.0,1,5,yes,semi-furnished,6.41,3,,yes,no,57.3
+apartment,gurugram,952.0,2,2.0,11.0,10,23,no,fully-furnished,0.47,3,2609.0,no,yes,101.33
+apartment,pitampura,1667.0,5,5.0,3.0,0,6,no,fully-furnished,0.79,0,2422.0,yes,no,144.11
+apartment,noida,844.0,1,2.0,50.0,10,11,no,,2.41,1,1420.0,yes,no,73.64
+apartment,dwarka,728.0,1,1.0,4.0,1,19,yes,unfurnished,2.08,1,1777.0,no,yes,68.95
+apartment,noida,1121.0,2,2.0,37.0,8,15,no,semi-furnished,2.75,5,3038.0,yes,no,107.08
+apartment,uttam nagar,1295.0,3,3.0,20.0,10,10,yes,semi-furnished,1.26,0,2001.0,no,no,101.23
+builder floor,dwarka,2093.0,4,5.0,8.0,5,14,yes,unfurnished,2.2,2,4613.0,no,no,157.12
+builder floor,pitampura,18000.0,3,3.0,7.0,6,12,no,semi-furnished,0.84,1,2968.0,yes,yes,137.21
+builder floor,dwarka,1376.0,3,4.0,3.0,0,8,yes,semi-furnished,1.58,3,1802.0,yes,no,123.72
+apartment,rohini,1420.0,3,4.0,13.0,11,15,yes,semi-furnished,4.13,3,2403.0,no,yes,135.76
+apartment,rohini,647.0,2,2.0,3.0,10,10,no,semi-furnished,0.47,5,2084.0,yes,yes,76.62
+independent house,pitampura,701.0,2,2.0,27.0,19,24,yes,semi-furnished,3.27,3,2198.0,yes,yes,106.05
+apartment,rohini,666.0,2,3.0,15.0,1,12,no,unfurnished,1.34,2,1272.0,no,yes,60.5
+apartment,rohini,600.0,1,2.0,12.0,7,19,yes,semi-furnished,0.68,3,1866.0,no,yes,67.74
+independent house,paschim vihar,1467.0,3,2.0,13.0,5,7,no,unfurnished,0.72,2,3802.0,yes,yes,138.42
+independent house,paschim vihar,1186.0,2,2.0,16.0,13,16,yes,semi-furnished,1.3,1,3984.0,yes,yes,119.17
+apartment,paschim vihar,1086.0,3,3.0,9.0,6,14,yes,fully-furnished,3.38,0,3612.0,yes,yes,116.8
+builder floor,dwarka,353.0,1,1.0,11.0,19,19,yes,semi-furnished,2.19,0,903.0,yes,yes,75.6
+apartment,noida,2490.0,6,5.0,40.0,2,12,yes,unfurnished,0.43,2,5551.0,no,yes,160.4
+builder floor,uttam nagar,721.0,2,2.0,25.0,14,18,no,unfurnished,3.15,2,1091.0,no,yes,73.58
+apartment,rohini,2486.0,5,5.0,20.0,1,3,yes,semi-furnished,2.78,3,5884.0,yes,yes,185.02
+apartment,rohini,571.0,2,2.0,8.0,12,17,no,semi-furnished,0.23,2,1186.0,yes,yes,60.07
+builder floor,paschim vihar,746.0,1,1.0,2.0,11,19,no,fully-furnished,0.65,0,1955.0,no,no,86.7
+apartment,rohini,416.0,2,2.0,18.0,6,13,no,semi-furnished,3.64,1,581.0,yes,yes,67.8
+builder floor,janakpuri,1222.0,3,2.0,13.0,2,2,yes,fully-furnished,,1,3711.0,no,yes,134.19
+apartment,gurugram,661.0,3,4.0,10.0,13,15,yes,unfurnished,3.14,3,2200.0,no,yes,103.41
+builder floor,rohini,669.0,1,1.0,,16,19,no,semi-furnished,0.1,1,1111.0,yes,yes,68.87
+builder floor,rohini,590.0,1,2.0,4.0,1,12,yes,unfurnished,0.1,1,,no,yes,74.54
+apartment,gurugram,1455.0,3,3.0,6.0,2,4,yes,semi-furnished,2.54,3,4313.0,no,no,140.34
+builder floor,uttam nagar,,2,2.0,25.0,8,11,no,unfurnished,0.92,2,3426.0,no,yes,95.27
+apartment,rohini,2248.0,4,,1.0,21,24,yes,unfurnished,2.65,3,7324.0,no,yes,165.53
+apartment,noida,787.0,2,3.0,23.0,3,8,yes,semi-furnished,,2,1831.0,yes,yes,90.21
+apartment,noida,1151.0,3,2.0,32.0,11,14,yes,semi-furnished,0.93,3,2066.0,no,yes,115.28
+builder floor,janakpuri,611.0,1,2.0,18.0,6,10,yes,unfurnished,1.43,3,,no,yes,73.13
+builder floor,uttam nagar,912.0,2,2.0,17.0,4,18,yes,unfurnished,1.18,4,2073.0,yes,yes,64.81
+independent house,dwarka,844.0,2,2.0,6.0,10,11,no,semi-furnished,0.92,0,1484.0,yes,yes,122.68
+builder floor,rohini,1276.0,4,4.0,6.0,4,10,yes,,1.85,1,3740.0,yes,yes,138.08
+independent house,uttam nagar,1610.0,3,2.0,9.0,9,15,yes,unfurnished,2.93,1,4120.0,yes,yes,134.61
+apartment,dwarka,1592.0,3,2.0,3.0,4,15,no,semi-furnished,0.79,4,3208.0,yes,yes,152.94
+independent house,uttam nagar,737.0,2,1.0,6.0,0,13,no,unfurnished,0.79,0,1568.0,yes,no,76.89
+apartment,noida,1597.0,4,4.0,13.0,3,7,yes,semi-furnished,0.94,4,3222.0,no,yes,124.63
+apartment,rohini,1031.0,4,3.0,8.0,3,4,yes,semi-furnished,2.41,2,2253.0,no,yes,81.86
+apartment,uttam nagar,916.0,2,2.0,14.0,5,17,yes,unfurnished,3.15,2,2163.0,no,no,51.49
+apartment,dwarka,780.0,2,1.0,25.0,9,9,no,unfurnished,,2,1504.0,yes,yes,72.17
+apartment,noida,830.0,3,3.0,14.0,12,16,yes,unfurnished,0.17,0,2490.0,yes,yes,79.29
+apartment,dwarka,2183.0,5,5.0,17.0,7,10,no,unfurnished,0.57,3,7078.0,yes,yes,159.36
+apartment,uttam nagar,1195.0,2,2.0,2.0,17,21,yes,semi-furnished,1.1,1,2808.0,yes,yes,95.2
+apartment,uttam nagar,1130.0,3,3.0,25.0,16,18,no,fully-furnished,0.7,6,3124.0,yes,yes,102.84
+builder floor,pitampura,940.0,3,3.0,,8,11,yes,fully-furnished,0.42,3,3052.0,no,yes,115.38
+builder floor,paschim vihar,2933.0,6,5.0,8.0,8,9,yes,semi-furnished,1.61,3,4758.0,no,no,220.76
+apartment,paschim vihar,1816.0,3,3.0,4.0,14,19,yes,semi-furnished,7.51,5,2937.0,yes,yes,145.55
+apartment,uttam nagar,776.0,1,1.0,2.0,2,2,yes,semi-furnished,0.61,1,1055.0,no,yes,78.78
+apartment,paschim vihar,936.0,3,3.0,14.0,0,3,yes,fully-furnished,,3,2034.0,yes,yes,105.43
+apartment,gurugram,960.0,2,2.0,18.0,1,3,yes,unfurnished,2.32,2,1851.0,no,yes,100.82
+builder floor,pitampura,,2,2.0,33.0,8,9,yes,unfurnished,2.47,2,2715.0,no,no,119.13
+apartment,janakpuri,782.0,1,1.0,15.0,6,13,yes,semi-furnished,1.47,4,1714.0,yes,yes,115.72
+builder floor,rohini,1262.0,2,3.0,,0,8,yes,unfurnished,0.45,1,2042.0,no,yes,114.78
+builder floor,noida,1932.0,4,4.0,8.0,5,6,yes,semi-furnished,2.92,1,3981.0,yes,yes,166.05
+apartment,janakpuri,605.0,1,2.0,2.0,6,9,yes,fully-furnished,1.35,5,764.0,no,yes,72.67
+builder floor,pitampura,654.0,2,2.0,9.0,12,13,yes,fully-furnished,1.23,5,1558.0,no,yes,104.76
+apartment,rohini,857.0,2,2.0,12.0,0,8,yes,unfurnished,0.49,3,1539.0,yes,no,77.32
+builder floor,noida,874.0,4,4.0,18.0,2,15,no,semi-furnished,0.94,1,1265.0,no,no,100.04
+builder floor,pitampura,2431.0,6,5.0,21.0,5,10,yes,semi-furnished,2.41,3,,yes,yes,195.71
+builder floor,paschim vihar,1599.0,4,3.0,17.0,4,23,yes,semi-furnished,1.35,6,4432.0,no,yes,149.64
+builder floor,rohini,1561.0,3,3.0,5.0,13,24,yes,semi-furnished,0.34,4,2723.0,yes,yes,143.59
+builder floor,gurugram,940.0,1,1.0,4.0,6,17,yes,unfurnished,2.67,2,2490.0,no,yes,125.81
+independent house,rohini,931.0,2,1.0,20.0,3,14,no,fully-furnished,5.08,2,2788.0,no,no,108.45
+apartment,dwarka,571.0,1,1.0,2.0,2,2,yes,fully-furnished,0.4,2,1313.0,yes,yes,95.43
+builder floor,noida,1458.0,3,2.0,44.0,0,16,yes,semi-furnished,1.44,2,2176.0,yes,yes,123.58
+builder floor,gurugram,1291.0,2,2.0,,9,10,no,semi-furnished,1.49,1,3295.0,yes,yes,125.69
+apartment,dwarka,1802.0,3,3.0,27.0,1,8,yes,semi-furnished,0.39,1,2446.0,yes,yes,147.03
+independent house,janakpuri,961.0,3,3.0,7.0,12,20,no,semi-furnished,3.72,3,2881.0,yes,yes,106.71
+apartment,paschim vihar,989.0,2,1.0,19.0,2,2,yes,unfurnished,1.51,3,2844.0,no,yes,91.65
+apartment,noida,1128.0,2,2.0,4.0,0,7,yes,semi-furnished,2.99,5,2351.0,yes,yes,123.99
+apartment,pitampura,1527.0,4,3.0,13.0,18,19,yes,unfurnished,1.96,3,2736.0,no,no,138.68
+apartment,janakpuri,566.0,1,2.0,2.0,7,23,no,fully-furnished,3.63,4,1563.0,yes,yes,79.24
+builder floor,paschim vihar,1430.0,4,4.0,16.0,10,13,no,semi-furnished,1.94,2,3500.0,yes,yes,138.67
+apartment,paschim vihar,1041.0,2,,4.0,12,14,no,semi-furnished,1.04,3,1581.0,no,yes,101.1
+apartment,noida,673.0,1,1.0,5.0,5,24,yes,semi-furnished,2.27,4,1932.0,yes,no,50.22
+apartment,uttam nagar,437.0,1,2.0,9.0,1,4,yes,fully-furnished,0.72,7,845.0,yes,yes,45.34
+apartment,rohini,992.0,3,4.0,10.0,12,13,yes,unfurnished,2.44,3,3141.0,no,no,94.97
+builder floor,gurugram,1929.0,5,5.0,18.0,0,7,yes,unfurnished,0.6,2,5835.0,yes,yes,162.07
+builder floor,noida,2122.0,5,5.0,16.0,1,12,no,unfurnished,1.4,1,3834.0,no,yes,159.31
+apartment,noida,1219.0,3,3.0,14.0,6,22,no,semi-furnished,1.18,1,2147.0,yes,yes,90.41
+apartment,rohini,2394.0,6,5.0,23.0,9,15,yes,fully-furnished,1.83,4,4968.0,yes,yes,174.11
+apartment,dwarka,1031.0,3,3.0,16.0,20,24,yes,unfurnished,4.05,5,3062.0,no,yes,96.11
+builder floor,paschim vihar,1567.0,4,5.0,17.0,7,13,no,fully-furnished,0.91,1,2331.0,no,yes,156.23
+apartment,rohini,869.0,1,1.0,5.0,10,21,yes,unfurnished,2.85,3,1647.0,no,yes,87.02
+apartment,gurugram,846.0,2,3.0,24.0,5,5,yes,semi-furnished,3.71,2,2242.0,yes,yes,88.75
+apartment,pitampura,790.0,2,3.0,22.0,1,9,no,unfurnished,,3,1006.0,no,yes,82.07
+builder floor,paschim vihar,442.0,1,2.0,14.0,8,8,no,semi-furnished,1.82,3,585.0,yes,yes,57.51
+apartment,noida,1803.0,5,5.0,22.0,6,19,yes,semi-furnished,1.75,1,5187.0,yes,yes,144.99
+apartment,pitampura,802.0,1,2.0,12.0,3,13,no,semi-furnished,0.86,3,1884.0,yes,yes,98.37
+builder floor,dwarka,750.0,3,2.0,34.0,7,7,yes,unfurnished,0.28,2,1820.0,no,yes,80.48
+builder floor,uttam nagar,640.0,1,2.0,13.0,3,5,yes,,1.56,1,,no,yes,82.92
+apartment,uttam nagar,964.0,2,2.0,11.0,4,10,yes,fully-furnished,3.94,1,2285.0,yes,yes,90.31
+builder floor,pitampura,2202.0,5,5.0,16.0,1,5,yes,semi-furnished,4.34,1,5283.0,no,yes,183.11
+builder floor,uttam nagar,2530.0,5,4.0,39.0,8,18,no,semi-furnished,0.36,3,5339.0,no,yes,164.8
+apartment,gurugram,523.0,1,2.0,8.0,17,21,yes,fully-furnished,4.24,2,1737.0,no,yes,77.51
+builder floor,janakpuri,905.0,2,2.0,15.0,3,24,no,unfurnished,2.35,0,1184.0,yes,yes,71.96
+apartment,dwarka,680.0,2,1.0,8.0,1,7,yes,fully-furnished,2.15,2,1437.0,yes,yes,69.11
+builder floor,pitampura,1590.0,4,4.0,11.0,3,12,yes,unfurnished,3.92,2,4907.0,no,yes,153.43
+apartment,pitampura,1184.0,1,1.0,6.0,6,13,yes,semi-furnished,3.15,3,1958.0,no,yes,126.88
+builder floor,rohini,804.0,1,1.0,17.0,11,13,yes,unfurnished,0.59,0,2619.0,yes,yes,64.33
+apartment,rohini,1082.0,4,4.0,12.0,2,12,yes,unfurnished,0.77,3,2311.0,no,yes,97.07
+apartment,paschim vihar,859.0,1,2.0,21.0,6,7,yes,semi-furnished,0.24,1,1327.0,yes,yes,73.22
+independent house,pitampura,2068.0,6,5.0,25.0,4,4,yes,semi-furnished,2.08,3,2905.0,no,yes,178.41
+apartment,gurugram,1321.0,2,2.0,28.0,5,11,no,fully-furnished,0.67,4,2536.0,no,no,123.27
+builder floor,dwarka,1391.0,3,3.0,8.0,4,4,no,fully-furnished,1.0,2,4484.0,no,yes,125.86
+independent house,rohini,,1,1.0,16.0,3,3,yes,unfurnished,3.59,2,1143.0,no,yes,38.44
+builder floor,paschim vihar,1021.0,2,1.0,29.0,11,14,yes,unfurnished,2.29,3,2490.0,no,yes,116.39
+apartment,noida,2519.0,6,5.0,6.0,8,21,no,semi-furnished,2.34,4,3678.0,yes,yes,189.2
+builder floor,dwarka,1833.0,4,4.0,13.0,4,14,no,semi-furnished,6.32,3,4041.0,no,yes,133.79
+apartment,dwarka,483.0,1,2.0,6.0,2,2,yes,semi-furnished,0.1,3,1024.0,yes,yes,74.28
+apartment,dwarka,920.0,2,2.0,38.0,9,21,yes,fully-furnished,0.71,2,1572.0,no,yes,86.06
+builder floor,janakpuri,634.0,2,2.0,29.0,0,17,yes,semi-furnished,1.17,1,867.0,no,yes,80.8
+builder floor,janakpuri,2154.0,6,5.0,18.0,6,8,no,unfurnished,0.75,2,4393.0,no,no,166.44
+apartment,dwarka,1163.0,3,4.0,18.0,3,8,yes,semi-furnished,2.97,1,2347.0,yes,no,108.25
+apartment,rohini,761.0,3,4.0,7.0,21,22,yes,semi-furnished,1.3,3,2092.0,no,yes,94.13
+builder floor,janakpuri,1065.0,2,2.0,32.0,11,12,yes,semi-furnished,0.53,1,2202.0,yes,yes,89.22
+builder floor,gurugram,351.0,1,1.0,10.0,0,5,yes,unfurnished,1.94,3,500.0,no,yes,63.45
+apartment,uttam nagar,666.0,2,3.0,7.0,8,8,yes,semi-furnished,2.2,1,829.0,no,yes,73.38
+builder floor,janakpuri,1066.0,2,2.0,26.0,8,8,yes,semi-furnished,0.58,2,2892.0,no,yes,99.05
+apartment,rohini,1498.0,4,4.0,9.0,9,11,no,unfurnished,1.35,1,3975.0,yes,yes,116.13
+apartment,dwarka,465.0,1,1.0,8.0,2,9,no,semi-furnished,2.24,2,722.0,no,yes,52.75
+builder floor,dwarka,895.0,2,2.0,22.0,10,14,no,semi-furnished,3.74,6,,no,yes,85.65
+independent house,paschim vihar,1605.0,4,4.0,4.0,8,9,yes,semi-furnished,0.83,3,4266.0,no,yes,159.44
+apartment,noida,571.0,1,1.0,,13,16,yes,semi-furnished,2.43,2,879.0,no,yes,48.88
+apartment,gurugram,1156.0,3,2.0,13.0,6,13,no,fully-furnished,0.95,0,2119.0,no,yes,122.2
+apartment,gurugram,1080.0,2,3.0,21.0,16,23,yes,unfurnished,1.67,3,3609.0,yes,yes,120.91
+builder floor,gurugram,2157.0,5,5.0,17.0,8,21,no,unfurnished,0.63,3,4523.0,yes,yes,180.49
+apartment,gurugram,953.0,2,3.0,55.0,2,9,yes,semi-furnished,2.38,1,1640.0,no,yes,98.0
+apartment,rohini,977.0,2,2.0,14.0,2,2,yes,semi-furnished,3.3,0,2299.0,no,yes,77.58
+independent house,rohini,1504.0,3,3.0,9.0,7,15,no,unfurnished,1.4,2,2485.0,no,no,121.78
+apartment,dwarka,602.0,3,3.0,12.0,2,9,yes,semi-furnished,1.26,3,1771.0,yes,yes,84.34
+apartment,uttam nagar,957.0,1,1.0,17.0,15,22,yes,unfurnished,1.16,3,2821.0,yes,no,74.2
+apartment,rohini,867.0,2,1.0,37.0,3,11,yes,unfurnished,0.47,1,2568.0,no,yes,63.65
+builder floor,noida,990.0,2,2.0,19.0,5,8,yes,semi-furnished,2.74,3,2532.0,yes,yes,105.62
+apartment,uttam nagar,1499.0,5,4.0,6.0,3,9,yes,semi-furnished,3.67,4,4088.0,no,yes,103.7
+apartment,janakpuri,1325.0,2,2.0,55.0,19,21,yes,fully-furnished,0.79,2,2527.0,no,yes,102.52
+apartment,rohini,767.0,2,2.0,25.0,4,4,yes,semi-furnished,1.85,3,2403.0,yes,yes,84.16
+builder floor,dwarka,1112.0,3,3.0,6.0,11,24,no,semi-furnished,2.33,4,1687.0,yes,yes,123.55
+builder floor,rohini,1964.0,5,5.0,5.0,5,7,no,semi-furnished,0.93,1,3456.0,no,no,164.48
+apartment,noida,741.0,3,3.0,4.0,3,21,yes,semi-furnished,4.32,2,2507.0,yes,no,92.47
+apartment,uttam nagar,1116.0,3,3.0,12.0,14,14,yes,unfurnished,1.88,1,3697.0,yes,yes,83.45
+builder floor,paschim vihar,968.0,2,2.0,12.0,3,15,yes,semi-furnished,0.36,0,2243.0,no,yes,85.73
+apartment,dwarka,1023.0,3,3.0,7.0,6,6,yes,semi-furnished,3.43,3,2351.0,no,yes,99.59
+apartment,pitampura,529.0,1,1.0,3.0,16,18,yes,semi-furnished,1.45,3,771.0,no,yes,85.28
+apartment,pitampura,1899.0,4,5.0,5.0,3,16,no,semi-furnished,1.08,2,5035.0,,yes,169.52
+apartment,paschim vihar,758.0,1,2.0,20.0,0,13,yes,semi-furnished,2.59,2,961.0,no,yes,73.75
+apartment,noida,1616.0,4,4.0,10.0,9,12,yes,semi-furnished,0.96,1,3057.0,no,yes,124.25
+apartment,dwarka,809.0,1,1.0,5.0,13,15,yes,,4.13,5,1715.0,no,no,69.37
+apartment,gurugram,807.0,2,1.0,13.0,9,12,no,semi-furnished,3.51,1,2556.0,no,yes,82.08
+apartment,rohini,1748.0,3,3.0,15.0,1,24,no,fully-furnished,4.54,1,5822.0,yes,yes,107.48
+builder floor,noida,1594.0,4,3.0,17.0,1,2,yes,unfurnished,6.08,3,5328.0,no,yes,122.27
+apartment,rohini,1146.0,2,1.0,13.0,3,7,yes,semi-furnished,2.3,4,3389.0,yes,yes,96.96
+apartment,dwarka,1446.0,3,3.0,12.0,20,21,yes,unfurnished,1.56,1,2658.0,yes,yes,120.86
+builder floor,noida,930.0,3,2.0,28.0,16,20,no,unfurnished,0.93,1,1209.0,no,yes,80.15
+apartment,rohini,1046.0,3,2.0,5.0,8,10,yes,fully-furnished,2.47,4,2235.0,yes,yes,95.83
+builder floor,pitampura,795.0,3,2.0,10.0,5,13,yes,semi-furnished,5.97,3,1474.0,no,yes,90.62
+apartment,janakpuri,1535.0,5,5.0,2.0,0,2,yes,semi-furnished,0.47,3,4055.0,yes,yes,138.54
+builder floor,dwarka,785.0,1,1.0,9.0,5,6,yes,unfurnished,2.0,2,1583.0,yes,yes,94.2
+apartment,paschim vihar,1959.0,6,5.0,14.0,2,23,yes,fully-furnished,0.35,5,6190.0,no,no,171.95
+apartment,noida,920.0,1,1.0,22.0,1,16,yes,unfurnished,0.34,3,1861.0,no,yes,112.56
+apartment,noida,1059.0,3,2.0,2.0,0,2,yes,semi-furnished,3.76,2,,no,yes,94.39
+apartment,pitampura,1444.0,3,3.0,14.0,10,20,yes,unfurnished,3.34,6,4144.0,no,yes,132.29
+apartment,janakpuri,1061.0,2,2.0,41.0,0,11,no,unfurnished,0.88,1,2650.0,yes,yes,78.5
+builder floor,dwarka,927.0,3,3.0,17.0,9,15,yes,semi-furnished,0.57,2,1633.0,no,no,96.12
+builder floor,dwarka,1037.0,3,3.0,4.0,3,21,yes,unfurnished,4.66,3,2788.0,no,yes,121.03
+apartment,rohini,1528.0,4,4.0,,19,21,yes,semi-furnished,0.61,1,3726.0,yes,yes,139.18
+builder floor,gurugram,795.0,2,2.0,18.0,2,5,yes,unfurnished,,1,1136.0,no,yes,77.71
+builder floor,noida,996.0,2,1.0,7.0,1,10,yes,semi-furnished,0.63,3,2219.0,yes,yes,91.33
+builder floor,noida,1055.0,3,3.0,15.0,6,8,no,semi-furnished,2.17,3,3398.0,yes,no,100.11
+builder floor,janakpuri,1510.0,4,3.0,14.0,8,23,no,semi-furnished,6.67,0,2516.0,yes,no,119.87
+builder floor,janakpuri,1007.0,3,3.0,,5,19,no,unfurnished,0.94,1,2127.0,no,yes,82.66
+apartment,janakpuri,2244.0,5,5.0,4.0,11,16,no,semi-furnished,3.72,1,,yes,yes,176.0
+builder floor,janakpuri,983.0,3,4.0,7.0,3,3,no,fully-furnished,1.73,6,2341.0,yes,yes,97.14
+independent house,janakpuri,950.0,1,1.0,43.0,20,20,yes,unfurnished,,4,3178.0,yes,yes,101.22
+apartment,rohini,977.0,2,,9.0,6,14,no,unfurnished,0.97,2,1838.0,yes,yes,90.85
+apartment,rohini,604.0,1,1.0,10.0,7,8,yes,fully-furnished,3.36,2,1831.0,no,yes,76.31
+apartment,gurugram,679.0,2,2.0,10.0,2,12,yes,unfurnished,3.23,2,2067.0,no,yes,82.32
+independent house,janakpuri,840.0,3,3.0,22.0,11,12,no,semi-furnished,,3,1487.0,yes,no,121.63
+apartment,gurugram,1692.0,4,4.0,10.0,8,8,yes,semi-furnished,2.73,5,4906.0,,yes,160.0
+builder floor,rohini,1035.0,2,3.0,12.0,11,22,yes,unfurnished,1.42,4,3492.0,no,yes,105.16
+builder floor,uttam nagar,857.0,2,2.0,14.0,12,23,yes,semi-furnished,2.1,3,2827.0,no,yes,70.11
+independent house,dwarka,1758.0,3,2.0,23.0,2,3,yes,semi-furnished,3.88,3,4452.0,yes,yes,170.69
+apartment,dwarka,2014.0,4,3.0,12.0,1,23,yes,semi-furnished,0.88,5,3089.0,yes,yes,161.42
+builder floor,rohini,1779.0,4,4.0,13.0,10,11,no,fully-furnished,1.13,3,2602.0,yes,no,164.78
+builder floor,rohini,734.0,1,1.0,8.0,15,20,yes,unfurnished,3.93,3,1312.0,no,yes,87.52
+apartment,gurugram,853.0,1,1.0,15.0,17,19,no,semi-furnished,6.2,1,2152.0,no,yes,87.87
+builder floor,dwarka,2249.0,6,5.0,18.0,1,15,yes,,3.07,3,4610.0,no,yes,189.81
+apartment,uttam nagar,1162.0,3,3.0,19.0,16,19,no,unfurnished,2.0,1,3181.0,yes,no,78.62
+builder floor,janakpuri,938.0,2,2.0,39.0,6,17,yes,fully-furnished,3.04,1,2751.0,no,yes,83.9
+apartment,pitampura,1420.0,4,4.0,6.0,18,21,yes,unfurnished,0.96,2,2268.0,yes,yes,141.35
+apartment,janakpuri,1603.0,4,4.0,12.0,11,11,no,semi-furnished,1.65,2,5116.0,no,yes,140.67
+apartment,dwarka,826.0,2,2.0,10.0,17,19,no,unfurnished,0.33,1,1101.0,yes,yes,63.8
+apartment,gurugram,1151.0,2,2.0,34.0,22,24,no,semi-furnished,0.98,3,2052.0,yes,no,104.79
+apartment,noida,1550.0,4,3.0,20.0,2,23,yes,fully-furnished,2.21,2,4638.0,yes,yes,140.38
+builder floor,paschim vihar,645.0,1,1.0,3.0,1,5,yes,fully-furnished,1.85,1,1035.0,yes,yes,108.82
+apartment,janakpuri,1055.0,3,3.0,7.0,4,13,no,fully-furnished,0.1,1,1777.0,yes,yes,116.8
+apartment,rohini,658.0,3,3.0,9.0,7,13,yes,semi-furnished,1.29,3,2202.0,yes,no,58.31
+builder floor,gurugram,695.0,3,2.0,3.0,16,16,no,semi-furnished,1.82,0,2229.0,no,no,84.58
+builder floor,pitampura,829.0,2,1.0,13.0,11,16,yes,semi-furnished,1.88,3,2477.0,yes,no,95.6
+apartment,rohini,1283.0,2,2.0,8.0,11,21,yes,,0.42,2,2030.0,yes,yes,128.26
+independent house,pitampura,917.0,3,3.0,40.0,12,14,yes,semi-furnished,2.77,0,1615.0,no,yes,100.05
+apartment,noida,800.0,2,1.0,15.0,3,18,yes,fully-furnished,5.6,1,,no,yes,89.3
+builder floor,uttam nagar,1073.0,3,3.0,9.0,15,22,no,unfurnished,3.02,6,1734.0,no,no,80.62
+apartment,paschim vihar,649.0,1,1.0,5.0,2,4,no,semi-furnished,1.65,4,2164.0,yes,yes,85.19
+builder floor,noida,1257.0,3,3.0,12.0,3,16,yes,semi-furnished,4.74,4,1968.0,yes,yes,106.49
+independent house,dwarka,1689.0,3,3.0,32.0,7,10,no,unfurnished,0.97,2,4801.0,no,yes,137.99
+builder floor,gurugram,1016.0,3,3.0,10.0,19,22,no,unfurnished,2.5,3,1333.0,yes,no,99.84
+apartment,janakpuri,964.0,3,2.0,12.0,12,14,no,fully-furnished,1.51,1,2310.0,no,yes,114.12
+builder floor,uttam nagar,1228.0,4,5.0,26.0,13,15,yes,semi-furnished,4.78,0,1665.0,no,yes,90.53
+apartment,rohini,448.0,2,2.0,15.0,16,19,yes,unfurnished,0.66,2,598.0,yes,yes,38.8
+builder floor,gurugram,1316.0,2,2.0,21.0,3,7,yes,semi-furnished,0.65,1,2246.0,no,yes,110.47
+builder floor,dwarka,3864.0,6,5.0,16.0,0,14,yes,semi-furnished,3.99,2,12505.0,no,yes,266.91
+independent house,rohini,997.0,4,5.0,15.0,19,19,no,semi-furnished,2.37,9,2598.0,no,yes,110.19
+apartment,janakpuri,22000.0,2,3.0,3.0,9,19,yes,fully-furnished,4.23,4,2630.0,no,yes,113.27
+apartment,rohini,1435.0,3,3.0,5.0,5,7,yes,fully-furnished,0.72,3,2662.0,no,yes,122.53
+builder floor,rohini,2096.0,6,5.0,14.0,0,21,no,semi-furnished,0.86,1,5852.0,no,no,172.44
+apartment,uttam nagar,1581.0,4,3.0,6.0,5,5,yes,semi-furnished,2.06,1,4268.0,no,no,113.37
+apartment,pitampura,425.0,3,3.0,12.0,7,8,yes,semi-furnished,0.35,0,942.0,yes,yes,88.31
+apartment,gurugram,1330.0,3,2.0,4.0,20,21,yes,fully-furnished,1.95,3,3593.0,no,yes,126.99
+builder floor,dwarka,3093.0,6,5.0,26.0,2,16,yes,unfurnished,1.11,4,9612.0,yes,yes,208.39
+apartment,paschim vihar,1364.0,4,5.0,6.0,12,14,yes,unfurnished,1.5,5,4519.0,yes,yes,124.28
+apartment,janakpuri,647.0,1,1.0,5.0,9,14,yes,fully-furnished,2.76,2,,no,yes,68.64
+apartment,uttam nagar,1182.0,3,4.0,3.0,3,24,yes,fully-furnished,2.86,4,2688.0,no,yes,88.89
+builder floor,uttam nagar,613.0,1,1.0,19.0,4,7,yes,semi-furnished,5.41,1,780.0,no,yes,58.42
+builder floor,janakpuri,1762.0,5,5.0,12.0,4,8,yes,semi-furnished,3.57,4,3003.0,yes,yes,156.17
+apartment,gurugram,703.0,2,2.0,25.0,8,13,yes,semi-furnished,0.18,1,1148.0,yes,yes,90.66
+apartment,pitampura,1083.0,3,3.0,8.0,1,21,no,semi-furnished,0.71,3,2016.0,no,yes,114.27
+apartment,rohini,732.0,1,1.0,5.0,8,14,yes,unfurnished,0.77,4,1459.0,no,yes,52.0
+apartment,paschim vihar,835.0,3,2.0,11.0,12,18,yes,unfurnished,3.3,7,2230.0,no,yes,99.25
+builder floor,noida,1960.0,6,5.0,28.0,15,20,yes,semi-furnished,4.87,4,4619.0,yes,yes,147.02
+apartment,rohini,1097.0,3,3.0,3.0,17,22,yes,semi-furnished,0.49,5,2884.0,no,yes,98.14
+independent house,janakpuri,830.0,2,2.0,15.0,8,12,yes,semi-furnished,3.37,4,2771.0,no,yes,84.4
+apartment,noida,649.0,1,2.0,16.0,9,12,yes,unfurnished,1.66,3,849.0,yes,yes,76.06
+builder floor,paschim vihar,478.0,1,1.0,32.0,0,3,yes,fully-furnished,1.47,2,589.0,yes,yes,54.73
+apartment,gurugram,621.0,1,1.0,6.0,3,3,no,semi-furnished,0.95,3,1654.0,no,yes,70.33
+independent house,janakpuri,1101.0,2,2.0,,5,13,yes,fully-furnished,1.3,3,2644.0,no,yes,118.32
+independent house,uttam nagar,1585.0,4,4.0,8.0,10,19,yes,unfurnished,1.96,3,3585.0,no,yes,133.68
+builder floor,dwarka,830.0,3,2.0,21.0,12,21,no,,1.06,0,2554.0,yes,no,84.78
+apartment,gurugram,2031.0,6,5.0,12.0,11,11,no,fully-furnished,2.28,4,3147.0,no,yes,189.17
+apartment,pitampura,777.0,2,2.0,17.0,5,15,yes,semi-furnished,1.47,2,1913.0,no,yes,86.84
+builder floor,paschim vihar,950.0,1,1.0,5.0,8,20,yes,unfurnished,1.34,2,3088.0,no,yes,110.3
+builder floor,pitampura,667.0,2,2.0,10.0,7,9,yes,unfurnished,2.62,2,1455.0,yes,yes,93.62
+apartment,uttam nagar,1592.0,4,4.0,12.0,3,5,no,unfurnished,2.11,2,3941.0,,yes,102.18
+apartment,paschim vihar,2534.0,5,5.0,3.0,7,23,yes,semi-furnished,0.11,2,3431.0,yes,yes,195.13
+apartment,janakpuri,501.0,2,1.0,12.0,5,14,no,semi-furnished,2.36,3,986.0,yes,yes,82.31
+builder floor,gurugram,908.0,3,3.0,9.0,4,5,no,unfurnished,2.02,2,1172.0,yes,yes,121.5
+builder floor,pitampura,1786.0,3,3.0,55.0,6,7,yes,semi-furnished,3.73,2,4392.0,yes,yes,149.63
+builder floor,uttam nagar,572.0,1,1.0,12.0,1,9,yes,unfurnished,2.08,4,1429.0,no,no,64.2
+builder floor,pitampura,1332.0,3,3.0,33.0,2,6,yes,semi-furnished,1.24,0,4385.0,no,no,124.91
+apartment,pitampura,1754.0,5,5.0,17.0,10,12,no,semi-furnished,0.92,0,4568.0,yes,yes,154.07
+apartment,janakpuri,1085.0,2,3.0,11.0,2,20,no,unfurnished,0.28,2,1309.0,yes,yes,98.48
+apartment,rohini,1323.0,3,3.0,30.0,3,18,yes,unfurnished,1.64,6,4013.0,yes,yes,121.47
+builder floor,rohini,2200.0,6,5.0,4.0,3,23,no,unfurnished,0.78,2,4236.0,no,no,161.34
+apartment,uttam nagar,2380.0,5,4.0,8.0,11,21,no,,4.14,2,6596.0,yes,yes,159.86
+apartment,uttam nagar,1023.0,3,3.0,22.0,4,9,no,semi-furnished,1.7,2,,no,yes,57.06
+apartment,uttam nagar,840.0,1,2.0,1.0,1,3,no,unfurnished,0.58,1,2413.0,yes,yes,50.18
+apartment,rohini,713.0,1,1.0,11.0,0,5,yes,unfurnished,0.19,2,2310.0,no,yes,84.59
+builder floor,dwarka,1583.0,4,4.0,11.0,13,20,no,fully-furnished,0.3,3,2176.0,no,yes,152.26
+apartment,dwarka,590.0,2,1.0,14.0,8,9,yes,fully-furnished,2.21,2,1415.0,no,yes,73.58
+apartment,noida,944.0,3,3.0,10.0,4,18,yes,unfurnished,4.48,2,75000.0,no,yes,86.81
+builder floor,noida,1096.0,2,2.0,21.0,8,12,yes,semi-furnished,2.57,1,2006.0,no,yes,84.8
+apartment,dwarka,850.0,1,2.0,6.0,18,22,yes,semi-furnished,1.5,1,1659.0,yes,yes,84.56
+apartment,uttam nagar,1181.0,4,4.0,23.0,7,13,yes,fully-furnished,6.28,2,3174.0,yes,yes,78.51
+apartment,rohini,3083.0,6,5.0,5.0,13,22,yes,fully-furnished,3.0,5,5684.0,yes,yes,223.09
+builder floor,dwarka,998.0,3,3.0,15.0,1,7,no,unfurnished,2.1,3,1265.0,yes,yes,105.32
+apartment,rohini,875.0,3,4.0,27.0,19,19,yes,unfurnished,1.21,2,2531.0,yes,yes,84.72
+builder floor,dwarka,1608.0,4,4.0,6.0,14,14,no,semi-furnished,4.64,3,4141.0,yes,yes,159.34
+independent house,paschim vihar,1161.0,2,2.0,7.0,4,6,yes,,1.31,5,2033.0,no,yes,140.86
+builder floor,gurugram,1922.0,4,,24.0,7,7,yes,fully-furnished,0.78,5,6372.0,no,yes,152.07
+apartment,dwarka,1125.0,2,2.0,14.0,6,9,no,unfurnished,1.56,1,3574.0,yes,yes,116.06
+builder floor,janakpuri,946.0,1,1.0,2.0,3,5,no,semi-furnished,1.82,2,3142.0,no,yes,87.82
+apartment,paschim vihar,496.0,1,1.0,14.0,19,23,no,unfurnished,3.19,1,1154.0,yes,yes,61.7
+apartment,gurugram,532.0,2,2.0,19.0,0,6,no,semi-furnished,0.76,3,914.0,yes,no,76.42
+apartment,uttam nagar,486.0,2,1.0,25.0,3,15,yes,fully-furnished,0.9,5,769.0,no,yes,55.09
+apartment,dwarka,1231.0,2,1.0,15.0,3,15,no,semi-furnished,0.95,0,4046.0,no,no,97.89
+apartment,uttam nagar,593.0,2,2.0,17.0,9,14,yes,unfurnished,1.49,3,1874.0,yes,yes,55.25
+apartment,dwarka,1779.0,4,3.0,35.0,4,16,yes,semi-furnished,0.59,4,5035.0,no,yes,123.18
+apartment,gurugram,1063.0,3,2.0,22.0,9,23,no,semi-furnished,4.1,5,2469.0,no,yes,132.93
+apartment,pitampura,948.0,3,3.0,,12,24,no,fully-furnished,0.3,1,1939.0,yes,yes,114.23
+apartment,paschim vihar,737.0,2,1.0,11.0,17,22,yes,semi-furnished,4.74,4,2025.0,no,yes,84.44
+independent house,rohini,1364.0,3,2.0,26.0,6,12,yes,fully-furnished,2.96,2,1665.0,no,yes,146.09
+apartment,pitampura,749.0,2,2.0,15.0,0,18,yes,unfurnished,0.72,3,1763.0,yes,yes,74.31
+builder floor,noida,694.0,1,2.0,13.0,4,6,no,unfurnished,1.39,2,1869.0,no,yes,81.72
+apartment,uttam nagar,1730.0,4,4.0,9.0,9,22,yes,,0.83,1,4945.0,yes,yes,123.73
+apartment,janakpuri,1219.0,3,2.0,26.0,0,6,yes,unfurnished,3.0,6,2673.0,no,no,105.79
+apartment,gurugram,951.0,2,,6.0,3,4,yes,unfurnished,4.39,3,2700.0,yes,no,104.84
+apartment,noida,1375.0,3,3.0,8.0,5,21,yes,semi-furnished,10.31,2,1940.0,yes,yes,84.34
+apartment,dwarka,1054.0,3,3.0,26.0,9,19,yes,unfurnished,2.45,1,1806.0,yes,yes,77.13
+apartment,janakpuri,1233.0,3,3.0,26.0,5,5,yes,unfurnished,0.31,5,1872.0,yes,yes,129.44
+apartment,janakpuri,745.0,2,3.0,49.0,5,24,no,unfurnished,0.66,3,1451.0,yes,yes,62.78
+apartment,uttam nagar,2505.0,5,5.0,11.0,4,4,yes,unfurnished,2.35,0,4903.0,no,yes,190.33
+apartment,pitampura,823.0,3,3.0,9.0,1,3,no,fully-furnished,1.44,2,1665.0,yes,yes,114.21
+apartment,dwarka,2018.0,5,5.0,10.0,22,23,yes,fully-furnished,2.93,2,4490.0,no,no,163.74
+apartment,gurugram,970.0,2,2.0,3.0,6,7,no,unfurnished,2.13,2,2095.0,no,yes,97.62
+apartment,gurugram,1474.0,3,2.0,1.0,6,7,yes,,0.73,2,3359.0,no,no,158.06
+apartment,noida,1429.0,2,2.0,15.0,4,20,yes,semi-furnished,1.25,1,,yes,yes,138.75
+apartment,gurugram,1700.0,4,5.0,9.0,12,15,yes,fully-furnished,3.04,2,2571.0,no,yes,156.98
+apartment,paschim vihar,738.0,2,2.0,6.0,5,13,yes,semi-furnished,2.22,2,1455.0,yes,no,104.45
+apartment,paschim vihar,1650.0,3,2.0,13.0,22,24,no,unfurnished,2.96,2,1980.0,no,yes,140.38
+independent house,paschim vihar,2280.0,6,5.0,15.0,3,3,no,semi-furnished,0.45,1,2878.0,no,yes,211.33
+apartment,janakpuri,942.0,1,1.0,,14,23,yes,fully-furnished,0.78,2,2387.0,no,yes,98.21
+apartment,janakpuri,1065.0,3,4.0,11.0,8,8,no,semi-furnished,3.89,3,3330.0,yes,yes,96.32
+apartment,dwarka,843.0,3,3.0,9.0,9,16,no,semi-furnished,0.47,2,1579.0,no,yes,76.94
+independent house,uttam nagar,908.0,3,3.0,20.0,0,9,yes,unfurnished,2.83,0,1892.0,yes,yes,72.28
+builder floor,dwarka,2155.0,5,5.0,8.0,7,8,yes,semi-furnished,0.41,2,3581.0,no,yes,201.84
+builder floor,dwarka,689.0,1,1.0,5.0,5,9,no,,1.8,4,1043.0,no,yes,86.62
+independent house,uttam nagar,707.0,1,1.0,9.0,0,14,yes,semi-furnished,1.1,3,2224.0,no,yes,66.36
+apartment,pitampura,2065.0,5,,14.0,1,22,yes,semi-furnished,0.72,1,5077.0,no,yes,181.3
+independent house,dwarka,1365.0,3,3.0,21.0,3,4,yes,semi-furnished,1.92,7,3755.0,no,yes,133.29
+apartment,noida,2558.0,5,5.0,39.0,16,17,no,semi-furnished,3.76,2,8033.0,no,yes,166.03
+builder floor,noida,869.0,2,2.0,,15,21,yes,semi-furnished,0.88,1,2168.0,yes,yes,117.02
+apartment,rohini,1107.0,3,3.0,33.0,8,18,yes,semi-furnished,0.14,3,,yes,no,76.96
+apartment,rohini,796.0,2,2.0,7.0,7,24,no,fully-furnished,1.47,3,2204.0,no,yes,81.72
+independent house,pitampura,1115.0,2,2.0,6.0,1,2,yes,semi-furnished,0.71,2,3172.0,yes,yes,125.51
+apartment,noida,498.0,1,1.0,17.0,3,10,yes,semi-furnished,3.08,3,1051.0,yes,yes,51.74
+independent house,noida,1400.0,3,2.0,18.0,3,11,yes,semi-furnished,1.09,2,3580.0,no,yes,116.24
+apartment,rohini,1203.0,3,4.0,14.0,1,14,no,unfurnished,0.91,4,2726.0,no,no,94.88
+builder floor,noida,1025.0,4,4.0,55.0,5,9,yes,unfurnished,1.2,2,1981.0,no,yes,78.83
+independent house,rohini,891.0,2,2.0,8.0,1,7,no,unfurnished,3.75,1,2387.0,yes,yes,96.8
+apartment,pitampura,721.0,1,2.0,29.0,3,21,no,semi-furnished,2.31,2,1258.0,no,yes,71.73
+independent house,gurugram,1425.0,4,4.0,6.0,2,7,no,unfurnished,0.61,2,2737.0,no,yes,147.1
+apartment,dwarka,642.0,2,2.0,19.0,19,23,yes,semi-furnished,,1,1343.0,no,yes,64.71
+builder floor,rohini,1302.0,3,3.0,13.0,1,2,no,fully-furnished,4.69,3,3323.0,no,yes,128.1
+apartment,pitampura,2509.0,5,5.0,15.0,5,11,yes,unfurnished,0.89,2,7715.0,no,yes,200.14
+apartment,uttam nagar,1960.0,6,5.0,17.0,10,16,yes,semi-furnished,3.84,3,5004.0,yes,yes,136.88
+builder floor,gurugram,558.0,1,1.0,13.0,14,24,no,,1.42,3,1561.0,yes,yes,74.9
+apartment,gurugram,838.0,2,1.0,11.0,9,19,yes,semi-furnished,0.79,1,1545.0,no,yes,76.56
+apartment,rohini,1253.0,3,2.0,2.0,2,2,yes,unfurnished,0.85,5,3123.0,no,yes,120.63
+apartment,rohini,1019.0,3,4.0,23.0,14,19,no,semi-furnished,1.48,4,1456.0,no,no,95.72
+builder floor,noida,583.0,2,3.0,4.0,1,9,yes,semi-furnished,0.13,2,1294.0,no,yes,93.19
+apartment,dwarka,1234.0,3,4.0,9.0,17,21,yes,semi-furnished,0.81,1,3354.0,yes,yes,116.06
+builder floor,noida,1046.0,2,1.0,15.0,3,19,yes,unfurnished,5.92,3,1669.0,yes,yes,101.48
+independent house,uttam nagar,2346.0,6,5.0,5.0,0,6,yes,semi-furnished,7.17,2,7471.0,yes,yes,193.34
+apartment,rohini,944.0,2,3.0,,4,10,yes,semi-furnished,0.9,3,1999.0,no,yes,86.88
+apartment,noida,1715.0,4,4.0,21.0,8,20,yes,unfurnished,2.71,5,,yes,yes,131.02
+builder floor,rohini,617.0,1,1.0,9.0,18,23,no,semi-furnished,2.26,2,1378.0,yes,yes,57.55
+apartment,pitampura,682.0,1,1.0,11.0,11,15,no,unfurnished,0.52,3,1917.0,no,yes,80.48
+builder floor,uttam nagar,1422.0,3,3.0,6.0,0,7,yes,semi-furnished,2.75,2,3534.0,yes,yes,121.26
+builder floor,janakpuri,1655.0,4,3.0,,5,10,yes,fully-furnished,1.18,4,2432.0,yes,yes,151.91
+builder floor,paschim vihar,702.0,1,1.0,4.0,16,20,no,unfurnished,1.74,0,2271.0,yes,yes,79.5
+apartment,uttam nagar,1061.0,3,3.0,14.0,11,15,no,semi-furnished,3.17,3,2814.0,no,yes,78.59
+builder floor,gurugram,588.0,1,1.0,3.0,3,6,yes,semi-furnished,1.25,2,1316.0,no,yes,100.58
+builder floor,gurugram,,3,2.0,7.0,5,8,yes,semi-furnished,1.24,3,2616.0,yes,no,103.74
+apartment,janakpuri,1492.0,3,3.0,13.0,3,6,no,fully-furnished,2.53,3,2647.0,no,yes,116.03
+apartment,rohini,875.0,1,1.0,11.0,3,12,no,semi-furnished,3.92,1,2530.0,yes,yes,58.71
+builder floor,paschim vihar,946.0,2,3.0,16.0,7,12,no,unfurnished,2.42,0,1991.0,no,yes,91.81
+builder floor,gurugram,653.0,1,2.0,11.0,10,14,no,fully-furnished,1.29,0,1940.0,no,yes,96.57
+apartment,dwarka,800.0,3,4.0,2.0,1,23,yes,semi-furnished,3.62,1,1442.0,yes,yes,79.41
+apartment,janakpuri,2197.0,5,5.0,5.0,11,16,no,semi-furnished,2.19,2,6456.0,yes,yes,184.34
+apartment,pitampura,1083.0,2,1.0,12.0,3,15,yes,unfurnished,4.53,1,3460.0,no,yes,112.71
+apartment,rohini,689.0,2,2.0,25.0,0,10,no,,5.41,2,,yes,no,56.2
+apartment,paschim vihar,920.0,1,1.0,22.0,12,16,no,semi-furnished,2.39,0,2676.0,,yes,96.34
+independent house,pitampura,537.0,1,1.0,55.0,9,23,yes,unfurnished,4.31,7,1476.0,yes,yes,64.11
+apartment,noida,686.0,2,3.0,8.0,1,2,yes,unfurnished,4.4,2,1608.0,no,yes,61.3
+builder floor,noida,1859.0,4,4.0,21.0,6,10,yes,semi-furnished,1.55,1,2663.0,yes,yes,157.72
+apartment,noida,989.0,2,3.0,20.0,2,3,no,unfurnished,4.4,0,2405.0,no,yes,76.9
+apartment,pitampura,,6,5.0,34.0,4,6,yes,unfurnished,1.8,2,5666.0,yes,no,166.71
+apartment,dwarka,1009.0,3,3.0,28.0,3,3,yes,unfurnished,2.95,3,1354.0,yes,yes,107.89
+apartment,paschim vihar,1034.0,2,2.0,15.0,10,15,yes,semi-furnished,1.66,2,2812.0,no,yes,104.8
+builder floor,noida,1374.0,3,2.0,18.0,0,20,yes,semi-furnished,0.37,2,2099.0,no,yes,127.75
+independent house,janakpuri,350.0,1,1.0,16.0,5,23,yes,fully-furnished,6.52,1,879.0,no,yes,65.02
+builder floor,noida,1144.0,4,5.0,12.0,3,7,yes,unfurnished,2.86,4,2562.0,no,yes,130.96
+apartment,rohini,1029.0,3,3.0,18.0,8,18,yes,unfurnished,3.06,4,3216.0,yes,yes,86.78
+builder floor,noida,1960.0,4,4.0,14.0,3,9,yes,semi-furnished,1.95,4,3353.0,yes,yes,173.08
+apartment,rohini,1575.0,4,4.0,13.0,1,9,yes,semi-furnished,4.38,2,2483.0,yes,yes,117.63
+independent house,rohini,652.0,1,1.0,35.0,1,16,yes,semi-furnished,1.52,3,1573.0,yes,yes,77.6
+apartment,janakpuri,1769.0,4,4.0,15.0,2,17,yes,fully-furnished,0.83,4,3914.0,yes,yes,160.81
+apartment,rohini,940.0,2,2.0,13.0,15,15,no,semi-furnished,1.01,0,1462.0,yes,no,101.5
+apartment,rohini,718.0,2,2.0,11.0,1,4,yes,semi-furnished,1.67,3,1831.0,no,yes,67.66
+apartment,rohini,1141.0,3,3.0,10.0,11,11,no,fully-furnished,1.07,1,3643.0,yes,yes,105.31
+apartment,janakpuri,964.0,2,2.0,4.0,3,8,yes,unfurnished,1.69,2,2727.0,no,yes,100.59
+independent house,noida,2004.0,5,5.0,12.0,0,2,no,fully-furnished,0.53,6,3329.0,no,yes,165.21
+builder floor,rohini,1211.0,3,3.0,26.0,1,2,no,semi-furnished,3.6,3,2088.0,yes,no,74.9
+independent house,uttam nagar,1145.0,2,1.0,8.0,12,12,no,semi-furnished,2.54,1,2778.0,yes,yes,91.29
+apartment,noida,1533.0,3,4.0,45.0,2,4,no,fully-furnished,5.99,2,4125.0,no,yes,120.71
+builder floor,rohini,1662.0,4,4.0,1.0,0,18,no,semi-furnished,0.85,2,5574.0,no,yes,156.38
+apartment,rohini,1459.0,4,4.0,17.0,1,3,no,semi-furnished,2.87,3,2087.0,yes,yes,104.61
+apartment,noida,1906.0,5,,14.0,7,7,yes,unfurnished,0.51,5,4578.0,no,yes,140.37
+apartment,noida,1356.0,2,3.0,34.0,3,24,yes,semi-furnished,1.7,1,4573.0,yes,yes,122.08
+apartment,janakpuri,1127.0,2,3.0,7.0,15,18,yes,semi-furnished,1.98,1,1627.0,yes,yes,103.11
+apartment,noida,1767.0,4,4.0,4.0,13,14,yes,unfurnished,0.32,2,5901.0,yes,yes,141.44
+apartment,rohini,1011.0,3,4.0,10.0,0,2,no,semi-furnished,4.0,3,2241.0,no,yes,102.56
+apartment,pitampura,1065.0,3,4.0,9.0,2,3,yes,semi-furnished,,0,2959.0,no,no,121.61
+builder floor,paschim vihar,2164.0,5,5.0,3.0,13,22,yes,semi-furnished,2.54,1,4621.0,no,yes,194.54
+apartment,dwarka,2075.0,5,5.0,13.0,16,20,yes,unfurnished,0.54,2,6329.0,no,yes,144.36
+independent house,paschim vihar,1046.0,2,2.0,9.0,19,23,yes,semi-furnished,0.93,2,3346.0,yes,yes,111.81
+apartment,janakpuri,868.0,3,3.0,30.0,1,20,yes,unfurnished,3.51,5,1360.0,yes,yes,96.83
+builder floor,paschim vihar,1941.0,5,5.0,13.0,0,2,yes,,1.69,0,,no,yes,166.25
+builder floor,janakpuri,1470.0,3,3.0,6.0,19,20,yes,semi-furnished,1.42,3,1831.0,no,no,128.13
+builder floor,pitampura,1199.0,3,4.0,12.0,4,12,yes,unfurnished,4.3,3,2169.0,no,no,113.5
+builder floor,dwarka,917.0,2,2.0,14.0,4,17,no,unfurnished,1.92,2,2215.0,no,yes,99.81
+builder floor,dwarka,1207.0,4,4.0,18.0,7,11,yes,semi-furnished,0.59,1,3050.0,no,yes,136.29
+builder floor,paschim vihar,1040.0,2,1.0,12.0,3,18,yes,semi-furnished,3.48,2,2084.0,yes,yes,107.16
+apartment,rohini,794.0,2,2.0,44.0,3,21,no,fully-furnished,0.52,1,1425.0,no,no,54.48
+apartment,rohini,1108.0,3,3.0,4.0,19,24,yes,fully-furnished,1.7,3,1748.0,no,yes,103.6
+builder floor,rohini,1174.0,2,1.0,8.0,1,14,yes,semi-furnished,2.14,2,2028.0,yes,yes,119.13
+apartment,rohini,897.0,2,1.0,6.0,8,8,yes,fully-furnished,2.96,1,1333.0,no,no,99.16
+apartment,noida,1535.0,4,4.0,9.0,4,16,no,fully-furnished,0.4,4,2724.0,yes,no,135.73
+apartment,pitampura,1804.0,3,3.0,15.0,1,13,yes,semi-furnished,0.1,2,5424.0,yes,yes,145.98
+apartment,gurugram,1578.0,4,4.0,14.0,5,6,yes,semi-furnished,0.11,1,2892.0,no,yes,159.34
+apartment,rohini,935.0,2,2.0,18.0,3,18,no,unfurnished,4.7,2,2989.0,yes,yes,88.68
+builder floor,uttam nagar,1442.0,3,3.0,13.0,1,3,yes,semi-furnished,0.32,3,2508.0,yes,yes,101.96
+builder floor,janakpuri,1085.0,3,2.0,14.0,4,11,yes,semi-furnished,5.57,3,2476.0,no,yes,104.18
+builder floor,pitampura,625.0,2,2.0,13.0,9,17,no,unfurnished,3.76,1,980.0,no,no,87.64
+apartment,noida,,4,4.0,9.0,11,23,yes,unfurnished,0.71,6,1724.0,yes,yes,125.92
+apartment,gurugram,1116.0,2,2.0,8.0,3,16,no,fully-furnished,0.17,3,2875.0,no,yes,112.15
+apartment,noida,3121.0,6,5.0,6.0,5,24,yes,semi-furnished,1.81,2,6064.0,no,yes,225.74
+apartment,dwarka,1936.0,5,4.0,19.0,4,21,yes,unfurnished,1.07,1,3793.0,no,no,151.04
+builder floor,dwarka,1415.0,4,5.0,2.0,0,7,no,unfurnished,4.36,4,2967.0,no,yes,114.57
+apartment,uttam nagar,1166.0,3,4.0,14.0,14,21,yes,semi-furnished,2.12,1,3394.0,yes,yes,94.94
+independent house,dwarka,1125.0,4,5.0,21.0,4,9,yes,fully-furnished,1.71,3,2339.0,yes,yes,137.47
+apartment,paschim vihar,689.0,2,2.0,25.0,1,16,yes,semi-furnished,1.42,3,958.0,yes,yes,74.99
+builder floor,uttam nagar,506.0,2,2.0,1.0,2,6,yes,semi-furnished,2.95,5,918.0,no,yes,55.66
+builder floor,uttam nagar,728.0,1,1.0,9.0,10,14,yes,unfurnished,1.58,4,1796.0,yes,yes,63.35
+apartment,noida,1029.0,2,3.0,7.0,5,17,yes,unfurnished,6.36,3,3484.0,no,yes,77.89
+builder floor,paschim vihar,434.0,1,1.0,8.0,9,23,no,semi-furnished,0.31,1,657.0,no,no,77.42
+apartment,rohini,835.0,2,2.0,28.0,17,23,yes,fully-furnished,1.29,2,1596.0,no,yes,67.39
+builder floor,rohini,946.0,2,3.0,7.0,14,20,yes,semi-furnished,2.64,1,2146.0,no,yes,95.4
+builder floor,uttam nagar,959.0,2,2.0,21.0,10,14,yes,semi-furnished,2.38,0,3144.0,yes,yes,76.52
+apartment,janakpuri,795.0,2,3.0,14.0,8,22,yes,semi-furnished,6.35,4,1144.0,no,no,73.56
+apartment,dwarka,910.0,2,2.0,8.0,2,4,yes,semi-furnished,0.87,4,,no,yes,109.69
+builder floor,pitampura,2166.0,5,4.0,7.0,21,24,yes,semi-furnished,0.1,1,6044.0,no,yes,185.31
+apartment,paschim vihar,1387.0,4,3.0,15.0,6,6,yes,semi-furnished,3.55,3,2599.0,yes,yes,121.12
+builder floor,noida,830.0,2,1.0,12.0,0,11,no,semi-furnished,2.04,2,2409.0,no,yes,73.93
+builder floor,uttam nagar,1020.0,2,1.0,2.0,19,22,yes,semi-furnished,3.57,2,2514.0,yes,no,92.5
+builder floor,pitampura,1038.0,3,3.0,5.0,16,18,yes,fully-furnished,2.29,1,1637.0,no,yes,131.29
+apartment,dwarka,761.0,1,1.0,15.0,20,21,yes,semi-furnished,0.1,3,1392.0,no,yes,95.1
+builder floor,janakpuri,760.0,2,1.0,4.0,4,17,yes,unfurnished,2.4,3,1461.0,no,yes,86.28
+independent house,dwarka,1605.0,4,4.0,23.0,8,15,yes,unfurnished,0.86,0,3067.0,no,no,140.72
+apartment,uttam nagar,880.0,3,3.0,3.0,0,6,yes,semi-furnished,1.29,3,2501.0,no,yes,81.38
+apartment,paschim vihar,663.0,1,1.0,10.0,2,24,no,semi-furnished,1.54,2,1759.0,no,yes,75.32
+apartment,rohini,1031.0,3,2.0,19.0,9,16,yes,semi-furnished,0.52,1,3097.0,no,no,78.83
+apartment,rohini,1103.0,3,4.0,5.0,3,17,yes,semi-furnished,0.83,4,2563.0,no,yes,118.88
+builder floor,dwarka,459.0,1,1.0,4.0,2,11,no,unfurnished,3.1,4,905.0,no,yes,63.11
+apartment,noida,1032.0,2,2.0,17.0,7,23,yes,semi-furnished,3.1,3,1392.0,yes,yes,98.93
+apartment,uttam nagar,1512.0,3,3.0,21.0,5,12,yes,semi-furnished,0.26,0,4457.0,no,yes,112.0
+apartment,rohini,1269.0,3,4.0,10.0,1,6,no,semi-furnished,2.06,3,1732.0,yes,yes,109.69
+apartment,noida,2679.0,6,5.0,9.0,5,6,yes,semi-furnished,3.36,2,4992.0,no,yes,187.07
+apartment,janakpuri,1776.0,5,5.0,3.0,12,18,yes,unfurnished,1.9,3,4745.0,no,yes,151.55
+builder floor,janakpuri,1930.0,4,4.0,13.0,15,19,no,semi-furnished,2.16,2,5561.0,no,no,181.5
+builder floor,gurugram,3404.0,6,5.0,2.0,6,6,no,fully-furnished,0.29,4,4598.0,yes,no,286.4
+apartment,rohini,1444.0,4,3.0,29.0,11,18,yes,fully-furnished,4.24,2,,no,yes,115.39
+builder floor,dwarka,1124.0,2,2.0,11.0,9,24,yes,semi-furnished,0.57,4,1688.0,yes,no,108.41
+apartment,uttam nagar,1581.0,4,4.0,6.0,14,14,yes,unfurnished,1.24,1,4531.0,yes,no,93.62
+apartment,dwarka,830.0,1,1.0,7.0,14,24,no,semi-furnished,3.38,3,2329.0,yes,yes,75.46
+apartment,paschim vihar,1099.0,3,2.0,13.0,2,5,no,semi-furnished,5.34,5,3127.0,no,yes,100.67
+independent house,dwarka,800.0,2,2.0,8.0,4,11,yes,semi-furnished,1.33,1,1072.0,no,yes,99.52
+builder floor,rohini,1241.0,3,2.0,12.0,0,14,yes,fully-furnished,7.48,0,3017.0,no,yes,102.64
+builder floor,dwarka,799.0,1,1.0,5.0,10,10,yes,,1.95,2,1382.0,yes,yes,96.05
+apartment,pitampura,787.0,2,3.0,25.0,4,4,no,unfurnished,1.78,1,1803.0,,yes,69.92
+apartment,rohini,1249.0,4,3.0,8.0,9,12,yes,unfurnished,0.66,8,4218.0,no,yes,114.6
+builder floor,rohini,991.0,2,2.0,1.0,2,9,yes,unfurnished,1.26,2,1386.0,no,yes,92.58
+apartment,noida,467.0,1,1.0,9.0,6,6,yes,fully-furnished,2.09,7,1171.0,no,no,59.26
+independent house,dwarka,570.0,2,2.0,7.0,1,10,no,semi-furnished,2.66,0,891.0,yes,yes,103.63
+builder floor,pitampura,649.0,2,2.0,,2,11,yes,unfurnished,2.57,4,1507.0,no,no,87.93
+apartment,rohini,725.0,1,1.0,6.0,1,22,yes,semi-furnished,1.14,5,1701.0,yes,yes,66.3
+builder floor,pitampura,1250.0,4,4.0,8.0,4,13,yes,semi-furnished,4.67,1,2755.0,no,yes,133.03
+independent house,dwarka,1151.0,3,3.0,14.0,3,11,no,semi-furnished,1.82,0,3001.0,yes,yes,104.28
+apartment,uttam nagar,1642.0,4,4.0,18.0,8,10,no,unfurnished,1.73,1,5490.0,no,yes,103.77
+builder floor,dwarka,1440.0,3,4.0,30.0,5,15,yes,semi-furnished,0.61,3,4279.0,,yes,141.17
+independent house,noida,1647.0,3,3.0,6.0,8,8,no,unfurnished,2.88,2,5450.0,yes,yes,149.2
+apartment,gurugram,1356.0,4,4.0,28.0,6,22,yes,,1.64,6,2192.0,yes,yes,136.3
+builder floor,rohini,1147.0,2,2.0,23.0,6,11,yes,unfurnished,1.34,2,3883.0,no,no,103.79
+apartment,rohini,1666.0,4,4.0,7.0,7,11,no,semi-furnished,0.42,2,3118.0,yes,yes,139.22
+builder floor,rohini,1545.0,3,3.0,6.0,3,3,yes,,0.44,3,1970.0,no,yes,135.88
+builder floor,uttam nagar,1230.0,3,4.0,16.0,17,22,yes,unfurnished,2.27,4,2656.0,no,yes,110.81
+builder floor,rohini,1791.0,4,4.0,12.0,11,12,no,unfurnished,5.17,7,3119.0,no,yes,119.87
+apartment,noida,392.0,1,1.0,16.0,5,5,yes,fully-furnished,1.44,4,1128.0,no,yes,54.65
+builder floor,paschim vihar,929.0,1,1.0,,0,5,yes,semi-furnished,1.43,0,1292.0,yes,yes,99.04
+apartment,noida,923.0,4,5.0,13.0,1,10,yes,semi-furnished,,2,2220.0,no,yes,100.31
+apartment,janakpuri,1704.0,5,5.0,11.0,8,19,no,unfurnished,4.13,2,3130.0,no,yes,132.57
+apartment,gurugram,2032.0,6,5.0,16.0,0,4,yes,unfurnished,1.05,2,3363.0,yes,yes,153.7
+builder floor,rohini,571.0,2,2.0,6.0,2,4,yes,semi-furnished,0.62,4,1785.0,no,no,53.02
+apartment,pitampura,1899.0,4,3.0,13.0,8,14,no,fully-furnished,1.61,2,4432.0,no,yes,157.31
+apartment,dwarka,642.0,2,2.0,29.0,3,13,yes,unfurnished,2.54,2,1230.0,,no,56.52
+builder floor,gurugram,650.0,1,1.0,28.0,2,24,yes,semi-furnished,0.11,5,1847.0,yes,no,78.89
+apartment,uttam nagar,952.0,1,1.0,14.0,19,19,yes,semi-furnished,1.18,2,2929.0,no,yes,62.19
+apartment,noida,919.0,3,3.0,6.0,6,17,yes,unfurnished,1.47,1,1997.0,yes,yes,92.3
+apartment,rohini,546.0,2,2.0,39.0,8,9,yes,unfurnished,1.31,1,874.0,yes,yes,64.92
+apartment,gurugram,1380.0,3,2.0,16.0,10,16,yes,unfurnished,0.38,3,4675.0,yes,yes,131.04
+builder floor,janakpuri,1397.0,2,2.0,36.0,10,15,yes,semi-furnished,1.19,2,2780.0,yes,yes,134.48
+apartment,janakpuri,1635.0,3,4.0,16.0,7,8,yes,semi-furnished,1.49,0,2701.0,yes,yes,133.18
+apartment,gurugram,875.0,1,1.0,1.0,2,10,yes,semi-furnished,0.73,6,1249.0,yes,yes,111.72
+independent house,pitampura,1033.0,3,2.0,39.0,5,23,yes,unfurnished,2.11,2,1521.0,yes,yes,125.79
+builder floor,pitampura,1037.0,1,1.0,21.0,14,14,yes,semi-furnished,3.23,3,3396.0,,no,101.17
+builder floor,uttam nagar,2133.0,5,5.0,12.0,8,12,yes,semi-furnished,3.32,3,7002.0,no,yes,159.56
+builder floor,rohini,350.0,1,2.0,2.0,6,20,yes,semi-furnished,0.92,3,811.0,yes,yes,59.31
+independent house,dwarka,702.0,1,2.0,23.0,5,8,no,semi-furnished,2.5,9,1911.0,no,yes,98.3
+apartment,dwarka,1052.0,3,2.0,16.0,3,7,yes,unfurnished,2.34,3,3189.0,yes,yes,106.8
+builder floor,rohini,666.0,1,1.0,46.0,21,24,no,semi-furnished,5.99,3,1616.0,yes,yes,57.81
+builder floor,noida,942.0,3,2.0,34.0,10,20,yes,semi-furnished,2.51,2,2513.0,no,yes,86.56
+apartment,uttam nagar,996.0,1,1.0,36.0,3,11,yes,semi-furnished,2.63,0,3314.0,no,yes,46.39
+apartment,pitampura,797.0,1,1.0,14.0,16,23,yes,unfurnished,3.73,2,1259.0,no,yes,80.42
+apartment,pitampura,1079.0,1,1.0,14.0,8,10,no,semi-furnished,,4,1624.0,no,yes,99.47
+builder floor,janakpuri,1367.0,2,3.0,16.0,6,17,yes,semi-furnished,1.79,1,3905.0,yes,yes,127.71
+builder floor,uttam nagar,951.0,3,4.0,7.0,2,2,yes,semi-furnished,5.4,1,2613.0,no,no,86.49
+builder floor,gurugram,868.0,3,2.0,13.0,4,18,yes,fully-furnished,5.48,2,1397.0,no,yes,126.32
+apartment,gurugram,979.0,2,2.0,11.0,1,6,yes,fully-furnished,1.19,4,1826.0,no,yes,105.41
+apartment,pitampura,1047.0,2,2.0,27.0,6,7,yes,unfurnished,5.29,1,2835.0,no,no,72.12
+apartment,dwarka,506.0,1,1.0,31.0,13,20,no,semi-furnished,1.35,0,1158.0,no,no,37.32
+apartment,janakpuri,1275.0,4,4.0,19.0,0,6,yes,semi-furnished,2.17,2,4036.0,no,yes,108.45
+independent house,uttam nagar,869.0,2,2.0,6.0,9,13,yes,fully-furnished,0.31,2,2643.0,yes,no,111.51
+builder floor,janakpuri,1784.0,4,4.0,40.0,7,23,yes,unfurnished,4.51,4,4053.0,no,yes,124.15
+independent house,uttam nagar,1346.0,3,4.0,23.0,6,23,yes,unfurnished,1.29,1,3590.0,no,yes,99.52
+builder floor,uttam nagar,1716.0,4,4.0,15.0,5,12,yes,semi-furnished,0.39,3,4488.0,no,yes,138.65
+independent house,dwarka,687.0,1,1.0,18.0,1,3,no,unfurnished,1.52,3,964.0,yes,yes,93.65
+apartment,pitampura,898.0,2,1.0,4.0,8,8,no,semi-furnished,0.1,2,1918.0,yes,yes,81.72
+apartment,pitampura,623.0,1,1.0,11.0,7,16,yes,semi-furnished,2.81,1,1351.0,no,yes,56.5
+apartment,rohini,781.0,2,2.0,29.0,2,9,yes,unfurnished,3.93,1,2479.0,yes,yes,54.12
+apartment,rohini,1777.0,4,5.0,3.0,14,18,no,semi-furnished,0.64,1,5593.0,yes,yes,148.07
+apartment,paschim vihar,1961.0,5,5.0,3.0,13,24,yes,fully-furnished,0.62,1,2602.0,yes,yes,176.66
+apartment,pitampura,648.0,2,1.0,23.0,0,16,yes,fully-furnished,2.65,0,1982.0,yes,yes,71.94
+independent house,dwarka,866.0,2,1.0,17.0,10,16,no,semi-furnished,2.91,2,2205.0,yes,yes,107.17
+apartment,uttam nagar,1017.0,3,2.0,3.0,7,14,yes,unfurnished,0.96,5,120000.0,no,yes,86.76
+independent house,paschim vihar,1343.0,2,2.0,10.0,4,6,yes,unfurnished,0.74,0,2739.0,no,yes,132.43
+builder floor,dwarka,501.0,1,1.0,15.0,2,15,yes,fully-furnished,3.44,0,1580.0,yes,yes,54.65
+builder floor,noida,536.0,1,1.0,,11,23,no,semi-furnished,0.35,2,1066.0,no,yes,57.79
+builder floor,gurugram,1290.0,4,3.0,16.0,11,17,yes,semi-furnished,1.13,6,3468.0,no,yes,160.77
+apartment,uttam nagar,463.0,1,1.0,9.0,13,19,yes,fully-furnished,0.72,5,1132.0,yes,yes,54.76
+builder floor,uttam nagar,870.0,2,1.0,15.0,14,21,yes,unfurnished,2.62,2,2173.0,yes,no,61.61
+apartment,rohini,1124.0,4,4.0,19.0,10,10,yes,semi-furnished,0.78,3,2538.0,no,yes,97.84
+independent house,gurugram,1250.0,2,2.0,18.0,5,9,yes,unfurnished,3.78,1,2826.0,,yes,133.05
+apartment,pitampura,989.0,2,2.0,10.0,10,24,no,unfurnished,1.09,3,3151.0,no,yes,105.05
+apartment,gurugram,900.0,2,2.0,21.0,7,12,yes,semi-furnished,,0,1899.0,yes,yes,105.01
+builder floor,uttam nagar,1497.0,4,4.0,6.0,6,18,yes,semi-furnished,0.79,3,2427.0,yes,yes,119.38
+builder floor,rohini,1184.0,4,4.0,7.0,5,16,no,fully-furnished,1.95,1,2514.0,yes,yes,128.58
+apartment,rohini,800.0,2,2.0,23.0,3,4,no,semi-furnished,0.89,0,2250.0,yes,yes,78.32
+builder floor,paschim vihar,1067.0,3,3.0,20.0,3,9,yes,fully-furnished,0.58,2,2396.0,yes,yes,114.58
+apartment,uttam nagar,1233.0,3,2.0,10.0,7,9,yes,semi-furnished,2.89,3,3465.0,yes,yes,95.97
+builder floor,rohini,2161.0,5,5.0,7.0,5,6,yes,semi-furnished,0.77,2,3733.0,no,yes,179.64
+apartment,paschim vihar,1461.0,3,4.0,8.0,19,19,no,,0.78,1,3626.0,no,yes,146.08
+apartment,noida,1749.0,3,3.0,19.0,3,24,yes,semi-furnished,1.81,3,5425.0,no,yes,117.69
+apartment,janakpuri,812.0,2,2.0,16.0,9,24,no,semi-furnished,2.07,1,1920.0,no,yes,80.12
+apartment,janakpuri,843.0,2,3.0,7.0,5,6,yes,unfurnished,0.56,2,2193.0,yes,yes,91.83
+apartment,rohini,951.0,2,1.0,20.0,5,12,yes,unfurnished,2.46,4,2561.0,no,yes,70.56
+apartment,noida,989.0,3,3.0,10.0,5,7,yes,fully-furnished,0.83,0,2796.0,yes,no,94.73
+apartment,pitampura,688.0,1,1.0,6.0,2,3,yes,semi-furnished,0.42,2,1356.0,no,yes,97.16
+apartment,noida,1787.0,5,5.0,9.0,15,16,yes,,1.27,2,4609.0,no,no,153.49
+apartment,pitampura,,3,4.0,13.0,4,21,yes,unfurnished,,0,3220.0,no,yes,152.93
+apartment,uttam nagar,923.0,3,4.0,20.0,1,3,yes,semi-furnished,2.31,1,1901.0,no,yes,68.99
+builder floor,dwarka,1375.0,3,3.0,19.0,8,16,yes,semi-furnished,6.15,2,3087.0,no,yes,120.6
+independent house,rohini,1153.0,3,4.0,11.0,1,2,yes,unfurnished,1.79,2,2418.0,yes,yes,120.62
+apartment,noida,1421.0,3,3.0,14.0,19,21,yes,semi-furnished,2.56,4,1786.0,no,yes,130.14
+independent house,janakpuri,597.0,2,1.0,,0,3,yes,semi-furnished,0.3,2,1691.0,yes,yes,109.27
+apartment,janakpuri,988.0,2,2.0,7.0,3,12,yes,fully-furnished,3.91,1,2456.0,no,yes,100.63
+apartment,gurugram,1025.0,1,2.0,12.0,4,4,no,unfurnished,1.46,1,1540.0,yes,no,86.77
+builder floor,gurugram,1364.0,4,5.0,2.0,7,11,yes,semi-furnished,0.46,2,2421.0,yes,yes,142.93
+builder floor,noida,806.0,2,3.0,31.0,8,11,no,unfurnished,3.8,4,2051.0,no,yes,76.06
+builder floor,dwarka,367.0,1,1.0,14.0,3,14,yes,semi-furnished,1.51,1,859.0,no,yes,73.99
+apartment,uttam nagar,667.0,2,2.0,17.0,13,21,yes,semi-furnished,3.36,4,1862.0,yes,yes,45.47
+builder floor,noida,1023.0,2,3.0,7.0,9,24,no,semi-furnished,6.62,4,2329.0,yes,yes,84.69
+apartment,pitampura,1079.0,2,1.0,14.0,7,9,yes,unfurnished,0.34,9,3300.0,no,yes,117.22
+apartment,rohini,2130.0,5,5.0,16.0,2,23,yes,fully-furnished,0.8,3,2919.0,yes,yes,152.68
+apartment,noida,1341.0,3,3.0,10.0,3,11,yes,unfurnished,2.93,2,3418.0,no,yes,97.24
+independent house,janakpuri,1087.0,3,3.0,11.0,3,4,yes,semi-furnished,1.6,1,2193.0,no,yes,136.52
+apartment,uttam nagar,1036.0,2,2.0,4.0,9,15,yes,fully-furnished,0.1,2,1943.0,no,no,87.12
+builder floor,gurugram,1670.0,5,5.0,38.0,15,18,yes,semi-furnished,1.15,3,5471.0,yes,yes,153.45
+builder floor,uttam nagar,820.0,2,2.0,7.0,7,8,yes,fully-furnished,,5,2542.0,no,yes,102.43
+builder floor,pitampura,990.0,2,1.0,8.0,0,15,yes,semi-furnished,1.52,3,1588.0,no,yes,96.95
+builder floor,pitampura,665.0,1,1.0,33.0,1,11,yes,fully-furnished,0.77,4,882.0,no,yes,72.11
+builder floor,pitampura,1905.0,5,5.0,17.0,2,5,no,semi-furnished,4.64,4,5921.0,no,yes,180.03
+apartment,rohini,,4,3.0,20.0,10,10,yes,,0.3,3,1947.0,no,yes,109.53
+apartment,noida,780.0,2,2.0,4.0,5,11,yes,unfurnished,2.18,3,2529.0,no,yes,87.0
+builder floor,noida,1001.0,3,3.0,14.0,8,9,no,semi-furnished,0.97,8,1812.0,yes,yes,103.57
+apartment,dwarka,1301.0,3,3.0,4.0,1,23,yes,,0.9,2,2739.0,yes,yes,115.18
+apartment,dwarka,945.0,2,3.0,6.0,10,10,yes,fully-furnished,4.2,4,1228.0,no,yes,93.63
+apartment,noida,839.0,3,3.0,42.0,1,16,yes,unfurnished,1.26,2,1999.0,no,no,72.85
+apartment,rohini,798.0,3,2.0,5.0,2,2,no,unfurnished,2.19,0,1289.0,no,no,78.83
+apartment,janakpuri,1211.0,3,2.0,19.0,8,9,yes,fully-furnished,3.08,2,2602.0,yes,yes,117.08
+apartment,janakpuri,903.0,2,2.0,6.0,6,22,yes,unfurnished,,5,2910.0,no,yes,104.11
+independent house,paschim vihar,868.0,2,3.0,6.0,6,22,no,semi-furnished,4.25,3,1524.0,yes,no,115.35
+apartment,rohini,599.0,1,1.0,55.0,14,24,yes,semi-furnished,,5,1555.0,no,no,36.22
+independent house,uttam nagar,1085.0,3,4.0,12.0,2,3,yes,unfurnished,2.3,1,1784.0,yes,no,100.66
+independent house,pitampura,973.0,3,3.0,4.0,2,21,no,unfurnished,6.19,1,2473.0,yes,no,105.49
+apartment,uttam nagar,917.0,3,2.0,20.0,2,8,yes,semi-furnished,2.15,1,1684.0,yes,yes,82.18
+builder floor,rohini,1141.0,2,2.0,27.0,2,2,no,unfurnished,0.22,0,3080.0,no,no,92.23
+builder floor,janakpuri,1438.0,4,5.0,21.0,4,4,yes,unfurnished,2.36,3,4164.0,no,yes,132.72
+builder floor,janakpuri,1410.0,3,3.0,11.0,3,19,yes,unfurnished,4.77,3,4424.0,no,yes,134.77
+apartment,dwarka,1324.0,2,3.0,11.0,14,15,yes,semi-furnished,1.17,2,4264.0,yes,yes,98.16
+apartment,rohini,949.0,3,3.0,8.0,13,15,yes,semi-furnished,1.15,4,1643.0,no,yes,86.42
+apartment,dwarka,827.0,3,3.0,5.0,19,22,yes,unfurnished,2.84,1,1227.0,yes,no,81.42
+builder floor,pitampura,677.0,2,2.0,16.0,1,4,yes,,2.46,4,885.0,yes,no,93.34
+independent house,rohini,818.0,2,2.0,10.0,2,3,yes,semi-furnished,1.72,2,2278.0,yes,no,102.75
+builder floor,gurugram,1059.0,3,2.0,4.0,3,23,no,unfurnished,0.83,3,1706.0,no,yes,115.22
+builder floor,pitampura,755.0,3,4.0,12.0,3,15,yes,semi-furnished,1.05,1,2235.0,no,yes,85.65
+independent house,noida,1093.0,3,3.0,7.0,1,19,no,fully-furnished,0.6,1,3632.0,yes,no,125.4
+builder floor,gurugram,,1,1.0,15.0,7,14,yes,semi-furnished,0.19,1,1068.0,yes,yes,97.15
+apartment,rohini,523.0,3,3.0,14.0,4,5,yes,semi-furnished,3.91,4,954.0,yes,yes,49.99
+builder floor,uttam nagar,1481.0,4,3.0,9.0,2,14,no,semi-furnished,2.96,1,3485.0,no,yes,108.89
+apartment,noida,860.0,2,,12.0,4,24,no,,2.74,2,1847.0,yes,no,78.46
+apartment,uttam nagar,739.0,1,1.0,13.0,1,4,no,fully-furnished,2.7,2,1579.0,no,yes,77.85
+apartment,pitampura,663.0,2,2.0,23.0,0,4,no,fully-furnished,1.36,1,1112.0,yes,yes,68.35
+independent house,janakpuri,1254.0,3,3.0,12.0,8,9,yes,fully-furnished,1.21,2,3958.0,no,no,146.39
+apartment,rohini,1871.0,5,5.0,8.0,2,12,yes,,0.46,2,5051.0,no,yes,132.53
+apartment,janakpuri,886.0,3,2.0,10.0,4,16,yes,semi-furnished,3.15,2,1363.0,yes,yes,79.81
+apartment,gurugram,959.0,2,1.0,36.0,1,5,no,unfurnished,8.81,4,1160.0,no,yes,65.85
+apartment,gurugram,1647.0,3,3.0,6.0,4,23,yes,semi-furnished,2.28,0,4740.0,yes,yes,154.29
+apartment,rohini,491.0,1,1.0,11.0,5,5,yes,semi-furnished,3.49,4,606.0,no,yes,58.51
+builder floor,paschim vihar,2399.0,5,5.0,10.0,1,6,yes,semi-furnished,3.5,2,7525.0,yes,yes,191.85
+builder floor,dwarka,2931.0,6,5.0,11.0,12,24,no,unfurnished,5.0,2,6931.0,no,yes,215.11
+apartment,gurugram,350.0,1,2.0,5.0,6,10,yes,fully-furnished,0.72,2,,no,yes,78.81
+apartment,rohini,1008.0,2,2.0,10.0,4,15,no,unfurnished,0.31,5,2921.0,no,yes,84.88
+apartment,gurugram,776.0,2,2.0,8.0,6,12,yes,unfurnished,1.93,4,2458.0,yes,yes,92.73
+apartment,noida,939.0,3,4.0,15.0,1,7,yes,fully-furnished,1.47,6,2663.0,yes,yes,91.68
+apartment,rohini,881.0,2,2.0,25.0,6,13,yes,semi-furnished,8.29,4,2175.0,no,yes,88.89
+builder floor,rohini,1477.0,3,2.0,16.0,0,19,no,semi-furnished,0.61,0,150000.0,no,yes,130.29
+builder floor,noida,1002.0,2,2.0,13.0,1,2,no,semi-furnished,6.13,3,2806.0,no,yes,108.07
+apartment,rohini,716.0,2,2.0,17.0,8,22,yes,unfurnished,1.48,2,1792.0,yes,yes,61.77
+apartment,janakpuri,977.0,3,3.0,14.0,2,6,yes,unfurnished,0.54,5,2150.0,yes,yes,93.05
+apartment,gurugram,1303.0,3,3.0,12.0,2,23,yes,semi-furnished,,1,3165.0,yes,no,117.39
+apartment,uttam nagar,639.0,2,2.0,22.0,24,24,yes,semi-furnished,0.74,6,1093.0,no,no,71.59
+independent house,pitampura,526.0,2,2.0,10.0,0,23,no,semi-furnished,3.51,4,1099.0,no,no,87.27
+builder floor,janakpuri,2425.0,6,5.0,,2,16,yes,unfurnished,1.98,4,3573.0,no,yes,189.23
+independent house,rohini,802.0,1,1.0,8.0,2,22,yes,semi-furnished,6.11,2,1685.0,yes,yes,92.38
+independent house,gurugram,991.0,2,1.0,7.0,21,21,yes,semi-furnished,4.08,3,2207.0,no,yes,116.66
+builder floor,dwarka,888.0,3,3.0,43.0,5,16,yes,unfurnished,1.45,4,2741.0,no,yes,70.78
+independent house,dwarka,1322.0,2,2.0,26.0,9,22,yes,unfurnished,5.36,1,3120.0,yes,yes,119.98
+apartment,dwarka,2211.0,5,5.0,13.0,7,9,yes,semi-furnished,2.51,2,7074.0,yes,yes,168.77
+apartment,gurugram,1340.0,3,3.0,7.0,1,21,no,semi-furnished,,3,4461.0,no,yes,126.68
+apartment,rohini,555.0,1,1.0,22.0,1,23,yes,semi-furnished,1.94,6,726.0,no,yes,28.01
+apartment,noida,587.0,1,1.0,13.0,3,16,no,semi-furnished,3.61,3,1476.0,yes,yes,51.23
+apartment,paschim vihar,888.0,3,,10.0,3,4,no,semi-furnished,1.39,2,1650.0,yes,yes,96.59
+apartment,noida,938.0,2,2.0,13.0,6,6,yes,unfurnished,1.06,3,2882.0,no,yes,70.7
+builder floor,gurugram,509.0,2,3.0,10.0,3,5,no,semi-furnished,0.84,3,1164.0,no,yes,70.86
+builder floor,noida,1481.0,3,3.0,17.0,13,14,no,unfurnished,2.26,1,2032.0,no,yes,119.06
+builder floor,gurugram,665.0,1,1.0,4.0,10,11,yes,semi-furnished,0.9,7,1113.0,yes,yes,111.36
+apartment,rohini,,4,5.0,17.0,6,21,no,unfurnished,3.65,2,5274.0,no,yes,126.46
+builder floor,noida,2256.0,4,3.0,10.0,1,8,yes,unfurnished,1.36,1,3102.0,no,no,164.91
+apartment,janakpuri,946.0,2,2.0,22.0,0,5,no,semi-furnished,2.66,4,1924.0,no,yes,82.91
+apartment,janakpuri,1263.0,4,3.0,26.0,13,16,yes,semi-furnished,4.25,1,3937.0,yes,yes,94.26
+apartment,noida,626.0,2,3.0,30.0,4,5,yes,semi-furnished,5.1,5,791.0,no,no,77.34
+apartment,gurugram,1364.0,4,3.0,45.0,19,22,no,semi-furnished,2.07,1,3726.0,no,yes,113.79
+apartment,paschim vihar,852.0,2,2.0,29.0,2,3,yes,fully-furnished,0.15,2,2289.0,no,no,89.15
+builder floor,janakpuri,665.0,1,,22.0,13,13,no,fully-furnished,0.17,4,1267.0,yes,no,87.93
+builder floor,janakpuri,930.0,3,3.0,5.0,21,23,no,fully-furnished,3.58,0,1347.0,yes,yes,89.33
+builder floor,pitampura,863.0,3,3.0,1.0,12,14,yes,semi-furnished,0.68,2,1230.0,yes,yes,123.8
+apartment,pitampura,916.0,3,4.0,24.0,16,20,no,semi-furnished,,1,3052.0,no,no,103.89
+builder floor,pitampura,1565.0,4,3.0,6.0,1,11,no,semi-furnished,3.98,1,4209.0,no,no,139.39
+builder floor,rohini,755.0,2,1.0,55.0,14,19,yes,semi-furnished,1.08,3,1531.0,no,yes,70.26
+apartment,rohini,2176.0,5,5.0,3.0,17,18,yes,semi-furnished,0.47,4,6602.0,yes,yes,169.2
+builder floor,noida,602.0,1,2.0,21.0,4,13,yes,semi-furnished,1.34,1,859.0,yes,yes,82.32
+apartment,janakpuri,2069.0,4,3.0,14.0,4,4,yes,unfurnished,3.08,2,3061.0,no,no,146.13
+apartment,gurugram,685.0,1,1.0,4.0,8,24,yes,unfurnished,1.06,2,1120.0,no,no,83.47
+apartment,uttam nagar,1050.0,2,2.0,14.0,0,3,no,fully-furnished,2.76,4,3024.0,no,no,79.69
+apartment,rohini,855.0,2,2.0,7.0,8,10,no,unfurnished,0.48,3,1795.0,yes,no,75.51
+apartment,rohini,909.0,1,1.0,12.0,2,16,yes,semi-furnished,0.82,1,2376.0,no,yes,89.51
+apartment,dwarka,1470.0,3,3.0,12.0,9,19,yes,semi-furnished,1.36,5,2516.0,no,yes,151.95
+apartment,gurugram,1971.0,4,4.0,7.0,14,14,no,unfurnished,4.37,3,5736.0,no,yes,159.53
+independent house,dwarka,1731.0,3,2.0,9.0,1,11,no,fully-furnished,1.18,1,5130.0,no,yes,161.19
+apartment,janakpuri,886.0,2,2.0,6.0,1,11,yes,unfurnished,1.03,1,1869.0,no,yes,79.32
+apartment,gurugram,1134.0,2,1.0,2.0,23,24,yes,fully-furnished,1.04,8,1883.0,yes,yes,142.61
+apartment,gurugram,756.0,1,1.0,13.0,7,9,yes,semi-furnished,2.76,4,1955.0,yes,yes,87.46
+builder floor,dwarka,692.0,2,2.0,29.0,10,21,yes,unfurnished,3.31,3,1220.0,no,yes,108.59
+apartment,rohini,649.0,1,1.0,7.0,1,3,yes,unfurnished,4.23,2,991.0,no,yes,40.64
+independent house,rohini,874.0,1,1.0,39.0,17,17,yes,semi-furnished,6.8,1,2233.0,yes,no,102.99
+apartment,rohini,1166.0,3,4.0,44.0,13,17,yes,semi-furnished,2.27,2,2715.0,yes,yes,102.43
+apartment,dwarka,470.0,1,1.0,9.0,16,17,yes,unfurnished,0.92,3,1374.0,yes,yes,52.13
+apartment,uttam nagar,1030.0,3,3.0,10.0,1,11,yes,fully-furnished,1.53,2,1898.0,yes,yes,117.11
+apartment,gurugram,1985.0,4,4.0,9.0,9,17,yes,unfurnished,0.72,5,3366.0,yes,yes,161.67
+builder floor,janakpuri,1682.0,3,2.0,5.0,9,12,no,fully-furnished,1.95,3,4389.0,yes,no,145.18
+builder floor,uttam nagar,821.0,2,1.0,10.0,0,15,no,unfurnished,0.85,2,2251.0,no,yes,52.66
+apartment,dwarka,584.0,1,1.0,10.0,11,22,no,fully-furnished,4.21,1,1232.0,no,yes,64.73
+independent house,noida,1274.0,4,4.0,13.0,1,17,no,unfurnished,2.13,1,2769.0,no,yes,120.85
+apartment,uttam nagar,397.0,1,1.0,14.0,17,18,no,semi-furnished,5.21,2,584.0,yes,no,43.78
+apartment,noida,1674.0,4,4.0,5.0,17,24,yes,semi-furnished,3.22,1,3738.0,yes,yes,166.22
+apartment,gurugram,960.0,4,4.0,19.0,1,7,yes,unfurnished,3.0,3,3182.0,yes,no,98.99
+apartment,pitampura,2266.0,5,5.0,10.0,8,15,yes,fully-furnished,0.46,1,3286.0,no,yes,159.08
+builder floor,rohini,508.0,2,2.0,5.0,1,17,yes,unfurnished,2.76,2,1244.0,no,yes,70.78
+apartment,dwarka,1544.0,4,4.0,10.0,14,17,yes,semi-furnished,6.7,2,1915.0,yes,no,122.86
+apartment,janakpuri,1007.0,3,3.0,14.0,1,5,yes,semi-furnished,1.22,4,1929.0,yes,yes,124.23
+apartment,gurugram,914.0,2,2.0,33.0,12,19,no,semi-furnished,3.75,3,2627.0,yes,yes,90.7
+apartment,pitampura,591.0,2,1.0,30.0,0,6,no,unfurnished,0.32,2,1447.0,no,yes,54.9
+apartment,noida,1349.0,3,3.0,8.0,1,11,no,unfurnished,0.62,1,1860.0,yes,yes,98.36
+builder floor,janakpuri,1395.0,3,4.0,11.0,18,18,yes,unfurnished,1.62,3,3061.0,yes,yes,138.71
+apartment,dwarka,2222.0,5,5.0,6.0,3,8,no,semi-furnished,1.05,3,3053.0,yes,yes,171.68
+apartment,dwarka,1603.0,5,4.0,16.0,0,4,yes,unfurnished,0.83,1,3241.0,yes,yes,149.52
+apartment,uttam nagar,818.0,3,2.0,9.0,12,17,yes,fully-furnished,1.05,2,2365.0,yes,yes,78.56
+apartment,paschim vihar,689.0,2,1.0,11.0,1,8,yes,semi-furnished,2.53,3,1218.0,no,yes,96.71
+apartment,janakpuri,591.0,2,2.0,25.0,12,21,yes,semi-furnished,3.79,3,,no,yes,53.48
+builder floor,dwarka,1949.0,4,3.0,4.0,18,22,yes,semi-furnished,2.69,2,4484.0,no,yes,144.04
+independent house,paschim vihar,757.0,2,2.0,30.0,7,10,yes,unfurnished,2.81,2,2329.0,no,yes,102.52
+apartment,rohini,1955.0,5,5.0,17.0,4,18,yes,semi-furnished,1.68,2,2869.0,yes,no,143.46
+independent house,gurugram,1309.0,4,3.0,29.0,1,7,no,unfurnished,0.6,1,3156.0,yes,yes,131.77
+builder floor,dwarka,1206.0,2,3.0,21.0,5,23,yes,semi-furnished,,2,1529.0,no,no,98.23
+builder floor,rohini,923.0,2,2.0,23.0,5,7,yes,semi-furnished,1.99,6,1297.0,yes,yes,79.78
+builder floor,janakpuri,1386.0,5,5.0,13.0,15,22,no,semi-furnished,3.91,1,2336.0,yes,yes,137.89
+builder floor,janakpuri,1043.0,2,3.0,5.0,10,20,yes,fully-furnished,5.79,0,2903.0,no,no,107.54
+builder floor,janakpuri,899.0,3,4.0,8.0,3,9,yes,unfurnished,2.37,3,1160.0,yes,yes,91.57
+apartment,janakpuri,1407.0,3,3.0,7.0,1,20,yes,semi-furnished,,2,4614.0,no,no,128.96
+apartment,gurugram,988.0,2,2.0,2.0,14,16,yes,unfurnished,0.11,2,2115.0,yes,yes,124.07
+apartment,janakpuri,751.0,2,2.0,25.0,11,17,yes,semi-furnished,1.34,3,2287.0,yes,yes,81.15
+apartment,janakpuri,1351.0,4,4.0,12.0,7,10,no,semi-furnished,1.67,2,2281.0,no,yes,131.09
+builder floor,pitampura,1022.0,3,2.0,6.0,0,7,no,unfurnished,2.64,5,1986.0,no,yes,95.91
+apartment,rohini,1289.0,2,2.0,43.0,5,18,yes,semi-furnished,5.89,2,3608.0,yes,yes,94.62
+apartment,uttam nagar,868.0,2,2.0,55.0,1,3,yes,semi-furnished,2.26,1,1766.0,yes,yes,57.57
+apartment,dwarka,632.0,2,1.0,4.0,6,10,yes,,0.27,1,1464.0,no,yes,64.84
+apartment,uttam nagar,2176.0,5,5.0,10.0,4,5,yes,fully-furnished,2.84,4,6485.0,yes,no,184.94
+builder floor,rohini,2010.0,4,5.0,10.0,2,2,yes,semi-furnished,1.25,1,5291.0,yes,yes,164.94
+builder floor,gurugram,1522.0,4,4.0,6.0,1,2,no,fully-furnished,2.63,3,4625.0,no,yes,146.59
+apartment,janakpuri,892.0,3,3.0,24.0,1,4,no,semi-furnished,3.02,1,1240.0,no,yes,83.26
+apartment,noida,926.0,2,3.0,2.0,9,23,yes,fully-furnished,0.25,0,2350.0,no,yes,88.51
+apartment,janakpuri,1876.0,5,5.0,36.0,14,19,yes,unfurnished,1.6,1,4732.0,no,yes,130.56
+apartment,rohini,905.0,1,,13.0,7,24,no,semi-furnished,1.65,1,2295.0,no,yes,67.21
+builder floor,noida,805.0,1,1.0,41.0,1,3,yes,semi-furnished,,2,2009.0,yes,yes,70.67
+apartment,uttam nagar,2305.0,5,5.0,12.0,19,24,yes,semi-furnished,0.9,3,6437.0,yes,yes,157.86
+apartment,noida,1029.0,2,2.0,10.0,8,15,no,semi-furnished,0.67,2,3146.0,no,yes,105.15
+apartment,pitampura,2207.0,5,4.0,25.0,9,20,yes,fully-furnished,5.82,1,3763.0,no,yes,164.38
+independent house,uttam nagar,584.0,1,1.0,41.0,16,21,yes,semi-furnished,2.06,1,835.0,no,no,47.02
+builder floor,noida,1305.0,2,2.0,37.0,2,8,yes,semi-furnished,0.75,7,,yes,yes,100.47
+apartment,uttam nagar,2506.0,6,5.0,3.0,1,19,yes,semi-furnished,1.07,4,3881.0,yes,no,166.34
+apartment,pitampura,1063.0,1,2.0,31.0,13,16,yes,fully-furnished,6.01,4,2810.0,yes,yes,112.51
+apartment,uttam nagar,940.0,2,2.0,10.0,5,11,no,fully-furnished,4.46,2,1989.0,no,no,75.17
+independent house,paschim vihar,643.0,1,1.0,11.0,4,13,yes,semi-furnished,0.97,1,1266.0,yes,yes,104.38
+apartment,gurugram,1654.0,4,5.0,9.0,0,6,yes,unfurnished,0.61,1,5296.0,yes,yes,161.58
+apartment,pitampura,760.0,1,1.0,8.0,6,6,yes,unfurnished,0.66,4,2417.0,no,yes,83.47
+independent house,pitampura,1009.0,2,1.0,11.0,17,23,yes,semi-furnished,4.13,2,2407.0,no,yes,133.81
+builder floor,noida,625.0,3,3.0,6.0,5,18,no,fully-furnished,1.18,5,1380.0,no,no,79.2
+apartment,janakpuri,2019.0,6,5.0,31.0,9,15,yes,semi-furnished,0.37,1,3624.0,yes,no,148.41
+apartment,paschim vihar,1705.0,3,3.0,20.0,8,17,no,,1.11,2,3771.0,no,yes,135.94
+apartment,janakpuri,1036.0,3,3.0,15.0,3,11,no,unfurnished,2.22,4,2180.0,no,yes,95.61
+builder floor,dwarka,647.0,1,1.0,9.0,2,7,yes,semi-furnished,,3,786.0,no,no,80.61
+apartment,paschim vihar,2001.0,4,5.0,8.0,1,23,yes,fully-furnished,4.52,5,5741.0,no,no,178.62
+independent house,rohini,900.0,2,2.0,17.0,24,24,yes,unfurnished,2.24,2,1948.0,yes,yes,97.74
+independent house,dwarka,,2,3.0,15.0,6,6,yes,semi-furnished,2.49,2,1116.0,no,yes,98.8
+apartment,uttam nagar,501.0,2,2.0,27.0,18,20,no,semi-furnished,3.46,0,,no,yes,53.89
+builder floor,paschim vihar,801.0,1,1.0,8.0,4,12,no,fully-furnished,3.33,2,1750.0,yes,no,95.62
+apartment,noida,570.0,2,3.0,8.0,18,18,no,unfurnished,1.1,3,1077.0,yes,yes,73.44
+apartment,dwarka,808.0,1,1.0,20.0,1,4,yes,fully-furnished,0.62,2,1380.0,no,yes,67.99
+builder floor,rohini,1435.0,3,4.0,23.0,11,13,yes,semi-furnished,2.1,5,1909.0,no,yes,163.3
+apartment,gurugram,897.0,2,1.0,53.0,0,4,no,semi-furnished,1.87,2,2069.0,no,yes,61.14
+apartment,rohini,1219.0,3,4.0,3.0,6,20,yes,unfurnished,2.25,1,2470.0,no,yes,96.05
+apartment,dwarka,775.0,2,2.0,32.0,6,11,yes,semi-furnished,2.4,1,999.0,yes,no,67.72
+apartment,dwarka,1079.0,2,2.0,14.0,8,8,yes,semi-furnished,,3,3223.0,yes,yes,122.05
+apartment,janakpuri,2353.0,5,5.0,9.0,5,18,yes,semi-furnished,1.38,1,7008.0,no,yes,176.26
+builder floor,noida,907.0,2,2.0,17.0,10,23,no,semi-furnished,2.48,4,2066.0,no,yes,93.44
+builder floor,paschim vihar,1234.0,3,3.0,17.0,8,9,yes,semi-furnished,0.62,4,3758.0,no,yes,119.76
+builder floor,paschim vihar,544.0,1,2.0,9.0,8,18,yes,semi-furnished,0.83,2,1228.0,yes,yes,72.56
+builder floor,rohini,1988.0,4,5.0,3.0,12,17,no,unfurnished,1.78,5,3124.0,no,yes,161.88
+apartment,pitampura,859.0,2,2.0,32.0,5,13,no,semi-furnished,0.72,2,2009.0,no,yes,75.35
+builder floor,janakpuri,1632.0,4,4.0,7.0,0,20,yes,unfurnished,2.88,1,3081.0,,no,141.42
+apartment,rohini,,2,2.0,6.0,1,4,yes,fully-furnished,2.56,2,2189.0,yes,yes,101.76
+apartment,dwarka,1358.0,3,3.0,8.0,13,22,no,fully-furnished,0.98,1,4530.0,yes,yes,143.82
+independent house,dwarka,1392.0,4,3.0,22.0,0,11,yes,unfurnished,1.47,2,2759.0,no,yes,118.1
+apartment,rohini,868.0,1,1.0,10.0,0,3,yes,unfurnished,4.16,2,1454.0,yes,yes,69.48
+apartment,uttam nagar,1661.0,5,5.0,8.0,23,24,no,unfurnished,2.08,4,2463.0,yes,yes,123.1
+apartment,paschim vihar,763.0,1,1.0,16.0,0,19,no,semi-furnished,7.83,1,2399.0,no,yes,68.68
+apartment,rohini,1456.0,3,3.0,15.0,5,20,yes,fully-furnished,1.47,1,1795.0,yes,yes,148.94
+apartment,janakpuri,891.0,1,1.0,8.0,3,5,yes,semi-furnished,1.62,0,2848.0,yes,yes,87.78
+apartment,noida,1216.0,4,4.0,3.0,11,19,no,unfurnished,1.78,2,1624.0,no,yes,78.9
+builder floor,paschim vihar,865.0,2,2.0,22.0,3,18,yes,unfurnished,0.32,4,2470.0,yes,yes,94.4
+apartment,noida,1072.0,2,2.0,15.0,1,22,yes,,1.56,1,1979.0,no,yes,87.96
+apartment,janakpuri,669.0,1,1.0,2.0,9,10,yes,fully-furnished,1.51,0,1171.0,no,yes,80.97
+apartment,noida,1165.0,3,3.0,35.0,13,23,no,semi-furnished,3.08,3,1859.0,no,yes,83.49
+builder floor,dwarka,1070.0,2,1.0,2.0,10,18,no,semi-furnished,4.28,1,1601.0,yes,no,86.04
+apartment,pitampura,837.0,2,2.0,7.0,0,7,no,semi-furnished,1.36,3,1126.0,yes,yes,116.53
+apartment,rohini,1026.0,1,1.0,7.0,1,6,yes,,0.15,2,1581.0,no,yes,96.32
+apartment,janakpuri,1111.0,3,4.0,8.0,1,22,yes,semi-furnished,2.01,5,2772.0,no,yes,109.25
+builder floor,pitampura,811.0,2,2.0,8.0,16,16,yes,fully-furnished,0.71,5,1990.0,no,yes,133.89
+builder floor,dwarka,995.0,3,3.0,4.0,3,4,no,fully-furnished,2.15,4,1809.0,yes,yes,103.66
+builder floor,paschim vihar,688.0,2,2.0,14.0,2,4,yes,semi-furnished,2.11,3,1855.0,no,yes,96.48
+builder floor,dwarka,2812.0,6,5.0,24.0,14,21,yes,,0.91,1,8136.0,yes,yes,204.37
+apartment,dwarka,1638.0,4,4.0,14.0,0,5,yes,unfurnished,2.02,1,5498.0,no,yes,138.81
+apartment,rohini,1178.0,2,1.0,16.0,7,7,yes,semi-furnished,0.39,2,2553.0,no,yes,84.3
+apartment,janakpuri,1718.0,4,4.0,10.0,8,16,yes,unfurnished,2.26,3,3477.0,no,yes,146.43
+apartment,dwarka,457.0,1,1.0,14.0,11,21,no,semi-furnished,3.3,3,1527.0,no,yes,77.18
+apartment,pitampura,359.0,1,1.0,17.0,9,9,no,unfurnished,2.65,3,1175.0,no,yes,55.1
+apartment,dwarka,,2,2.0,20.0,1,17,yes,unfurnished,1.12,1,2876.0,,no,56.84
+apartment,paschim vihar,588.0,2,2.0,7.0,8,18,no,unfurnished,3.12,2,1493.0,no,no,67.95
+apartment,gurugram,951.0,2,2.0,7.0,1,15,no,semi-furnished,2.86,4,2434.0,no,no,104.95
+apartment,janakpuri,1145.0,4,3.0,1.0,7,17,yes,semi-furnished,2.96,4,3712.0,yes,no,125.68
+builder floor,uttam nagar,1546.0,3,3.0,42.0,2,7,no,semi-furnished,4.65,6,3487.0,no,yes,120.18
+builder floor,noida,651.0,2,3.0,40.0,7,16,yes,semi-furnished,2.43,9,1087.0,yes,yes,95.1
+apartment,gurugram,,2,2.0,12.0,2,2,yes,fully-furnished,0.64,5,4183.0,yes,yes,131.31
+apartment,uttam nagar,1056.0,3,2.0,12.0,5,18,yes,fully-furnished,0.76,5,3223.0,yes,no,85.72
+builder floor,noida,1215.0,3,4.0,33.0,1,20,no,unfurnished,2.43,5,1608.0,yes,yes,90.33
+builder floor,gurugram,,2,2.0,4.0,3,20,yes,semi-furnished,1.54,2,1222.0,,yes,102.14
+apartment,noida,1877.0,5,5.0,6.0,2,2,yes,semi-furnished,1.3,2,5895.0,no,yes,160.87
+apartment,janakpuri,1005.0,2,1.0,35.0,13,22,yes,semi-furnished,2.8,2,1872.0,no,yes,71.54
+builder floor,rohini,2212.0,6,5.0,10.0,11,11,yes,semi-furnished,0.52,3,6043.0,no,no,166.49
+builder floor,rohini,753.0,3,3.0,5.0,3,3,yes,semi-furnished,2.84,5,1099.0,no,yes,95.98
+apartment,janakpuri,1434.0,3,3.0,17.0,2,14,no,unfurnished,1.46,0,2259.0,no,no,103.15
+apartment,janakpuri,1024.0,1,1.0,7.0,11,15,no,semi-furnished,2.31,2,2912.0,yes,yes,98.32
+builder floor,pitampura,,2,1.0,31.0,1,11,yes,semi-furnished,0.57,3,3069.0,yes,yes,90.09
+apartment,uttam nagar,1369.0,3,4.0,13.0,1,19,yes,semi-furnished,2.92,3,3155.0,no,yes,106.04
+builder floor,uttam nagar,926.0,2,3.0,8.0,11,14,yes,fully-furnished,3.74,4,1199.0,yes,no,82.25
+apartment,noida,350.0,1,1.0,8.0,2,6,no,unfurnished,12.0,0,600.0,yes,yes,18.0
+apartment,rohini,350.0,1,2.0,17.0,16,16,no,unfurnished,2.19,2,584.0,no,no,48.4
+apartment,dwarka,1792.0,4,5.0,11.0,0,8,yes,unfurnished,3.64,3,5838.0,yes,no,134.22
+apartment,noida,1760.0,4,4.0,10.0,2,4,yes,unfurnished,0.72,3,3735.0,yes,no,137.72
+independent house,noida,2320.0,6,5.0,21.0,2,8,no,unfurnished,4.48,3,7621.0,yes,no,174.11
+apartment,gurugram,1042.0,2,2.0,34.0,22,22,yes,semi-furnished,0.42,1,3221.0,yes,yes,111.02
+independent house,noida,610.0,1,1.0,19.0,10,15,yes,semi-furnished,5.77,3,1337.0,no,no,81.21
+apartment,noida,880.0,1,1.0,7.0,7,9,no,semi-furnished,2.02,6,1104.0,yes,yes,91.33
+builder floor,dwarka,1055.0,3,3.0,5.0,3,10,yes,semi-furnished,,2,3524.0,yes,yes,108.51
+independent house,pitampura,688.0,1,1.0,20.0,19,21,no,unfurnished,1.33,0,841.0,yes,no,87.19
+apartment,dwarka,2098.0,4,4.0,19.0,15,17,yes,semi-furnished,3.61,3,6469.0,no,yes,164.79
+apartment,uttam nagar,2690.0,6,5.0,9.0,15,19,no,unfurnished,1.56,0,5674.0,yes,yes,196.28
+builder floor,gurugram,1284.0,3,4.0,11.0,8,16,yes,fully-furnished,1.54,2,2392.0,yes,yes,146.07
+apartment,pitampura,1045.0,2,2.0,7.0,23,24,no,unfurnished,3.37,8,2193.0,yes,yes,93.87
+independent house,uttam nagar,610.0,2,3.0,5.0,12,17,yes,semi-furnished,1.67,0,1211.0,no,yes,81.72
+apartment,dwarka,2010.0,5,5.0,8.0,0,11,yes,fully-furnished,4.28,5,5459.0,no,yes,165.29
+apartment,rohini,1084.0,3,2.0,1.0,7,7,yes,semi-furnished,1.09,3,2667.0,no,yes,79.15
+apartment,dwarka,930.0,3,3.0,27.0,0,3,yes,semi-furnished,0.29,3,1642.0,yes,yes,72.37
+builder floor,rohini,1285.0,1,1.0,4.0,13,19,yes,semi-furnished,1.75,6,3033.0,no,yes,112.61
+independent house,gurugram,821.0,2,3.0,12.0,5,23,no,unfurnished,1.93,1,1717.0,yes,yes,108.81
+apartment,pitampura,1117.0,3,3.0,2.0,16,17,yes,semi-furnished,1.05,4,,yes,yes,118.63
+builder floor,noida,573.0,1,1.0,18.0,10,13,yes,fully-furnished,2.26,3,1813.0,no,yes,85.54
+independent house,paschim vihar,1658.0,4,3.0,22.0,4,5,yes,fully-furnished,0.35,4,4241.0,yes,yes,157.36
+apartment,dwarka,1005.0,3,4.0,13.0,11,16,no,semi-furnished,2.31,3,3340.0,no,yes,81.36
+apartment,rohini,1708.0,4,4.0,12.0,3,6,no,semi-furnished,0.61,3,3459.0,no,no,120.38
+builder floor,noida,965.0,3,3.0,7.0,14,16,no,semi-furnished,0.46,5,1345.0,no,no,94.99
+builder floor,dwarka,992.0,3,3.0,27.0,2,8,no,semi-furnished,1.88,6,1294.0,yes,yes,99.52
+apartment,gurugram,631.0,1,1.0,3.0,11,21,no,unfurnished,0.42,1,1914.0,yes,yes,72.04
+builder floor,rohini,1445.0,3,3.0,9.0,7,23,yes,unfurnished,0.18,2,2953.0,no,yes,97.26
+apartment,paschim vihar,727.0,1,1.0,7.0,0,7,no,unfurnished,2.55,2,2248.0,yes,yes,46.56
+independent house,noida,856.0,2,,6.0,8,9,no,semi-furnished,0.68,1,1891.0,no,yes,104.23
+builder floor,dwarka,1050.0,2,2.0,26.0,11,23,no,unfurnished,,0,1286.0,no,yes,75.82
+builder floor,dwarka,1105.0,3,3.0,11.0,0,2,yes,unfurnished,1.41,3,2611.0,yes,yes,88.09
+apartment,gurugram,513.0,1,1.0,7.0,11,13,yes,unfurnished,1.88,5,1287.0,yes,yes,86.98
+apartment,dwarka,953.0,3,3.0,15.0,5,5,no,fully-furnished,,0,2090.0,yes,yes,112.1
+apartment,pitampura,1466.0,4,4.0,15.0,7,11,yes,unfurnished,,3,4462.0,yes,no,129.8
+apartment,janakpuri,896.0,2,1.0,22.0,0,2,yes,unfurnished,2.79,2,2345.0,no,yes,82.8
+builder floor,dwarka,955.0,4,3.0,17.0,5,5,no,semi-furnished,2.72,3,1912.0,no,no,101.62
+apartment,noida,1124.0,3,,11.0,8,11,yes,unfurnished,0.97,5,3127.0,no,yes,79.35
+apartment,noida,996.0,1,1.0,12.0,1,3,yes,fully-furnished,2.36,2,1896.0,yes,yes,104.03
+apartment,pitampura,681.0,1,1.0,16.0,6,20,yes,fully-furnished,0.77,0,2074.0,yes,yes,98.92
+apartment,noida,1034.0,2,2.0,6.0,15,15,yes,semi-furnished,2.36,3,1878.0,no,yes,118.1
+apartment,dwarka,1594.0,4,4.0,14.0,12,12,yes,semi-furnished,1.36,1,4250.0,no,yes,130.54
+builder floor,rohini,675.0,1,1.0,33.0,8,12,yes,semi-furnished,1.6,2,1426.0,no,yes,52.81
+builder floor,uttam nagar,897.0,2,1.0,13.0,0,21,yes,unfurnished,5.32,1,1276.0,yes,yes,85.59
+apartment,gurugram,,1,,9.0,5,21,no,unfurnished,2.63,7,1520.0,no,yes,81.91
+builder floor,rohini,1559.0,3,4.0,9.0,1,3,yes,unfurnished,1.04,1,3185.0,yes,yes,138.44
+builder floor,dwarka,,3,3.0,,9,17,yes,unfurnished,0.34,1,2621.0,no,yes,94.6
+apartment,janakpuri,735.0,2,2.0,14.0,11,12,no,semi-furnished,1.93,0,1755.0,yes,no,79.66
+builder floor,noida,1091.0,3,4.0,19.0,17,20,yes,unfurnished,0.4,2,,no,yes,93.58
+apartment,rohini,,1,2.0,8.0,5,20,yes,unfurnished,5.79,3,1045.0,no,no,56.37
+apartment,pitampura,680.0,2,2.0,11.0,2,18,no,semi-furnished,1.64,6,1864.0,no,yes,79.47
+apartment,paschim vihar,569.0,1,1.0,,4,17,yes,semi-furnished,3.39,3,1268.0,no,yes,93.65
+apartment,pitampura,671.0,1,2.0,22.0,1,6,yes,unfurnished,0.5,3,1494.0,yes,yes,83.65
+builder floor,dwarka,1857.0,4,4.0,23.0,19,21,no,unfurnished,2.58,2,2238.0,yes,no,120.75
+independent house,dwarka,772.0,2,2.0,20.0,0,18,yes,unfurnished,3.92,7,1441.0,no,yes,94.53
+builder floor,pitampura,1277.0,4,4.0,20.0,7,8,yes,unfurnished,2.74,2,3413.0,,yes,128.76
+apartment,janakpuri,739.0,1,1.0,14.0,5,7,yes,fully-furnished,3.21,1,2329.0,no,yes,76.27
+apartment,noida,1445.0,3,4.0,4.0,1,13,no,fully-furnished,2.41,2,3559.0,yes,yes,113.57
+independent house,uttam nagar,682.0,1,1.0,4.0,6,9,yes,semi-furnished,1.25,5,1630.0,no,yes,90.05
+apartment,paschim vihar,1067.0,3,3.0,13.0,10,17,yes,semi-furnished,0.8,2,2384.0,no,yes,97.96
+apartment,gurugram,1074.0,2,2.0,13.0,0,11,yes,semi-furnished,0.92,4,2892.0,no,yes,118.75
+apartment,pitampura,2791.0,6,5.0,6.0,1,5,no,semi-furnished,5.89,4,8250.0,yes,yes,198.84
+apartment,pitampura,1368.0,2,2.0,7.0,4,11,yes,unfurnished,2.09,2,2306.0,no,yes,113.82
+apartment,gurugram,819.0,2,2.0,11.0,4,20,yes,unfurnished,4.18,4,2269.0,yes,yes,104.58
+apartment,dwarka,1400.0,4,5.0,46.0,12,21,no,semi-furnished,1.09,3,2431.0,yes,yes,117.93
+builder floor,paschim vihar,2578.0,6,5.0,5.0,6,9,yes,semi-furnished,3.07,2,,no,yes,209.33
+apartment,paschim vihar,530.0,1,1.0,9.0,3,20,yes,unfurnished,0.75,6,723.0,no,yes,71.35
+apartment,rohini,737.0,3,3.0,,0,4,yes,unfurnished,1.45,4,960.0,no,yes,70.58
+apartment,janakpuri,951.0,2,1.0,19.0,16,24,yes,semi-furnished,1.2,1,1727.0,yes,yes,83.82
+apartment,dwarka,881.0,3,3.0,15.0,9,19,no,unfurnished,5.43,3,1304.0,no,yes,62.88
+builder floor,dwarka,913.0,3,2.0,2.0,0,2,yes,semi-furnished,0.87,1,1267.0,,yes,108.56
+apartment,janakpuri,607.0,1,1.0,10.0,4,18,no,semi-furnished,2.82,2,925.0,no,yes,83.17
+builder floor,dwarka,1894.0,3,4.0,38.0,0,13,yes,semi-furnished,2.46,3,2432.0,yes,yes,154.27
+builder floor,noida,578.0,3,3.0,6.0,19,22,yes,unfurnished,0.55,4,1130.0,yes,yes,86.86
+apartment,gurugram,965.0,2,2.0,6.0,6,7,no,unfurnished,4.21,3,2905.0,no,yes,84.91
+builder floor,noida,1629.0,4,4.0,32.0,12,22,yes,fully-furnished,4.57,2,3939.0,yes,yes,147.32
+builder floor,dwarka,1037.0,3,4.0,11.0,8,22,yes,semi-furnished,2.1,2,1393.0,no,yes,114.45
+apartment,dwarka,696.0,2,3.0,2.0,1,8,yes,unfurnished,1.84,2,1409.0,no,yes,87.17
+apartment,dwarka,596.0,2,2.0,5.0,3,11,no,unfurnished,0.28,3,1279.0,no,yes,80.53
+apartment,rohini,953.0,2,1.0,8.0,15,16,yes,fully-furnished,0.47,1,1505.0,yes,yes,110.75
+independent house,gurugram,,2,2.0,15.0,0,7,yes,semi-furnished,1.41,4,1544.0,yes,no,100.01
+builder floor,pitampura,1145.0,2,2.0,10.0,20,24,no,fully-furnished,0.77,4,2222.0,no,no,106.23
+independent house,dwarka,583.0,2,3.0,6.0,2,6,yes,semi-furnished,3.4,3,1333.0,no,no,92.61
+independent house,noida,1477.0,3,4.0,11.0,2,7,no,semi-furnished,0.45,3,4038.0,,yes,129.23
+apartment,pitampura,1102.0,3,3.0,6.0,11,13,yes,semi-furnished,0.4,2,2483.0,no,no,102.35
+builder floor,rohini,1137.0,3,3.0,39.0,12,12,yes,unfurnished,2.64,2,1549.0,no,yes,104.93
+apartment,rohini,1923.0,4,5.0,4.0,3,3,no,semi-furnished,2.33,1,2541.0,no,yes,134.08
+builder floor,uttam nagar,874.0,1,1.0,8.0,6,22,yes,semi-furnished,1.98,3,2756.0,no,no,75.31
+apartment,noida,774.0,2,2.0,8.0,4,7,no,unfurnished,3.08,1,2112.0,no,yes,52.72
+apartment,dwarka,834.0,3,3.0,8.0,1,4,yes,fully-furnished,1.01,1,2207.0,no,yes,96.34
+builder floor,gurugram,968.0,2,2.0,5.0,2,13,no,semi-furnished,1.25,4,3106.0,no,no,123.36
+builder floor,noida,1011.0,3,3.0,31.0,9,23,no,unfurnished,2.27,2,2418.0,yes,yes,102.35
+builder floor,noida,741.0,2,2.0,48.0,0,2,yes,semi-furnished,2.09,0,1009.0,no,yes,79.41
+apartment,dwarka,449.0,1,1.0,16.0,2,13,yes,fully-furnished,0.83,3,,yes,yes,66.92
+apartment,rohini,830.0,1,1.0,15.0,13,22,no,,3.8,0,1292.0,no,yes,81.97
+independent house,noida,1221.0,2,1.0,3.0,15,22,yes,semi-furnished,0.56,2,3255.0,no,yes,130.83
+apartment,dwarka,1112.0,2,2.0,30.0,1,5,no,fully-furnished,1.34,2,2315.0,no,yes,89.96
+apartment,uttam nagar,1738.0,3,,,9,16,yes,fully-furnished,0.61,3,2194.0,no,no,137.04
+apartment,paschim vihar,2387.0,6,5.0,3.0,16,21,no,fully-furnished,7.65,0,3156.0,yes,yes,197.88
+apartment,rohini,1444.0,4,4.0,18.0,16,17,yes,fully-furnished,1.88,2,2980.0,no,yes,108.16
+apartment,noida,1877.0,4,,25.0,10,17,no,semi-furnished,0.72,1,4708.0,no,yes,127.25
+apartment,gurugram,1449.0,2,2.0,30.0,4,19,yes,semi-furnished,1.21,2,2284.0,no,yes,123.41
+builder floor,paschim vihar,2153.0,4,4.0,9.0,9,12,yes,semi-furnished,2.25,3,3089.0,no,no,164.96
+independent house,janakpuri,2285.0,5,5.0,8.0,0,3,yes,semi-furnished,3.38,3,4633.0,yes,yes,184.82
+independent house,noida,1566.0,5,5.0,14.0,2,16,yes,unfurnished,0.79,2,4650.0,yes,yes,145.23
+apartment,janakpuri,1413.0,3,2.0,10.0,6,16,no,semi-furnished,4.73,0,4133.0,no,yes,123.96
+apartment,paschim vihar,963.0,3,,18.0,7,21,no,fully-furnished,1.82,1,2605.0,no,yes,107.96
+builder floor,noida,1032.0,2,1.0,14.0,3,23,yes,semi-furnished,2.66,3,2204.0,no,yes,101.27
+builder floor,paschim vihar,911.0,2,1.0,6.0,0,9,no,fully-furnished,1.13,3,1979.0,no,yes,105.97
+apartment,dwarka,1363.0,4,5.0,30.0,22,23,yes,semi-furnished,2.38,2,2313.0,no,yes,140.7
+builder floor,rohini,776.0,2,2.0,18.0,2,2,yes,unfurnished,1.06,3,1165.0,no,yes,72.64
+builder floor,dwarka,969.0,2,2.0,24.0,17,24,yes,unfurnished,1.27,0,1197.0,no,yes,93.9
+builder floor,janakpuri,390.0,2,2.0,6.0,0,5,yes,fully-furnished,3.47,2,1206.0,no,yes,68.37
+builder floor,janakpuri,2165.0,5,4.0,18.0,13,16,yes,semi-furnished,2.55,1,4961.0,no,yes,160.5
+apartment,uttam nagar,,3,3.0,21.0,6,17,yes,semi-furnished,1.38,5,1155.0,yes,yes,94.95
+apartment,pitampura,1271.0,3,3.0,14.0,12,16,yes,semi-furnished,3.34,5,3005.0,yes,yes,120.33
+builder floor,noida,1937.0,5,,5.0,12,24,yes,semi-furnished,2.19,2,3425.0,no,yes,171.72
+apartment,gurugram,1191.0,3,3.0,13.0,3,14,yes,semi-furnished,0.22,4,2549.0,yes,no,121.35
+builder floor,dwarka,1926.0,5,5.0,20.0,1,5,yes,fully-furnished,1.61,2,5160.0,no,yes,179.37
+builder floor,paschim vihar,623.0,2,1.0,26.0,2,15,yes,semi-furnished,3.42,1,1857.0,no,yes,65.09
+apartment,paschim vihar,2874.0,6,5.0,3.0,7,8,no,semi-furnished,5.77,4,7878.0,yes,yes,228.67
+builder floor,janakpuri,1658.0,4,4.0,14.0,7,16,yes,semi-furnished,0.66,4,5259.0,no,no,157.97
+builder floor,dwarka,1146.0,2,2.0,4.0,8,10,yes,fully-furnished,3.26,4,1967.0,yes,yes,101.48
+builder floor,noida,1910.0,5,5.0,20.0,2,2,no,unfurnished,1.81,0,5071.0,,yes,144.57
+apartment,gurugram,643.0,1,1.0,24.0,2,16,no,unfurnished,0.55,4,2030.0,no,no,82.48
+builder floor,paschim vihar,25000.0,1,1.0,6.0,1,4,yes,unfurnished,0.6,1,1747.0,no,yes,115.75
+apartment,gurugram,,3,3.0,5.0,1,9,no,semi-furnished,0.68,2,5699.0,no,yes,168.13
+apartment,gurugram,479.0,1,2.0,7.0,0,16,yes,semi-furnished,0.38,6,1566.0,yes,yes,79.8
+apartment,pitampura,1329.0,3,2.0,11.0,22,22,yes,semi-furnished,0.5,1,3477.0,no,yes,114.01
+builder floor,uttam nagar,1313.0,2,2.0,7.0,6,9,yes,semi-furnished,1.87,3,2050.0,yes,yes,114.8
+builder floor,janakpuri,2401.0,6,5.0,21.0,4,8,no,unfurnished,0.22,3,4259.0,no,no,178.8
+apartment,gurugram,540.0,1,1.0,26.0,1,8,yes,semi-furnished,0.81,2,1456.0,yes,yes,70.82
+apartment,rohini,2064.0,5,4.0,13.0,9,15,yes,fully-furnished,1.28,5,6410.0,no,no,159.21
+builder floor,pitampura,830.0,2,2.0,7.0,3,6,yes,unfurnished,0.81,1,1039.0,yes,no,107.85
+builder floor,noida,870.0,2,2.0,10.0,3,14,yes,unfurnished,0.44,4,1669.0,yes,no,111.47
+apartment,dwarka,,1,1.0,13.0,0,20,yes,unfurnished,1.76,1,1076.0,no,yes,75.86
+independent house,noida,665.0,1,1.0,10.0,1,3,no,semi-furnished,0.79,4,1415.0,no,yes,86.94
+builder floor,pitampura,1244.0,3,3.0,11.0,12,24,yes,unfurnished,0.86,3,3596.0,no,yes,114.75
+independent house,gurugram,658.0,3,3.0,24.0,11,14,no,semi-furnished,1.55,1,1517.0,no,yes,108.47
+independent house,noida,1433.0,4,5.0,7.0,6,16,yes,semi-furnished,,5,3354.0,yes,yes,166.42
+independent house,dwarka,795.0,1,2.0,41.0,1,16,no,semi-furnished,0.99,2,2019.0,no,no,93.25
+builder floor,noida,631.0,1,1.0,13.0,21,23,yes,semi-furnished,1.03,3,1473.0,,yes,81.9
+builder floor,pitampura,841.0,1,,10.0,7,17,yes,unfurnished,,1,2283.0,no,yes,88.43
+apartment,uttam nagar,1210.0,4,4.0,6.0,16,22,no,fully-furnished,3.39,5,1737.0,yes,yes,108.26
+apartment,uttam nagar,935.0,3,3.0,7.0,0,8,yes,semi-furnished,1.79,5,1169.0,yes,no,95.6
+builder floor,noida,1065.0,3,3.0,12.0,0,7,no,semi-furnished,3.23,1,3215.0,yes,no,101.02
+apartment,rohini,1407.0,3,3.0,13.0,0,16,no,unfurnished,3.62,2,3171.0,yes,yes,102.03
+builder floor,dwarka,1654.0,5,5.0,9.0,4,5,yes,semi-furnished,0.97,0,3071.0,no,yes,142.72
+apartment,paschim vihar,922.0,3,2.0,4.0,1,4,yes,fully-furnished,3.06,4,2028.0,yes,yes,136.43
+apartment,uttam nagar,677.0,2,1.0,12.0,5,6,no,unfurnished,1.93,4,1781.0,no,yes,44.14
+apartment,janakpuri,1084.0,3,3.0,7.0,8,8,no,unfurnished,1.06,1,1591.0,no,yes,89.28
+apartment,rohini,1279.0,3,4.0,2.0,3,4,no,unfurnished,0.91,3,3008.0,yes,yes,109.36
+apartment,pitampura,,2,2.0,19.0,18,18,yes,semi-furnished,1.75,1,821.0,yes,yes,76.03
+apartment,noida,722.0,2,2.0,3.0,14,15,yes,fully-furnished,2.09,0,2232.0,yes,yes,97.56
+builder floor,rohini,776.0,2,1.0,9.0,5,6,no,semi-furnished,0.15,3,1891.0,yes,yes,94.21
+apartment,pitampura,962.0,2,2.0,11.0,7,8,yes,semi-furnished,1.2,1,2871.0,yes,yes,89.84
+apartment,gurugram,763.0,3,2.0,28.0,14,23,yes,semi-furnished,2.02,3,2126.0,yes,yes,84.91
+apartment,rohini,1413.0,4,4.0,3.0,5,22,yes,semi-furnished,2.41,9,4230.0,yes,yes,118.06
+apartment,paschim vihar,535.0,1,2.0,20.0,0,4,no,unfurnished,1.54,2,1044.0,no,yes,68.56
+apartment,dwarka,541.0,1,1.0,22.0,6,16,yes,,2.35,5,815.0,no,yes,64.96
+builder floor,noida,913.0,2,2.0,34.0,4,9,no,semi-furnished,0.91,2,2886.0,no,yes,78.32
+builder floor,paschim vihar,975.0,3,4.0,25.0,3,10,no,semi-furnished,2.31,3,3068.0,yes,no,104.01
+apartment,noida,570.0,1,1.0,11.0,1,15,yes,semi-furnished,2.07,3,1792.0,yes,yes,54.37
+builder floor,dwarka,814.0,3,4.0,21.0,12,24,yes,semi-furnished,3.58,5,2748.0,yes,yes,88.33
+apartment,janakpuri,887.0,2,3.0,29.0,7,15,no,fully-furnished,4.9,2,2228.0,yes,yes,70.74
+apartment,noida,,2,2.0,2.0,22,23,yes,unfurnished,3.64,0,2071.0,yes,yes,86.88
+builder floor,dwarka,1119.0,4,4.0,4.0,20,20,yes,semi-furnished,1.38,0,3306.0,yes,yes,122.67
+apartment,dwarka,795.0,2,2.0,14.0,12,19,yes,unfurnished,0.56,7,1147.0,yes,yes,76.54
+builder floor,rohini,1953.0,4,4.0,22.0,17,20,yes,fully-furnished,0.81,3,5708.0,yes,no,162.92
+apartment,gurugram,1289.0,2,2.0,18.0,6,20,yes,semi-furnished,4.81,5,3850.0,no,yes,131.34
+apartment,paschim vihar,748.0,2,1.0,15.0,7,7,yes,unfurnished,1.82,4,1847.0,yes,yes,73.4
+apartment,uttam nagar,1093.0,2,2.0,33.0,23,24,no,unfurnished,2.14,2,2244.0,yes,yes,67.03
+apartment,paschim vihar,1106.0,3,3.0,9.0,3,23,yes,semi-furnished,3.23,3,,yes,yes,116.93
+independent house,janakpuri,1749.0,4,3.0,7.0,11,15,no,semi-furnished,1.73,0,5620.0,no,yes,158.5
+apartment,janakpuri,816.0,2,1.0,8.0,8,18,yes,semi-furnished,4.04,4,1263.0,no,yes,71.21
+builder floor,janakpuri,1449.0,3,3.0,15.0,6,22,no,unfurnished,0.49,5,2731.0,yes,yes,123.69
+builder floor,uttam nagar,1069.0,3,2.0,11.0,2,5,yes,fully-furnished,2.5,1,2862.0,yes,yes,92.45
+apartment,dwarka,1965.0,4,4.0,23.0,3,3,yes,semi-furnished,5.88,3,5960.0,yes,yes,149.29
+apartment,noida,1806.0,4,4.0,7.0,23,24,no,,4.28,1,4758.0,yes,yes,139.45
+apartment,noida,1141.0,3,3.0,16.0,5,14,no,semi-furnished,4.46,4,2852.0,yes,yes,115.39
+apartment,pitampura,940.0,1,1.0,21.0,8,18,no,fully-furnished,0.44,3,1305.0,no,yes,92.25
+builder floor,uttam nagar,1299.0,3,3.0,29.0,7,13,yes,fully-furnished,2.05,5,2798.0,yes,no,88.72
+apartment,rohini,973.0,1,1.0,5.0,10,13,no,,1.56,2,3073.0,no,yes,82.12
+independent house,gurugram,2127.0,5,4.0,8.0,1,2,yes,semi-furnished,0.8,3,4245.0,yes,yes,221.54
+builder floor,gurugram,1085.0,2,1.0,11.0,3,8,yes,semi-furnished,2.07,3,2211.0,no,yes,116.22
+apartment,gurugram,886.0,3,4.0,3.0,3,3,yes,fully-furnished,0.56,2,1760.0,yes,yes,114.36
+builder floor,pitampura,866.0,1,1.0,15.0,4,11,yes,semi-furnished,2.35,1,1730.0,no,yes,91.8
+apartment,rohini,631.0,1,1.0,15.0,0,2,no,unfurnished,0.74,2,1319.0,no,yes,59.92
+independent house,dwarka,1327.0,3,3.0,14.0,6,20,yes,unfurnished,2.26,5,3850.0,yes,yes,130.43
+apartment,rohini,744.0,1,1.0,10.0,2,8,yes,fully-furnished,0.84,5,1638.0,yes,yes,63.65
+independent house,rohini,1665.0,3,2.0,27.0,11,19,yes,fully-furnished,1.32,3,4222.0,yes,no,137.72
+builder floor,rohini,610.0,2,2.0,8.0,2,3,yes,fully-furnished,1.21,2,1326.0,yes,yes,81.63
+builder floor,gurugram,1108.0,1,1.0,25.0,0,2,no,semi-furnished,1.54,1,3460.0,yes,yes,113.04
+apartment,rohini,1702.0,3,3.0,8.0,10,11,yes,fully-furnished,1.67,2,2712.0,no,yes,130.8
+builder floor,rohini,425.0,1,1.0,4.0,5,20,yes,fully-furnished,1.22,4,625.0,yes,yes,67.48
+apartment,noida,2451.0,6,5.0,,2,20,no,semi-furnished,0.67,0,5140.0,yes,yes,181.75
+builder floor,uttam nagar,878.0,3,2.0,13.0,10,14,no,unfurnished,3.75,2,2936.0,yes,no,62.86
+apartment,noida,1114.0,3,3.0,16.0,3,16,no,fully-furnished,1.73,1,3052.0,no,yes,98.55
+apartment,uttam nagar,1335.0,3,4.0,1.0,13,17,yes,unfurnished,2.11,2,3412.0,yes,yes,110.48
+apartment,noida,1424.0,2,2.0,9.0,17,17,no,semi-furnished,1.22,0,2932.0,no,no,97.41
+apartment,uttam nagar,1178.0,3,3.0,39.0,13,19,yes,semi-furnished,7.8,3,2179.0,yes,no,80.77
+apartment,janakpuri,1596.0,5,4.0,8.0,2,2,yes,semi-furnished,1.85,4,5274.0,no,yes,132.11
+builder floor,paschim vihar,1306.0,4,5.0,22.0,5,11,no,unfurnished,3.89,3,2794.0,no,no,105.55
+apartment,janakpuri,2200.0,5,5.0,55.0,7,21,no,semi-furnished,1.33,3,6082.0,no,yes,147.18
+builder floor,pitampura,1308.0,2,2.0,44.0,7,12,no,unfurnished,2.57,4,3902.0,yes,yes,123.67
+apartment,janakpuri,2396.0,5,5.0,5.0,2,5,yes,fully-furnished,1.49,2,6341.0,yes,yes,175.97
+builder floor,rohini,1533.0,5,5.0,21.0,15,17,yes,unfurnished,3.45,1,2624.0,yes,yes,122.34
+builder floor,noida,492.0,1,1.0,22.0,4,8,yes,semi-furnished,1.11,3,902.0,no,yes,65.14
+apartment,dwarka,3144.0,6,5.0,19.0,6,13,yes,fully-furnished,0.59,4,3932.0,yes,yes,246.64
+builder floor,rohini,825.0,3,2.0,4.0,9,13,yes,unfurnished,2.1,3,2749.0,no,yes,108.3
+independent house,dwarka,1968.0,4,4.0,14.0,3,18,no,unfurnished,3.62,3,5975.0,no,yes,158.01
+builder floor,noida,1062.0,2,2.0,14.0,13,23,yes,semi-furnished,1.52,1,2218.0,yes,no,107.56
+apartment,pitampura,1640.0,5,5.0,4.0,13,17,yes,unfurnished,1.08,1,5188.0,no,yes,147.06
+apartment,paschim vihar,786.0,2,3.0,10.0,19,24,yes,unfurnished,0.49,1,1209.0,yes,yes,88.86
+builder floor,noida,1366.0,3,2.0,15.0,0,2,no,semi-furnished,3.66,3,1766.0,no,yes,116.51
+apartment,rohini,944.0,1,1.0,11.0,1,20,yes,fully-furnished,0.77,2,1414.0,yes,yes,70.38
+builder floor,paschim vihar,2038.0,6,,20.0,2,11,yes,semi-furnished,1.2,3,6406.0,no,yes,174.8
+apartment,dwarka,1262.0,3,2.0,9.0,15,18,yes,semi-furnished,1.18,2,1960.0,no,yes,119.43
+builder floor,dwarka,1556.0,5,5.0,13.0,1,3,no,fully-furnished,1.62,2,2100.0,no,yes,134.33
+apartment,paschim vihar,423.0,2,2.0,23.0,0,14,no,semi-furnished,2.56,0,680.0,yes,yes,62.94
+apartment,gurugram,1013.0,2,2.0,36.0,1,2,yes,semi-furnished,6.29,5,2141.0,no,yes,77.55
+independent house,dwarka,1248.0,3,2.0,4.0,15,17,yes,semi-furnished,2.17,5,2861.0,no,yes,136.37
+builder floor,uttam nagar,1153.0,4,4.0,19.0,1,6,yes,semi-furnished,0.49,2,1982.0,no,yes,114.74
+builder floor,dwarka,1572.0,5,5.0,8.0,0,5,no,semi-furnished,1.56,2,4673.0,no,yes,138.4
+independent house,uttam nagar,900.0,1,1.0,16.0,0,3,no,semi-furnished,2.2,0,2980.0,no,no,65.94
+apartment,uttam nagar,1072.0,3,3.0,4.0,1,8,yes,unfurnished,4.09,1,1972.0,yes,yes,67.88

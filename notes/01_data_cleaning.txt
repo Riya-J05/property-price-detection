@@ -1,0 +1,50 @@
+Categorization of Independent Columns
+1. Numerical
+    - area_sqft
+    - bedrooms
+    - bathrooms
+    - age_years
+    - floor
+    - total_floors
+    - distance_to_metro_km
+    - nearby_schools
+    - monthly_maintenance_inr
+
+2. Categorical
+    - property_type
+    - location
+    - parking
+    - furnishing
+    - has_gym
+    - has_security
+
+Dependent Column => price_lakhs => Numerical -> Regression!
+
+
+
+Null Values 
+    - area_sqft: 45
+    - bathrooms: 32
+    - age_years: 45
+    - furnishing: 63
+    - distance_to_metro_km: 54 
+    - monthly_maintenance_inr: 45
+    - has_gym: 27
+
+
+
+Consistency Issues
+    - location (Rohini, rohini, Noida, NOIDA, etc.)
+    - parking (Yes, yes, No, no)
+    - furnishing (Semi-Furnished, semi furnished, etc.)
+
+
+
+Unusually large Values
+    - area_sqft
+        - larger than 10,000 sqft -> flagged!
+        - indices (601, 791, 1001, 1699)
+        
+    - monthly_maintenance_inr:
+        - larger than 50,000 inr -> flagged!
+        - indices (280, 1047, 1301, 1393)
